@@ -11,6 +11,8 @@ sales performance, automated reporting, demand forecasting, and market intellige
 Master of Business Analytics candidate at Victoria University with hands-on experience
 delivering data solutions across education, operations, and business strategy.
 
+**Status:** Open to Data Analyst, BI Analyst, Reporting Analyst and Business Analyst roles in Melbourne.
+
 **Contact:** dhwanishah1098@gmail.com · [LinkedIn](https://linkedin.com/in/shahdhwani98) · [GitHub](https://github.com/dhwanishah1098)
 
 ---
