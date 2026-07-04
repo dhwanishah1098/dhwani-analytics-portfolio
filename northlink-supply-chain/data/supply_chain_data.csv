@@ -1,0 +1,1201 @@
+order_id,date,supplier,category,warehouse,order_qty,unit_cost,order_value,lead_time_days,expected_lead_days,on_time_delivery,defect_qty,defect_rate
+ORD0000,2025-07-13,FreshFarm Co,Produce,Dandenong,122,3.5,409.35,3,2,1,8,0.08
+ORD0001,2025-07-26,Pacific Produce,Produce,Dandenong,478,3.5,1655.09,2,2,1,13,0.13
+ORD0002,2025-07-05,Pacific Produce,Produce,Laverton,301,3.5,1027.68,3,2,1,5,0.05
+ORD0003,2025-11-24,Pacific Produce,Produce,Dandenong,245,3.5,878.97,1,2,1,7,0.07
+ORD0004,2025-07-06,Pacific Produce,Produce,Tullamarine,329,3.5,1136.06,4,2,0,16,0.16
+ORD0005,2025-08-07,VicGreens,Produce,Laverton,406,3.5,1414.3,1,2,1,4,0.04
+ORD0006,2025-10-06,Pacific Produce,Produce,Tullamarine,379,3.5,1284.11,2,2,1,18,0.18
+ORD0007,2025-06-17,Pacific Produce,Produce,Dandenong,253,3.5,877.96,3,2,1,12,0.12
+ORD0008,2025-07-19,BakeryDirect,Bakery,Tullamarine,449,2.8,1213.67,1,1,1,3,0.03
+ORD0009,2025-07-10,ColdChain Dairy,Dairy,Tullamarine,265,4.2,1130.72,1,1,1,6,0.06
+ORD0010,2025-09-09,DrinksCo,Beverages,Tullamarine,94,1.9,181.86,4,4,1,2,0.02
+ORD0011,2025-10-13,FreshFarm Co,Produce,Tullamarine,264,3.5,920.25,1,2,1,10,0.1
+ORD0012,2025-08-16,Aussie Meats,Meat,Dandenong,385,12.0,4561.14,2,2,1,11,0.11
+ORD0013,2025-08-16,Pacific Produce,Produce,Dandenong,199,3.5,716.47,3,2,1,12,0.12
+ORD0014,2025-10-19,FreshFarm Co,Produce,Tullamarine,297,3.5,1066.3,1,2,1,10,0.1
+ORD0015,2025-08-22,FreshFarm Co,Produce,Tullamarine,449,3.5,1620.73,3,2,1,4,0.04
+ORD0016,2025-10-21,SeaFresh,Frozen,Laverton,474,6.5,3094.64,4,3,1,4,0.04
+ORD0017,2025-06-14,FreshFarm Co,Produce,Dandenong,280,3.5,984.95,1,2,1,3,0.03
+ORD0018,2025-07-29,Aussie Meats,Meat,Tullamarine,305,12.0,3829.28,2,2,1,7,0.07
+ORD0019,2025-11-27,FreshFarm Co,Produce,Tullamarine,150,3.5,523.05,2,2,1,7,0.07
+ORD0020,2025-11-24,Aussie Meats,Meat,Laverton,94,12.0,1130.79,3,2,1,16,0.16
+ORD0021,2025-08-09,ColdChain Dairy,Dairy,Tullamarine,210,4.2,925.44,1,1,0,2,0.02
+ORD0022,2025-08-18,Aussie Meats,Meat,Tullamarine,364,12.0,4231.56,1,2,0,8,0.08
+ORD0023,2025-11-08,FreshFarm Co,Produce,Tullamarine,117,3.5,417.43,1,2,1,5,0.05
+ORD0024,2025-10-23,Pacific Produce,Produce,Dandenong,414,3.5,1422.49,3,2,1,8,0.08
+ORD0025,2025-10-29,BakeryDirect,Bakery,Dandenong,230,2.8,625.08,1,1,1,2,0.02
+ORD0026,2025-10-29,SeaFresh,Frozen,Tullamarine,199,6.5,1334.98,3,3,1,5,0.05
+ORD0027,2025-11-22,VicGreens,Produce,Dandenong,207,3.5,725.35,1,2,1,9,0.09
+ORD0028,2025-10-12,FreshFarm Co,Produce,Dandenong,66,3.5,241.94,3,2,1,2,0.02
+ORD0029,2025-08-26,Pacific Produce,Produce,Tullamarine,240,3.5,866.77,2,2,1,7,0.07
+ORD0030,2025-07-07,Pacific Produce,Produce,Tullamarine,317,3.5,1103.38,2,2,1,9,0.09
+ORD0031,2025-08-26,Pacific Produce,Produce,Dandenong,176,3.5,633.58,2,2,1,12,0.12
+ORD0032,2025-09-12,ColdChain Dairy,Dairy,Tullamarine,493,4.2,2142.43,1,1,0,3,0.03
+ORD0033,2025-08-21,BakeryDirect,Bakery,Tullamarine,174,2.8,477.97,1,1,0,3,0.03
+ORD0034,2025-08-02,DrinksCo,Beverages,Tullamarine,244,1.9,442.06,5,4,1,2,0.02
+ORD0035,2025-10-03,ColdChain Dairy,Dairy,Laverton,287,4.2,1232.64,1,1,1,2,0.02
+ORD0036,2025-11-12,FreshFarm Co,Produce,Dandenong,474,3.5,1690.8,1,2,1,7,0.07
+ORD0037,2025-10-26,Pacific Produce,Produce,Tullamarine,224,3.5,815.68,1,2,1,16,0.16
+ORD0038,2025-07-05,Pacific Produce,Produce,Laverton,130,3.5,445.65,3,2,0,16,0.16
+ORD0039,2025-06-03,SnackHouse,Snacks,Tullamarine,284,2.1,582.82,5,5,1,2,0.02
+ORD0040,2025-11-10,FreshFarm Co,Produce,Tullamarine,208,3.5,708.79,1,2,1,10,0.1
+ORD0041,2025-11-04,FreshFarm Co,Produce,Laverton,213,3.5,755.09,2,2,0,7,0.07
+ORD0042,2025-06-12,SeaFresh,Frozen,Dandenong,293,6.5,1941.83,5,3,0,10,0.1
+ORD0043,2025-10-15,FreshFarm Co,Produce,Tullamarine,360,3.5,1218.32,1,2,1,8,0.08
+ORD0044,2025-06-29,BakeryDirect,Bakery,Tullamarine,290,2.8,814.47,1,1,1,1,0.01
+ORD0045,2025-06-08,Pacific Produce,Produce,Laverton,305,3.5,1094.02,3,2,1,5,0.05
+ORD0046,2025-09-29,SeaFresh,Frozen,Tullamarine,71,6.5,440.33,3,3,1,11,0.11
+ORD0047,2025-11-11,BakeryDirect,Bakery,Tullamarine,276,2.8,776.37,1,1,1,5,0.05
+ORD0048,2025-08-06,Aussie Meats,Meat,Dandenong,308,12.0,3819.05,2,2,1,6,0.06
+ORD0049,2025-11-04,VicGreens,Produce,Dandenong,390,3.5,1407.03,2,2,1,9,0.09
+ORD0050,2025-11-19,VicGreens,Produce,Dandenong,92,3.5,317.38,2,2,1,12,0.12
+ORD0051,2025-09-25,BakeryDirect,Bakery,Tullamarine,341,2.8,950.01,1,1,1,3,0.03
+ORD0052,2025-08-28,VicGreens,Produce,Tullamarine,393,3.5,1353.83,1,2,1,3,0.03
+ORD0053,2025-08-29,FreshFarm Co,Produce,Laverton,102,3.5,364.67,2,2,1,8,0.08
+ORD0054,2025-09-17,SeaFresh,Frozen,Tullamarine,112,6.5,756.76,2,3,1,1,0.01
+ORD0055,2025-11-30,Pacific Produce,Produce,Tullamarine,166,3.5,558.47,2,2,1,6,0.06
+ORD0056,2025-06-27,DrinksCo,Beverages,Tullamarine,269,1.9,526.72,5,4,1,5,0.05
+ORD0057,2025-09-06,Pacific Produce,Produce,Dandenong,497,3.5,1710.31,1,2,1,12,0.12
+ORD0058,2025-08-05,SnackHouse,Snacks,Laverton,456,2.1,930.87,6,5,1,2,0.02
+ORD0059,2025-06-03,Pacific Produce,Produce,Tullamarine,126,3.5,429.92,2,2,1,8,0.08
+ORD0060,2025-07-10,Pacific Produce,Produce,Dandenong,186,3.5,650.24,3,2,1,14,0.14
+ORD0061,2025-06-03,VicGreens,Produce,Dandenong,313,3.5,1139.11,1,2,1,5,0.05
+ORD0062,2025-10-11,SnackHouse,Snacks,Dandenong,289,2.1,606.18,6,5,1,1,0.01
+ORD0063,2025-06-26,SeaFresh,Frozen,Laverton,461,6.5,2936.31,5,3,0,4,0.04
+ORD0064,2025-09-10,FreshFarm Co,Produce,Tullamarine,52,3.5,186.19,2,2,1,4,0.04
+ORD0065,2025-07-22,FreshFarm Co,Produce,Tullamarine,331,3.5,1209.06,2,2,1,11,0.11
+ORD0066,2025-08-04,SeaFresh,Frozen,Tullamarine,314,6.5,1962.06,4,3,1,9,0.09
+ORD0067,2025-06-10,ColdChain Dairy,Dairy,Laverton,81,4.2,334.67,1,1,1,1,0.01
+ORD0068,2025-11-14,GrocerPlus,Snacks,Tullamarine,183,2.1,379.66,6,5,1,5,0.05
+ORD0069,2025-11-15,VicGreens,Produce,Dandenong,418,3.5,1529.74,1,2,0,5,0.05
+ORD0070,2025-06-17,ColdChain Dairy,Dairy,Tullamarine,227,4.2,936.53,1,1,1,0,0.0
+ORD0071,2025-06-01,ColdChain Dairy,Dairy,Tullamarine,478,4.2,2041.5,2,1,1,3,0.03
+ORD0072,2025-11-20,VicGreens,Produce,Dandenong,453,3.5,1526.22,2,2,1,7,0.07
+ORD0073,2025-10-21,VicGreens,Produce,Tullamarine,471,3.5,1713.2,1,2,1,14,0.14
+ORD0074,2025-07-01,DrinksCo,Beverages,Dandenong,372,1.9,672.55,6,4,0,1,0.01
+ORD0075,2025-11-15,BakeryDirect,Bakery,Laverton,130,2.8,361.68,1,1,1,2,0.02
+ORD0076,2025-11-02,SeaFresh,Frozen,Tullamarine,343,6.5,2202.72,3,3,1,8,0.08
+ORD0077,2025-07-19,BakeryDirect,Bakery,Tullamarine,179,2.8,486.58,1,1,1,7,0.07
+ORD0078,2025-07-02,VicGreens,Produce,Dandenong,200,3.5,716.35,1,2,1,4,0.04
+ORD0079,2025-10-07,Aussie Meats,Meat,Dandenong,378,12.0,4515.35,1,2,1,5,0.05
+ORD0080,2025-06-03,Pacific Produce,Produce,Laverton,242,3.5,827.17,3,2,1,10,0.1
+ORD0081,2025-07-18,ColdChain Dairy,Dairy,Tullamarine,438,4.2,1827.73,1,1,1,2,0.02
+ORD0082,2025-09-21,DrinksCo,Beverages,Tullamarine,377,1.9,716.78,4,4,1,2,0.02
+ORD0083,2025-10-16,DrinksCo,Beverages,Laverton,95,1.9,172.99,6,4,0,3,0.03
+ORD0084,2025-07-09,FreshFarm Co,Produce,Tullamarine,383,3.5,1353.64,1,2,1,8,0.08
+ORD0085,2025-11-11,ColdChain Dairy,Dairy,Tullamarine,51,4.2,217.1,1,1,1,2,0.02
+ORD0086,2025-08-03,DrinksCo,Beverages,Laverton,416,1.9,820.07,6,4,0,1,0.01
+ORD0087,2025-07-12,VicGreens,Produce,Laverton,426,3.5,1522.09,1,2,1,5,0.05
+ORD0088,2025-06-09,GrocerPlus,Snacks,Tullamarine,99,2.1,203.01,7,5,0,3,0.03
+ORD0089,2025-08-02,Pacific Produce,Produce,Laverton,305,3.5,1074.54,4,2,0,13,0.13
+ORD0090,2025-11-11,FreshFarm Co,Produce,Tullamarine,162,3.5,547.3,2,2,1,8,0.08
+ORD0091,2025-08-18,FreshFarm Co,Produce,Tullamarine,260,3.5,944.51,1,2,1,5,0.05
+ORD0092,2025-07-07,VicGreens,Produce,Tullamarine,152,3.5,510.76,1,2,1,9,0.09
+ORD0093,2025-11-01,BakeryDirect,Bakery,Laverton,154,2.8,445.06,1,1,1,5,0.05
+ORD0094,2025-08-01,Pacific Produce,Produce,Dandenong,285,3.5,1004.93,2,2,1,9,0.09
+ORD0095,2025-09-03,SeaFresh,Frozen,Tullamarine,342,6.5,2125.01,4,3,1,2,0.02
+ORD0096,2025-07-31,SnackHouse,Snacks,Tullamarine,54,2.1,112.07,4,5,0,3,0.03
+ORD0097,2025-08-11,FreshFarm Co,Produce,Tullamarine,372,3.5,1306.71,1,2,1,13,0.13
+ORD0098,2025-09-12,VicGreens,Produce,Dandenong,426,3.5,1428.52,2,2,1,5,0.05
+ORD0099,2025-08-14,ColdChain Dairy,Dairy,Tullamarine,322,4.2,1377.53,1,1,1,3,0.03
+ORD0100,2025-11-19,VicGreens,Produce,Laverton,197,3.5,673.52,3,2,1,7,0.07
+ORD0101,2025-10-26,BakeryDirect,Bakery,Dandenong,271,2.8,751.02,1,1,1,4,0.04
+ORD0102,2025-08-31,Aussie Meats,Meat,Tullamarine,76,12.0,896.61,2,2,1,3,0.03
+ORD0103,2025-08-19,FreshFarm Co,Produce,Dandenong,324,3.5,1142.62,1,2,1,6,0.06
+ORD0104,2025-06-12,ColdChain Dairy,Dairy,Tullamarine,210,4.2,915.12,1,1,1,6,0.06
+ORD0105,2025-07-23,VicGreens,Produce,Tullamarine,421,3.5,1469.25,1,2,1,7,0.07
+ORD0106,2025-06-15,FreshFarm Co,Produce,Dandenong,255,3.5,907.86,1,2,1,7,0.07
+ORD0107,2025-08-29,BakeryDirect,Bakery,Dandenong,326,2.8,947.65,1,1,0,3,0.03
+ORD0108,2025-07-28,BakeryDirect,Bakery,Tullamarine,79,2.8,224.03,1,1,1,6,0.06
+ORD0109,2025-10-13,SnackHouse,Snacks,Dandenong,147,2.1,315.75,6,5,1,0,0.0
+ORD0110,2025-10-02,Pacific Produce,Produce,Dandenong,216,3.5,773.9,3,2,1,9,0.09
+ORD0111,2025-09-06,FreshFarm Co,Produce,Tullamarine,320,3.5,1157.7,1,2,1,6,0.06
+ORD0112,2025-07-24,Pacific Produce,Produce,Tullamarine,95,3.5,344.86,2,2,1,11,0.11
+ORD0113,2025-10-13,ColdChain Dairy,Dairy,Laverton,370,4.2,1549.69,2,1,1,4,0.04
+ORD0114,2025-07-20,DrinksCo,Beverages,Tullamarine,279,1.9,542.41,5,4,1,5,0.05
+ORD0115,2025-08-20,ColdChain Dairy,Dairy,Tullamarine,50,4.2,211.03,1,1,1,4,0.04
+ORD0116,2025-07-23,FreshFarm Co,Produce,Tullamarine,56,3.5,198.96,2,2,1,8,0.08
+ORD0117,2025-08-19,Aussie Meats,Meat,Dandenong,193,12.0,2422.56,2,2,1,6,0.06
+ORD0118,2025-09-13,VicGreens,Produce,Dandenong,181,3.5,659.76,2,2,1,6,0.06
+ORD0119,2025-06-19,GrocerPlus,Snacks,Dandenong,290,2.1,599.95,6,5,1,2,0.02
+ORD0120,2025-10-31,SeaFresh,Frozen,Tullamarine,355,6.5,2371.77,4,3,1,7,0.07
+ORD0121,2025-10-30,DrinksCo,Beverages,Dandenong,252,1.9,476.47,4,4,1,2,0.02
+ORD0122,2025-08-07,SnackHouse,Snacks,Dandenong,333,2.1,706.16,6,5,1,2,0.02
+ORD0123,2025-08-09,FreshFarm Co,Produce,Dandenong,72,3.5,264.2,2,2,1,10,0.1
+ORD0124,2025-10-29,Aussie Meats,Meat,Tullamarine,119,12.0,1498.12,2,2,1,9,0.09
+ORD0125,2025-10-02,VicGreens,Produce,Dandenong,384,3.5,1349.84,1,2,1,5,0.05
+ORD0126,2025-11-25,Pacific Produce,Produce,Dandenong,143,3.5,516.81,2,2,1,13,0.13
+ORD0127,2025-11-14,Aussie Meats,Meat,Tullamarine,387,12.0,4578.49,1,2,1,5,0.05
+ORD0128,2025-08-27,FreshFarm Co,Produce,Dandenong,150,3.5,524.2,1,2,1,8,0.08
+ORD0129,2025-07-09,Aussie Meats,Meat,Tullamarine,189,12.0,2194.51,2,2,1,6,0.06
+ORD0130,2025-09-18,Aussie Meats,Meat,Tullamarine,214,12.0,2452.02,2,2,1,7,0.07
+ORD0131,2025-06-30,SeaFresh,Frozen,Tullamarine,463,6.5,3065.52,4,3,1,7,0.07
+ORD0132,2025-08-16,BakeryDirect,Bakery,Dandenong,322,2.8,930.79,1,1,1,2,0.02
+ORD0133,2025-11-07,BakeryDirect,Bakery,Tullamarine,264,2.8,766.22,1,1,1,1,0.01
+ORD0134,2025-10-16,SeaFresh,Frozen,Tullamarine,227,6.5,1449.91,4,3,1,4,0.04
+ORD0135,2025-09-01,FreshFarm Co,Produce,Dandenong,398,3.5,1331.11,2,2,1,7,0.07
+ORD0136,2025-06-01,FreshFarm Co,Produce,Dandenong,295,3.5,1083.49,3,2,0,4,0.04
+ORD0137,2025-06-21,SeaFresh,Frozen,Tullamarine,252,6.5,1576.75,5,3,0,6,0.06
+ORD0138,2025-10-21,SnackHouse,Snacks,Tullamarine,264,2.1,530.21,5,5,1,2,0.02
+ORD0139,2025-06-24,Aussie Meats,Meat,Tullamarine,221,12.0,2747.63,2,2,1,4,0.04
+ORD0140,2025-09-13,DrinksCo,Beverages,Tullamarine,134,1.9,245.55,5,4,1,2,0.02
+ORD0141,2025-07-17,VicGreens,Produce,Dandenong,441,3.5,1585.13,2,2,1,5,0.05
+ORD0142,2025-09-29,Pacific Produce,Produce,Dandenong,248,3.5,837.7,2,2,0,9,0.09
+ORD0143,2025-07-19,BakeryDirect,Bakery,Laverton,189,2.8,554.78,1,1,1,4,0.04
+ORD0144,2025-09-26,FreshFarm Co,Produce,Tullamarine,115,3.5,383.32,2,2,1,8,0.08
+ORD0145,2025-08-03,ColdChain Dairy,Dairy,Laverton,236,4.2,1016.93,1,1,1,0,0.0
+ORD0146,2025-11-12,SeaFresh,Frozen,Laverton,338,6.5,2292.54,5,3,0,6,0.06
+ORD0147,2025-06-15,Pacific Produce,Produce,Laverton,167,3.5,587.88,2,2,1,7,0.07
+ORD0148,2025-08-29,VicGreens,Produce,Laverton,475,3.5,1631.07,1,2,1,4,0.04
+ORD0149,2025-09-24,FreshFarm Co,Produce,Tullamarine,420,3.5,1427.29,1,2,1,9,0.09
+ORD0150,2025-06-10,FreshFarm Co,Produce,Dandenong,296,3.5,1020.08,2,2,1,12,0.12
+ORD0151,2025-10-12,FreshFarm Co,Produce,Dandenong,105,3.5,358.73,3,2,1,2,0.02
+ORD0152,2025-06-13,Pacific Produce,Produce,Tullamarine,308,3.5,1036.69,2,2,0,13,0.13
+ORD0153,2025-11-23,FreshFarm Co,Produce,Dandenong,265,3.5,963.61,1,2,1,9,0.09
+ORD0154,2025-07-05,FreshFarm Co,Produce,Laverton,439,3.5,1503.91,3,2,1,9,0.09
+ORD0155,2025-08-08,Pacific Produce,Produce,Dandenong,78,3.5,263.85,4,2,0,8,0.08
+ORD0156,2025-09-12,VicGreens,Produce,Dandenong,331,3.5,1199.51,1,2,1,10,0.1
+ORD0157,2025-10-07,VicGreens,Produce,Tullamarine,285,3.5,1037.93,3,2,1,9,0.09
+ORD0158,2025-07-13,SnackHouse,Snacks,Dandenong,151,2.1,314.35,6,5,1,1,0.01
+ORD0159,2025-06-18,BakeryDirect,Bakery,Dandenong,331,2.8,956.07,1,1,1,2,0.02
+ORD0160,2025-11-30,BakeryDirect,Bakery,Tullamarine,162,2.8,440.29,1,1,1,2,0.02
+ORD0161,2025-09-23,FreshFarm Co,Produce,Dandenong,363,3.5,1318.93,2,2,1,5,0.05
+ORD0162,2025-07-04,FreshFarm Co,Produce,Dandenong,178,3.5,648.04,2,2,1,8,0.08
+ORD0163,2025-11-12,VicGreens,Produce,Tullamarine,452,3.5,1509.55,1,2,1,6,0.06
+ORD0164,2025-11-12,Pacific Produce,Produce,Tullamarine,335,3.5,1226.17,2,2,1,9,0.09
+ORD0165,2025-08-21,Pacific Produce,Produce,Tullamarine,460,3.5,1641.84,2,2,1,7,0.07
+ORD0166,2025-06-02,FreshFarm Co,Produce,Laverton,244,3.5,881.39,1,2,0,9,0.09
+ORD0167,2025-07-21,BakeryDirect,Bakery,Dandenong,138,2.8,400.21,1,1,1,5,0.05
+ORD0168,2025-10-09,SnackHouse,Snacks,Laverton,217,2.1,454.94,6,5,1,3,0.03
+ORD0169,2025-06-07,DrinksCo,Beverages,Dandenong,421,1.9,830.42,5,4,0,1,0.01
+ORD0170,2025-11-27,FreshFarm Co,Produce,Dandenong,278,3.5,967.99,1,2,1,5,0.05
+ORD0171,2025-11-10,Aussie Meats,Meat,Tullamarine,360,12.0,4297.9,3,2,1,7,0.07
+ORD0172,2025-06-27,FreshFarm Co,Produce,Tullamarine,130,3.5,446.88,2,2,1,7,0.07
+ORD0173,2025-07-16,ColdChain Dairy,Dairy,Dandenong,472,4.2,1925.44,1,1,1,8,0.08
+ORD0174,2025-10-14,FreshFarm Co,Produce,Tullamarine,314,3.5,1137.05,2,2,1,9,0.09
+ORD0175,2025-11-09,FreshFarm Co,Produce,Tullamarine,86,3.5,308.22,1,2,1,8,0.08
+ORD0176,2025-07-24,SeaFresh,Frozen,Laverton,419,6.5,2859.04,5,3,0,8,0.08
+ORD0177,2025-08-17,ColdChain Dairy,Dairy,Tullamarine,360,4.2,1475.27,1,1,1,1,0.01
+ORD0178,2025-06-21,ColdChain Dairy,Dairy,Dandenong,408,4.2,1686.96,1,1,1,5,0.05
+ORD0179,2025-10-01,GrocerPlus,Snacks,Tullamarine,477,2.1,1026.99,7,5,0,4,0.04
+ORD0180,2025-07-27,Pacific Produce,Produce,Dandenong,134,3.5,485.29,2,2,0,12,0.12
+ORD0181,2025-10-07,ColdChain Dairy,Dairy,Tullamarine,163,4.2,676.81,1,1,1,2,0.02
+ORD0182,2025-10-16,FreshFarm Co,Produce,Tullamarine,141,3.5,476.95,2,2,0,8,0.08
+ORD0183,2025-11-19,Pacific Produce,Produce,Tullamarine,332,3.5,1128.64,2,2,1,9,0.09
+ORD0184,2025-09-17,Pacific Produce,Produce,Laverton,60,3.5,216.5,3,2,1,8,0.08
+ORD0185,2025-07-05,BakeryDirect,Bakery,Tullamarine,330,2.8,941.97,1,1,1,3,0.03
+ORD0186,2025-09-30,FreshFarm Co,Produce,Dandenong,105,3.5,379.55,2,2,1,12,0.12
+ORD0187,2025-08-31,SeaFresh,Frozen,Dandenong,341,6.5,2180.02,3,3,0,7,0.07
+ORD0188,2025-09-01,VicGreens,Produce,Tullamarine,340,3.5,1248.16,1,2,1,6,0.06
+ORD0189,2025-07-13,SnackHouse,Snacks,Dandenong,481,2.1,1003.85,7,5,0,2,0.02
+ORD0190,2025-07-28,Aussie Meats,Meat,Laverton,73,12.0,884.4,2,2,1,6,0.06
+ORD0191,2025-09-22,ColdChain Dairy,Dairy,Dandenong,363,4.2,1541.14,1,1,0,2,0.02
+ORD0192,2025-11-18,BakeryDirect,Bakery,Tullamarine,402,2.8,1093.07,2,1,1,5,0.05
+ORD0193,2025-08-21,BakeryDirect,Bakery,Laverton,72,2.8,205.15,1,1,0,5,0.05
+ORD0194,2025-10-13,ColdChain Dairy,Dairy,Laverton,90,4.2,379.41,1,1,1,4,0.04
+ORD0195,2025-06-30,Pacific Produce,Produce,Tullamarine,314,3.5,1123.97,2,2,1,12,0.12
+ORD0196,2025-10-02,DrinksCo,Beverages,Dandenong,488,1.9,952.63,5,4,0,2,0.02
+ORD0197,2025-11-30,SeaFresh,Frozen,Tullamarine,399,6.5,2486.19,4,3,1,6,0.06
+ORD0198,2025-09-05,BakeryDirect,Bakery,Tullamarine,222,2.8,632.22,1,1,1,3,0.03
+ORD0199,2025-08-02,BakeryDirect,Bakery,Tullamarine,245,2.8,658.17,1,1,1,2,0.02
+ORD0200,2025-06-04,FreshFarm Co,Produce,Dandenong,173,3.5,596.14,1,2,1,9,0.09
+ORD0201,2025-08-19,BakeryDirect,Bakery,Laverton,425,2.8,1159.83,1,1,0,6,0.06
+ORD0202,2025-10-06,SnackHouse,Snacks,Laverton,218,2.1,466.63,7,5,0,5,0.05
+ORD0203,2025-07-02,VicGreens,Produce,Dandenong,198,3.5,714.76,1,2,1,6,0.06
+ORD0204,2025-07-14,Pacific Produce,Produce,Tullamarine,152,3.5,549.33,3,2,0,9,0.09
+ORD0205,2025-08-22,FreshFarm Co,Produce,Dandenong,259,3.5,916.12,2,2,1,10,0.1
+ORD0206,2025-08-14,DrinksCo,Beverages,Laverton,411,1.9,774.83,7,4,0,4,0.04
+ORD0207,2025-06-19,Aussie Meats,Meat,Dandenong,147,12.0,1761.86,2,2,1,7,0.07
+ORD0208,2025-10-09,Aussie Meats,Meat,Tullamarine,111,12.0,1288.05,2,2,1,7,0.07
+ORD0209,2025-08-05,SeaFresh,Frozen,Tullamarine,163,6.5,1054.45,2,3,0,5,0.05
+ORD0210,2025-07-27,FreshFarm Co,Produce,Laverton,226,3.5,778.23,2,2,1,9,0.09
+ORD0211,2025-08-15,Aussie Meats,Meat,Tullamarine,316,12.0,3801.31,2,2,1,11,0.11
+ORD0212,2025-06-20,DrinksCo,Beverages,Dandenong,365,1.9,720.15,5,4,1,2,0.02
+ORD0213,2025-07-31,Pacific Produce,Produce,Dandenong,68,3.5,249.55,2,2,1,7,0.07
+ORD0214,2025-10-31,Pacific Produce,Produce,Tullamarine,98,3.5,359.96,2,2,1,15,0.15
+ORD0215,2025-10-15,Pacific Produce,Produce,Laverton,235,3.5,782.39,3,2,1,13,0.13
+ORD0216,2025-11-25,Pacific Produce,Produce,Dandenong,324,3.5,1173.97,3,2,1,5,0.05
+ORD0217,2025-08-14,GrocerPlus,Snacks,Tullamarine,79,2.1,164.2,6,5,1,2,0.02
+ORD0218,2025-07-03,VicGreens,Produce,Dandenong,114,3.5,413.67,2,2,0,4,0.04
+ORD0219,2025-06-01,ColdChain Dairy,Dairy,Dandenong,227,4.2,917.94,2,1,1,2,0.02
+ORD0220,2025-09-26,Aussie Meats,Meat,Dandenong,400,12.0,4856.7,3,2,1,3,0.03
+ORD0221,2025-06-11,ColdChain Dairy,Dairy,Laverton,362,4.2,1571.74,1,1,0,6,0.06
+ORD0222,2025-09-17,FreshFarm Co,Produce,Laverton,186,3.5,636.44,2,2,1,6,0.06
+ORD0223,2025-08-04,VicGreens,Produce,Tullamarine,114,3.5,382.63,1,2,1,11,0.11
+ORD0224,2025-08-02,ColdChain Dairy,Dairy,Laverton,323,4.2,1340.66,1,1,1,4,0.04
+ORD0225,2025-06-11,VicGreens,Produce,Dandenong,437,3.5,1526.86,3,2,0,3,0.03
+ORD0226,2025-08-16,VicGreens,Produce,Dandenong,195,3.5,676.81,3,2,1,6,0.06
+ORD0227,2025-08-30,Aussie Meats,Meat,Tullamarine,478,12.0,5607.34,1,2,1,4,0.04
+ORD0228,2025-06-14,SnackHouse,Snacks,Tullamarine,345,2.1,754.22,5,5,1,2,0.02
+ORD0229,2025-06-11,FreshFarm Co,Produce,Tullamarine,157,3.5,538.78,1,2,1,9,0.09
+ORD0230,2025-08-04,FreshFarm Co,Produce,Dandenong,437,3.5,1453.18,2,2,1,3,0.03
+ORD0231,2025-10-14,FreshFarm Co,Produce,Tullamarine,484,3.5,1730.03,1,2,1,6,0.06
+ORD0232,2025-11-01,SeaFresh,Frozen,Tullamarine,82,6.5,549.73,4,3,1,6,0.06
+ORD0233,2025-08-06,Aussie Meats,Meat,Tullamarine,162,12.0,1958.4,1,2,0,9,0.09
+ORD0234,2025-07-29,VicGreens,Produce,Tullamarine,134,3.5,446.23,2,2,1,8,0.08
+ORD0235,2025-06-26,FreshFarm Co,Produce,Tullamarine,445,3.5,1564.4,1,2,0,9,0.09
+ORD0236,2025-09-24,DrinksCo,Beverages,Dandenong,316,1.9,625.98,5,4,1,3,0.03
+ORD0237,2025-07-04,DrinksCo,Beverages,Tullamarine,62,1.9,119.8,4,4,1,2,0.02
+ORD0238,2025-06-18,FreshFarm Co,Produce,Laverton,383,3.5,1329.86,2,2,1,8,0.08
+ORD0239,2025-11-01,BakeryDirect,Bakery,Dandenong,464,2.8,1243.67,1,1,1,0,0.0
+ORD0240,2025-07-28,VicGreens,Produce,Tullamarine,97,3.5,327.25,1,2,1,4,0.04
+ORD0241,2025-07-24,VicGreens,Produce,Dandenong,313,3.5,1138.44,1,2,1,9,0.09
+ORD0242,2025-10-31,Pacific Produce,Produce,Laverton,422,3.5,1455.72,3,2,1,16,0.16
+ORD0243,2025-11-15,VicGreens,Produce,Tullamarine,441,3.5,1576.34,1,2,1,10,0.1
+ORD0244,2025-10-17,SnackHouse,Snacks,Dandenong,452,2.1,964.69,7,5,0,2,0.02
+ORD0245,2025-08-16,Pacific Produce,Produce,Dandenong,402,3.5,1371.71,2,2,1,11,0.11
+ORD0246,2025-08-01,FreshFarm Co,Produce,Dandenong,287,3.5,1021.48,2,2,1,8,0.08
+ORD0247,2025-07-17,BakeryDirect,Bakery,Laverton,336,2.8,969.53,1,1,1,3,0.03
+ORD0248,2025-09-07,VicGreens,Produce,Tullamarine,360,3.5,1240.74,2,2,1,7,0.07
+ORD0249,2025-06-21,Pacific Produce,Produce,Laverton,322,3.5,1097.16,3,2,1,10,0.1
+ORD0250,2025-07-09,VicGreens,Produce,Tullamarine,287,3.5,1006.24,1,2,1,10,0.1
+ORD0251,2025-07-14,Aussie Meats,Meat,Tullamarine,182,12.0,2278.62,1,2,1,9,0.09
+ORD0252,2025-06-13,DrinksCo,Beverages,Tullamarine,460,1.9,900.29,5,4,1,1,0.01
+ORD0253,2025-08-04,FreshFarm Co,Produce,Dandenong,367,3.5,1255.67,2,2,1,9,0.09
+ORD0254,2025-09-15,ColdChain Dairy,Dairy,Dandenong,229,4.2,918.78,1,1,1,4,0.04
+ORD0255,2025-09-25,Pacific Produce,Produce,Tullamarine,264,3.5,884.36,2,2,1,12,0.12
+ORD0256,2025-07-03,Pacific Produce,Produce,Dandenong,366,3.5,1286.41,5,2,0,10,0.1
+ORD0257,2025-07-24,SnackHouse,Snacks,Dandenong,241,2.1,500.92,7,5,0,3,0.03
+ORD0258,2025-08-12,FreshFarm Co,Produce,Dandenong,351,3.5,1261.01,1,2,1,7,0.07
+ORD0259,2025-06-17,SeaFresh,Frozen,Dandenong,96,6.5,607.48,4,3,1,3,0.03
+ORD0260,2025-11-14,SeaFresh,Frozen,Dandenong,69,6.5,429.36,5,3,0,3,0.03
+ORD0261,2025-11-18,Aussie Meats,Meat,Tullamarine,259,12.0,3212.35,1,2,1,8,0.08
+ORD0262,2025-06-06,VicGreens,Produce,Dandenong,472,3.5,1695.57,2,2,0,7,0.07
+ORD0263,2025-07-31,VicGreens,Produce,Dandenong,118,3.5,433.44,1,2,0,6,0.06
+ORD0264,2025-10-15,Aussie Meats,Meat,Tullamarine,297,12.0,3551.55,3,2,1,6,0.06
+ORD0265,2025-08-16,ColdChain Dairy,Dairy,Tullamarine,90,4.2,363.04,1,1,1,5,0.05
+ORD0266,2025-08-17,VicGreens,Produce,Dandenong,291,3.5,998.52,1,2,0,10,0.1
+ORD0267,2025-10-04,VicGreens,Produce,Tullamarine,75,3.5,262.14,1,2,1,6,0.06
+ORD0268,2025-11-26,Pacific Produce,Produce,Laverton,291,3.5,976.54,3,2,1,8,0.08
+ORD0269,2025-09-05,GrocerPlus,Snacks,Tullamarine,417,2.1,836.09,6,5,0,0,0.0
+ORD0270,2025-09-04,Pacific Produce,Produce,Tullamarine,434,3.5,1521.55,1,2,1,6,0.06
+ORD0271,2025-11-27,Pacific Produce,Produce,Tullamarine,393,3.5,1350.24,2,2,1,6,0.06
+ORD0272,2025-09-07,GrocerPlus,Snacks,Laverton,345,2.1,735.26,7,5,0,3,0.03
+ORD0273,2025-11-23,FreshFarm Co,Produce,Dandenong,400,3.5,1390.71,4,2,0,2,0.02
+ORD0274,2025-06-05,FreshFarm Co,Produce,Tullamarine,192,3.5,702.48,2,2,1,4,0.04
+ORD0275,2025-10-20,GrocerPlus,Snacks,Dandenong,219,2.1,444.71,7,5,0,6,0.06
+ORD0276,2025-11-15,GrocerPlus,Snacks,Dandenong,328,2.1,678.79,5,5,0,0,0.0
+ORD0277,2025-11-18,BakeryDirect,Bakery,Tullamarine,367,2.8,1046.55,1,1,1,5,0.05
+ORD0278,2025-09-03,Aussie Meats,Meat,Tullamarine,73,12.0,834.91,1,2,1,4,0.04
+ORD0279,2025-08-22,DrinksCo,Beverages,Laverton,348,1.9,649.38,5,4,1,4,0.04
+ORD0280,2025-10-05,FreshFarm Co,Produce,Dandenong,289,3.5,1010.11,3,2,1,9,0.09
+ORD0281,2025-10-31,VicGreens,Produce,Tullamarine,367,3.5,1234.96,2,2,1,5,0.05
+ORD0282,2025-11-20,VicGreens,Produce,Dandenong,167,3.5,579.54,2,2,0,9,0.09
+ORD0283,2025-07-08,VicGreens,Produce,Tullamarine,150,3.5,551.11,1,2,1,6,0.06
+ORD0284,2025-08-19,SnackHouse,Snacks,Laverton,81,2.1,165.7,6,5,1,2,0.02
+ORD0285,2025-06-09,ColdChain Dairy,Dairy,Tullamarine,233,4.2,1007.08,1,1,1,0,0.0
+ORD0286,2025-06-19,FreshFarm Co,Produce,Tullamarine,80,3.5,287.11,2,2,0,14,0.14
+ORD0287,2025-11-10,FreshFarm Co,Produce,Tullamarine,196,3.5,677.59,2,2,1,7,0.07
+ORD0288,2025-07-01,ColdChain Dairy,Dairy,Dandenong,125,4.2,524.96,1,1,1,4,0.04
+ORD0289,2025-08-11,GrocerPlus,Snacks,Tullamarine,238,2.1,520.21,5,5,1,2,0.02
+ORD0290,2025-07-23,BakeryDirect,Bakery,Tullamarine,423,2.8,1226.38,1,1,1,5,0.05
+ORD0291,2025-07-17,FreshFarm Co,Produce,Dandenong,286,3.5,1008.64,1,2,1,6,0.06
+ORD0292,2025-07-19,SeaFresh,Frozen,Dandenong,224,6.5,1470.87,5,3,0,6,0.06
+ORD0293,2025-09-28,Aussie Meats,Meat,Dandenong,437,12.0,4998.02,4,2,0,6,0.06
+ORD0294,2025-06-03,FreshFarm Co,Produce,Tullamarine,194,3.5,680.63,1,2,1,7,0.07
+ORD0295,2025-07-04,BakeryDirect,Bakery,Dandenong,410,2.8,1201.75,1,1,1,5,0.05
+ORD0296,2025-09-08,FreshFarm Co,Produce,Tullamarine,276,3.5,965.22,2,2,0,7,0.07
+ORD0297,2025-09-16,FreshFarm Co,Produce,Tullamarine,266,3.5,894.94,1,2,1,6,0.06
+ORD0298,2025-10-01,GrocerPlus,Snacks,Dandenong,407,2.1,860.65,7,5,0,1,0.01
+ORD0299,2025-08-31,Aussie Meats,Meat,Tullamarine,57,12.0,667.47,1,2,1,5,0.05
+ORD0300,2025-07-27,FreshFarm Co,Produce,Tullamarine,146,3.5,489.26,2,2,0,11,0.11
+ORD0301,2025-09-09,SnackHouse,Snacks,Dandenong,154,2.1,324.73,6,5,1,2,0.02
+ORD0302,2025-10-20,ColdChain Dairy,Dairy,Tullamarine,456,4.2,1861.03,1,1,1,6,0.06
+ORD0303,2025-07-03,SnackHouse,Snacks,Tullamarine,373,2.1,785.38,5,5,1,1,0.01
+ORD0304,2025-08-28,GrocerPlus,Snacks,Tullamarine,381,2.1,774.64,6,5,0,2,0.02
+ORD0305,2025-09-10,Pacific Produce,Produce,Dandenong,491,3.5,1689.71,3,2,1,21,0.21
+ORD0306,2025-06-12,ColdChain Dairy,Dairy,Tullamarine,80,4.2,345.4,1,1,1,0,0.0
+ORD0307,2025-08-30,FreshFarm Co,Produce,Dandenong,480,3.5,1660.04,2,2,1,7,0.07
+ORD0308,2025-10-13,SeaFresh,Frozen,Laverton,276,6.5,1730.41,5,3,0,6,0.06
+ORD0309,2025-11-05,ColdChain Dairy,Dairy,Dandenong,63,4.2,267.59,1,1,1,8,0.08
+ORD0310,2025-06-23,Aussie Meats,Meat,Laverton,257,12.0,3008.94,2,2,1,6,0.06
+ORD0311,2025-10-18,Pacific Produce,Produce,Laverton,291,3.5,1009.32,3,2,1,7,0.07
+ORD0312,2025-08-19,BakeryDirect,Bakery,Laverton,253,2.8,684.5,1,1,1,1,0.01
+ORD0313,2025-07-08,BakeryDirect,Bakery,Dandenong,70,2.8,202.02,1,1,1,1,0.01
+ORD0314,2025-10-26,FreshFarm Co,Produce,Dandenong,74,3.5,252.62,2,2,1,9,0.09
+ORD0315,2025-08-01,VicGreens,Produce,Tullamarine,316,3.5,1068.02,1,2,1,10,0.1
+ORD0316,2025-09-08,Aussie Meats,Meat,Tullamarine,411,12.0,5170.04,1,2,1,7,0.07
+ORD0317,2025-10-25,VicGreens,Produce,Tullamarine,292,3.5,998.96,1,2,1,5,0.05
+ORD0318,2025-06-08,Pacific Produce,Produce,Dandenong,362,3.5,1305.95,4,2,0,16,0.16
+ORD0319,2025-06-11,Pacific Produce,Produce,Tullamarine,151,3.5,508.02,3,2,0,10,0.1
+ORD0320,2025-08-01,ColdChain Dairy,Dairy,Laverton,396,4.2,1736.72,1,1,1,4,0.04
+ORD0321,2025-07-06,GrocerPlus,Snacks,Laverton,351,2.1,710.6,8,5,0,3,0.03
+ORD0322,2025-06-14,BakeryDirect,Bakery,Dandenong,432,2.8,1186.49,1,1,1,2,0.02
+ORD0323,2025-06-15,DrinksCo,Beverages,Dandenong,365,1.9,689.88,6,4,0,5,0.05
+ORD0324,2025-06-30,FreshFarm Co,Produce,Dandenong,380,3.5,1346.08,2,2,1,11,0.11
+ORD0325,2025-08-31,Pacific Produce,Produce,Laverton,410,3.5,1481.62,3,2,1,11,0.11
+ORD0326,2025-08-17,Pacific Produce,Produce,Tullamarine,230,3.5,836.86,2,2,1,10,0.1
+ORD0327,2025-10-13,DrinksCo,Beverages,Laverton,190,1.9,356.51,4,4,1,1,0.01
+ORD0328,2025-10-05,Pacific Produce,Produce,Dandenong,113,3.5,387.55,3,2,1,6,0.06
+ORD0329,2025-09-25,ColdChain Dairy,Dairy,Tullamarine,333,4.2,1359.31,1,1,0,2,0.02
+ORD0330,2025-08-01,BakeryDirect,Bakery,Laverton,394,2.8,1093.18,1,1,1,6,0.06
+ORD0331,2025-08-04,FreshFarm Co,Produce,Dandenong,96,3.5,328.18,2,2,1,10,0.1
+ORD0332,2025-08-05,FreshFarm Co,Produce,Tullamarine,175,3.5,604.21,1,2,1,6,0.06
+ORD0333,2025-09-27,SeaFresh,Frozen,Dandenong,191,6.5,1234.99,3,3,1,8,0.08
+ORD0334,2025-10-23,Pacific Produce,Produce,Tullamarine,419,3.5,1518.24,2,2,1,13,0.13
+ORD0335,2025-08-22,Pacific Produce,Produce,Laverton,435,3.5,1562.28,3,2,1,9,0.09
+ORD0336,2025-10-07,DrinksCo,Beverages,Laverton,315,1.9,607.95,5,4,1,4,0.04
+ORD0337,2025-11-26,VicGreens,Produce,Tullamarine,482,3.5,1605.84,2,2,1,10,0.1
+ORD0338,2025-09-26,FreshFarm Co,Produce,Laverton,302,3.5,1025.71,1,2,1,6,0.06
+ORD0339,2025-07-30,DrinksCo,Beverages,Tullamarine,111,1.9,209.06,5,4,1,2,0.02
+ORD0340,2025-08-10,Pacific Produce,Produce,Laverton,274,3.5,911.07,1,2,1,12,0.12
+ORD0341,2025-10-21,Pacific Produce,Produce,Dandenong,471,3.5,1675.8,4,2,0,14,0.14
+ORD0342,2025-11-09,Pacific Produce,Produce,Tullamarine,171,3.5,621.8,2,2,1,12,0.12
+ORD0343,2025-08-04,Pacific Produce,Produce,Laverton,425,3.5,1426.48,1,2,1,14,0.14
+ORD0344,2025-10-19,ColdChain Dairy,Dairy,Tullamarine,169,4.2,722.5,1,1,0,5,0.05
+ORD0345,2025-06-01,FreshFarm Co,Produce,Tullamarine,67,3.5,246.22,1,2,0,13,0.13
+ORD0346,2025-09-02,FreshFarm Co,Produce,Laverton,121,3.5,406.49,2,2,0,11,0.11
+ORD0347,2025-10-03,ColdChain Dairy,Dairy,Tullamarine,480,4.2,2009.02,1,1,1,0,0.0
+ORD0348,2025-10-09,Pacific Produce,Produce,Tullamarine,74,3.5,265.08,1,2,1,12,0.12
+ORD0349,2025-08-19,BakeryDirect,Bakery,Laverton,246,2.8,687.81,1,1,0,3,0.03
+ORD0350,2025-07-06,Pacific Produce,Produce,Dandenong,407,3.5,1365.63,1,2,1,18,0.18
+ORD0351,2025-06-12,SeaFresh,Frozen,Dandenong,125,6.5,829.97,3,3,1,11,0.11
+ORD0352,2025-09-03,Pacific Produce,Produce,Tullamarine,400,3.5,1407.83,2,2,1,12,0.12
+ORD0353,2025-07-29,VicGreens,Produce,Tullamarine,277,3.5,945.37,1,2,1,6,0.06
+ORD0354,2025-07-06,FreshFarm Co,Produce,Tullamarine,208,3.5,761.04,1,2,1,4,0.04
+ORD0355,2025-11-20,SnackHouse,Snacks,Laverton,143,2.1,288.47,8,5,0,3,0.03
+ORD0356,2025-09-05,BakeryDirect,Bakery,Tullamarine,480,2.8,1317.8,1,1,1,3,0.03
+ORD0357,2025-08-30,VicGreens,Produce,Laverton,134,3.5,462.83,1,2,1,7,0.07
+ORD0358,2025-07-05,SeaFresh,Frozen,Dandenong,281,6.5,1767.33,5,3,0,7,0.07
+ORD0359,2025-08-23,DrinksCo,Beverages,Laverton,372,1.9,737.32,5,4,0,3,0.03
+ORD0360,2025-07-04,SnackHouse,Snacks,Dandenong,487,2.1,989.61,6,5,1,1,0.01
+ORD0361,2025-10-25,SnackHouse,Snacks,Tullamarine,415,2.1,849.89,5,5,1,3,0.03
+ORD0362,2025-08-13,Aussie Meats,Meat,Dandenong,290,12.0,3642.25,3,2,1,7,0.07
+ORD0363,2025-09-04,FreshFarm Co,Produce,Tullamarine,300,3.5,1074.7,1,2,1,7,0.07
+ORD0364,2025-07-28,SnackHouse,Snacks,Tullamarine,383,2.1,767.75,6,5,1,3,0.03
+ORD0365,2025-07-23,FreshFarm Co,Produce,Tullamarine,494,3.5,1808.28,1,2,1,10,0.1
+ORD0366,2025-10-06,SeaFresh,Frozen,Tullamarine,117,6.5,751.25,2,3,0,5,0.05
+ORD0367,2025-11-26,VicGreens,Produce,Tullamarine,456,3.5,1599.27,1,2,1,7,0.07
+ORD0368,2025-08-18,DrinksCo,Beverages,Tullamarine,227,1.9,441.1,4,4,1,4,0.04
+ORD0369,2025-11-05,DrinksCo,Beverages,Tullamarine,206,1.9,380.24,5,4,1,3,0.03
+ORD0370,2025-08-19,DrinksCo,Beverages,Dandenong,354,1.9,650.09,5,4,1,1,0.01
+ORD0371,2025-10-15,VicGreens,Produce,Tullamarine,112,3.5,408.5,1,2,1,7,0.07
+ORD0372,2025-08-03,Pacific Produce,Produce,Tullamarine,207,3.5,728.0,3,2,1,9,0.09
+ORD0373,2025-10-04,SeaFresh,Frozen,Dandenong,306,6.5,2058.45,4,3,1,10,0.1
+ORD0374,2025-06-01,SeaFresh,Frozen,Dandenong,279,6.5,1824.63,4,3,1,6,0.06
+ORD0375,2025-09-19,DrinksCo,Beverages,Dandenong,415,1.9,826.56,3,4,1,4,0.04
+ORD0376,2025-08-09,GrocerPlus,Snacks,Dandenong,462,2.1,943.31,7,5,0,2,0.02
+ORD0377,2025-07-05,Pacific Produce,Produce,Tullamarine,482,3.5,1605.14,3,2,1,7,0.07
+ORD0378,2025-08-07,Aussie Meats,Meat,Dandenong,435,12.0,5264.13,1,2,1,8,0.08
+ORD0379,2025-11-05,GrocerPlus,Snacks,Laverton,275,2.1,571.05,8,5,0,2,0.02
+ORD0380,2025-11-21,Pacific Produce,Produce,Dandenong,62,3.5,224.89,1,2,1,10,0.1
+ORD0381,2025-11-17,SnackHouse,Snacks,Dandenong,382,2.1,825.41,6,5,1,2,0.02
+ORD0382,2025-08-14,ColdChain Dairy,Dairy,Dandenong,373,4.2,1541.61,1,1,1,4,0.04
+ORD0383,2025-09-11,FreshFarm Co,Produce,Dandenong,130,3.5,435.57,4,2,0,4,0.04
+ORD0384,2025-09-15,Pacific Produce,Produce,Dandenong,239,3.5,801.13,3,2,1,18,0.18
+ORD0385,2025-11-16,Pacific Produce,Produce,Laverton,293,3.5,1039.35,2,2,1,11,0.11
+ORD0386,2025-06-25,SeaFresh,Frozen,Tullamarine,273,6.5,1790.87,4,3,1,8,0.08
+ORD0387,2025-08-01,Aussie Meats,Meat,Dandenong,61,12.0,712.65,4,2,0,8,0.08
+ORD0388,2025-06-21,FreshFarm Co,Produce,Tullamarine,358,3.5,1251.66,2,2,1,14,0.14
+ORD0389,2025-07-01,DrinksCo,Beverages,Tullamarine,299,1.9,581.47,6,4,0,2,0.02
+ORD0390,2025-09-27,Pacific Produce,Produce,Tullamarine,127,3.5,433.41,1,2,1,12,0.12
+ORD0391,2025-07-29,Pacific Produce,Produce,Dandenong,188,3.5,689.08,3,2,1,12,0.12
+ORD0392,2025-09-18,Aussie Meats,Meat,Laverton,386,12.0,4477.7,1,2,1,6,0.06
+ORD0393,2025-09-27,SnackHouse,Snacks,Tullamarine,288,2.1,586.48,4,5,1,1,0.01
+ORD0394,2025-06-29,Aussie Meats,Meat,Dandenong,493,12.0,5847.57,1,2,1,3,0.03
+ORD0395,2025-08-27,GrocerPlus,Snacks,Dandenong,427,2.1,901.26,7,5,0,3,0.03
+ORD0396,2025-11-09,ColdChain Dairy,Dairy,Tullamarine,442,4.2,1791.27,1,1,1,4,0.04
+ORD0397,2025-08-24,ColdChain Dairy,Dairy,Dandenong,92,4.2,367.89,1,1,1,1,0.01
+ORD0398,2025-07-26,Pacific Produce,Produce,Laverton,416,3.5,1433.41,2,2,1,14,0.14
+ORD0399,2025-11-19,Aussie Meats,Meat,Dandenong,307,12.0,3546.02,2,2,1,15,0.15
+ORD0400,2025-06-25,SnackHouse,Snacks,Dandenong,380,2.1,784.21,5,5,1,3,0.03
+ORD0401,2025-06-23,Pacific Produce,Produce,Dandenong,468,3.5,1679.84,1,2,1,4,0.04
+ORD0402,2025-07-21,DrinksCo,Beverages,Dandenong,206,1.9,405.99,5,4,1,2,0.02
+ORD0403,2025-08-10,FreshFarm Co,Produce,Dandenong,152,3.5,538.36,2,2,1,8,0.08
+ORD0404,2025-09-10,VicGreens,Produce,Laverton,200,3.5,699.73,1,2,1,7,0.07
+ORD0405,2025-07-01,FreshFarm Co,Produce,Laverton,498,3.5,1671.89,2,2,1,9,0.09
+ORD0406,2025-08-29,SeaFresh,Frozen,Tullamarine,396,6.5,2678.69,4,3,1,8,0.08
+ORD0407,2025-06-05,VicGreens,Produce,Dandenong,247,3.5,835.12,1,2,1,6,0.06
+ORD0408,2025-08-23,Pacific Produce,Produce,Dandenong,411,3.5,1497.03,4,2,0,9,0.09
+ORD0409,2025-08-19,Pacific Produce,Produce,Dandenong,402,3.5,1407.83,3,2,1,8,0.08
+ORD0410,2025-09-14,SnackHouse,Snacks,Laverton,223,2.1,445.57,6,5,1,3,0.03
+ORD0411,2025-08-06,SeaFresh,Frozen,Laverton,200,6.5,1289.1,5,3,0,7,0.07
+ORD0412,2025-06-09,SeaFresh,Frozen,Tullamarine,186,6.5,1224.74,5,3,0,7,0.07
+ORD0413,2025-09-15,VicGreens,Produce,Tullamarine,176,3.5,606.42,2,2,0,8,0.08
+ORD0414,2025-11-24,Pacific Produce,Produce,Dandenong,128,3.5,452.61,2,2,0,11,0.11
+ORD0415,2025-06-04,FreshFarm Co,Produce,Tullamarine,479,3.5,1596.18,3,2,1,7,0.07
+ORD0416,2025-10-20,VicGreens,Produce,Tullamarine,93,3.5,322.38,3,2,0,4,0.04
+ORD0417,2025-11-16,VicGreens,Produce,Tullamarine,418,3.5,1429.7,1,2,1,7,0.07
+ORD0418,2025-09-10,FreshFarm Co,Produce,Tullamarine,126,3.5,437.53,1,2,1,12,0.12
+ORD0419,2025-10-20,FreshFarm Co,Produce,Tullamarine,165,3.5,570.72,1,2,1,4,0.04
+ORD0420,2025-07-03,Aussie Meats,Meat,Dandenong,283,12.0,3487.4,1,2,1,9,0.09
+ORD0421,2025-09-18,GrocerPlus,Snacks,Tullamarine,393,2.1,853.82,7,5,0,2,0.02
+ORD0422,2025-06-24,Aussie Meats,Meat,Tullamarine,384,12.0,4541.99,2,2,1,8,0.08
+ORD0423,2025-07-01,DrinksCo,Beverages,Dandenong,98,1.9,195.22,5,4,0,5,0.05
+ORD0424,2025-07-08,SnackHouse,Snacks,Laverton,137,2.1,289.7,7,5,0,3,0.03
+ORD0425,2025-07-19,BakeryDirect,Bakery,Tullamarine,206,2.8,580.65,1,1,1,7,0.07
+ORD0426,2025-11-16,GrocerPlus,Snacks,Dandenong,376,2.1,814.4,8,5,0,2,0.02
+ORD0427,2025-09-20,SeaFresh,Frozen,Tullamarine,158,6.5,983.44,3,3,1,3,0.03
+ORD0428,2025-07-08,VicGreens,Produce,Dandenong,496,3.5,1732.92,1,2,1,11,0.11
+ORD0429,2025-07-05,SeaFresh,Frozen,Tullamarine,166,6.5,1126.51,3,3,0,5,0.05
+ORD0430,2025-10-07,FreshFarm Co,Produce,Dandenong,396,3.5,1382.88,2,2,1,7,0.07
+ORD0431,2025-07-07,VicGreens,Produce,Laverton,358,3.5,1291.42,1,2,1,8,0.08
+ORD0432,2025-11-26,Pacific Produce,Produce,Laverton,225,3.5,751.73,3,2,1,10,0.1
+ORD0433,2025-11-29,FreshFarm Co,Produce,Tullamarine,86,3.5,287.73,1,2,1,6,0.06
+ORD0434,2025-08-31,BakeryDirect,Bakery,Dandenong,110,2.8,293.41,1,1,1,3,0.03
+ORD0435,2025-07-19,SnackHouse,Snacks,Tullamarine,212,2.1,423.01,5,5,1,1,0.01
+ORD0436,2025-11-04,Aussie Meats,Meat,Laverton,283,12.0,3360.16,2,2,1,9,0.09
+ORD0437,2025-09-26,VicGreens,Produce,Tullamarine,55,3.5,201.29,2,2,1,9,0.09
+ORD0438,2025-09-22,ColdChain Dairy,Dairy,Tullamarine,371,4.2,1567.19,1,1,1,7,0.07
+ORD0439,2025-08-12,SnackHouse,Snacks,Dandenong,439,2.1,951.8,6,5,1,2,0.02
+ORD0440,2025-07-11,BakeryDirect,Bakery,Dandenong,171,2.8,492.59,2,1,1,4,0.04
+ORD0441,2025-06-05,BakeryDirect,Bakery,Tullamarine,443,2.8,1259.79,1,1,1,4,0.04
+ORD0442,2025-11-20,VicGreens,Produce,Tullamarine,60,3.5,211.65,1,2,1,13,0.13
+ORD0443,2025-11-17,VicGreens,Produce,Tullamarine,187,3.5,654.36,1,2,1,9,0.09
+ORD0444,2025-07-14,BakeryDirect,Bakery,Dandenong,365,2.8,1039.58,1,1,1,4,0.04
+ORD0445,2025-10-20,SnackHouse,Snacks,Dandenong,168,2.1,338.99,6,5,1,2,0.02
+ORD0446,2025-09-04,BakeryDirect,Bakery,Dandenong,208,2.8,553.97,1,1,1,1,0.01
+ORD0447,2025-08-06,BakeryDirect,Bakery,Dandenong,135,2.8,387.21,1,1,1,4,0.04
+ORD0448,2025-09-29,ColdChain Dairy,Dairy,Tullamarine,342,4.2,1410.8,1,1,1,4,0.04
+ORD0449,2025-11-18,FreshFarm Co,Produce,Dandenong,351,3.5,1225.52,3,2,1,6,0.06
+ORD0450,2025-08-27,SeaFresh,Frozen,Tullamarine,122,6.5,825.95,4,3,0,3,0.03
+ORD0451,2025-09-26,SnackHouse,Snacks,Tullamarine,134,2.1,272.06,4,5,1,7,0.07
+ORD0452,2025-09-07,ColdChain Dairy,Dairy,Tullamarine,92,4.2,376.98,1,1,1,3,0.03
+ORD0453,2025-10-11,Pacific Produce,Produce,Laverton,107,3.5,360.09,3,2,0,10,0.1
+ORD0454,2025-11-14,FreshFarm Co,Produce,Dandenong,230,3.5,775.81,1,2,1,5,0.05
+ORD0455,2025-09-19,GrocerPlus,Snacks,Tullamarine,310,2.1,663.83,8,5,0,3,0.03
+ORD0456,2025-07-07,SeaFresh,Frozen,Dandenong,445,6.5,2832.55,5,3,0,5,0.05
+ORD0457,2025-08-22,FreshFarm Co,Produce,Laverton,310,3.5,1066.96,3,2,0,11,0.11
+ORD0458,2025-07-04,BakeryDirect,Bakery,Dandenong,390,2.8,1064.23,1,1,1,5,0.05
+ORD0459,2025-08-16,SnackHouse,Snacks,Dandenong,279,2.1,563.32,6,5,0,1,0.01
+ORD0460,2025-07-29,BakeryDirect,Bakery,Dandenong,161,2.8,436.38,1,1,1,3,0.03
+ORD0461,2025-09-26,DrinksCo,Beverages,Dandenong,79,1.9,148.42,6,4,0,1,0.01
+ORD0462,2025-07-31,Pacific Produce,Produce,Dandenong,337,3.5,1222.49,3,2,1,8,0.08
+ORD0463,2025-09-05,Pacific Produce,Produce,Laverton,200,3.5,701.1,2,2,1,8,0.08
+ORD0464,2025-08-14,VicGreens,Produce,Dandenong,237,3.5,804.62,1,2,1,8,0.08
+ORD0465,2025-06-29,VicGreens,Produce,Dandenong,287,3.5,979.71,1,2,1,7,0.07
+ORD0466,2025-10-31,DrinksCo,Beverages,Tullamarine,210,1.9,386.57,4,4,1,0,0.0
+ORD0467,2025-09-20,SnackHouse,Snacks,Dandenong,243,2.1,512.01,5,5,1,3,0.03
+ORD0468,2025-11-10,VicGreens,Produce,Dandenong,492,3.5,1786.24,2,2,1,11,0.11
+ORD0469,2025-09-23,VicGreens,Produce,Tullamarine,90,3.5,302.33,1,2,1,11,0.11
+ORD0470,2025-11-21,FreshFarm Co,Produce,Laverton,311,3.5,1104.58,2,2,1,7,0.07
+ORD0471,2025-09-29,Aussie Meats,Meat,Laverton,340,12.0,4073.65,3,2,1,9,0.09
+ORD0472,2025-09-22,FreshFarm Co,Produce,Tullamarine,75,3.5,257.45,1,2,1,7,0.07
+ORD0473,2025-10-13,Aussie Meats,Meat,Tullamarine,452,12.0,5164.98,3,2,1,7,0.07
+ORD0474,2025-09-30,SeaFresh,Frozen,Laverton,423,6.5,2636.33,6,3,0,5,0.05
+ORD0475,2025-09-19,FreshFarm Co,Produce,Dandenong,213,3.5,768.01,2,2,1,6,0.06
+ORD0476,2025-11-28,FreshFarm Co,Produce,Laverton,336,3.5,1207.97,1,2,1,8,0.08
+ORD0477,2025-07-16,SeaFresh,Frozen,Laverton,130,6.5,858.37,5,3,0,7,0.07
+ORD0478,2025-08-30,SeaFresh,Frozen,Tullamarine,131,6.5,889.15,3,3,1,5,0.05
+ORD0479,2025-10-09,VicGreens,Produce,Laverton,308,3.5,1078.17,1,2,1,9,0.09
+ORD0480,2025-07-28,SnackHouse,Snacks,Tullamarine,481,2.1,1018.41,4,5,1,3,0.03
+ORD0481,2025-06-01,SeaFresh,Frozen,Dandenong,408,6.5,2653.44,4,3,0,5,0.05
+ORD0482,2025-08-21,SnackHouse,Snacks,Dandenong,476,2.1,961.84,7,5,0,1,0.01
+ORD0483,2025-10-22,FreshFarm Co,Produce,Dandenong,111,3.5,371.99,2,2,0,9,0.09
+ORD0484,2025-08-23,FreshFarm Co,Produce,Dandenong,485,3.5,1774.62,3,2,1,7,0.07
+ORD0485,2025-08-21,FreshFarm Co,Produce,Dandenong,160,3.5,584.55,2,2,0,7,0.07
+ORD0486,2025-10-22,BakeryDirect,Bakery,Dandenong,81,2.8,223.56,1,1,1,4,0.04
+ORD0487,2025-10-26,DrinksCo,Beverages,Dandenong,336,1.9,607.62,5,4,1,1,0.01
+ORD0488,2025-10-03,GrocerPlus,Snacks,Tullamarine,204,2.1,441.92,5,5,1,1,0.01
+ORD0489,2025-06-22,SnackHouse,Snacks,Tullamarine,382,2.1,773.21,5,5,1,1,0.01
+ORD0490,2025-11-19,Pacific Produce,Produce,Laverton,135,3.5,449.11,3,2,1,4,0.04
+ORD0491,2025-07-11,GrocerPlus,Snacks,Tullamarine,257,2.1,556.09,6,5,1,0,0.0
+ORD0492,2025-08-07,SeaFresh,Frozen,Laverton,468,6.5,3144.12,5,3,0,5,0.05
+ORD0493,2025-07-05,DrinksCo,Beverages,Dandenong,146,1.9,265.77,5,4,1,1,0.01
+ORD0494,2025-09-23,Pacific Produce,Produce,Dandenong,61,3.5,203.41,4,2,0,7,0.07
+ORD0495,2025-07-12,VicGreens,Produce,Dandenong,498,3.5,1819.01,1,2,1,4,0.04
+ORD0496,2025-08-13,ColdChain Dairy,Dairy,Tullamarine,248,4.2,1086.99,1,1,0,4,0.04
+ORD0497,2025-06-16,SnackHouse,Snacks,Laverton,261,2.1,560.85,7,5,0,4,0.04
+ORD0498,2025-09-12,VicGreens,Produce,Dandenong,204,3.5,712.76,2,2,1,11,0.11
+ORD0499,2025-10-07,GrocerPlus,Snacks,Laverton,277,2.1,561.87,7,5,0,3,0.03
+ORD0500,2025-08-23,VicGreens,Produce,Tullamarine,451,3.5,1516.38,1,2,1,9,0.09
+ORD0501,2025-10-22,SeaFresh,Frozen,Tullamarine,188,6.5,1230.67,3,3,1,13,0.13
+ORD0502,2025-08-20,Pacific Produce,Produce,Dandenong,169,3.5,603.62,4,2,0,5,0.05
+ORD0503,2025-10-09,FreshFarm Co,Produce,Tullamarine,93,3.5,314.63,2,2,1,10,0.1
+ORD0504,2025-10-05,FreshFarm Co,Produce,Tullamarine,83,3.5,304.81,1,2,1,4,0.04
+ORD0505,2025-06-02,Pacific Produce,Produce,Tullamarine,125,3.5,441.67,4,2,0,12,0.12
+ORD0506,2025-11-11,VicGreens,Produce,Tullamarine,178,3.5,609.99,1,2,1,9,0.09
+ORD0507,2025-11-29,SnackHouse,Snacks,Dandenong,411,2.1,866.84,4,5,1,1,0.01
+ORD0508,2025-07-19,VicGreens,Produce,Dandenong,485,3.5,1745.56,2,2,1,8,0.08
+ORD0509,2025-10-18,FreshFarm Co,Produce,Tullamarine,125,3.5,458.1,3,2,0,8,0.08
+ORD0510,2025-06-15,SnackHouse,Snacks,Tullamarine,203,2.1,428.68,5,5,1,5,0.05
+ORD0511,2025-10-29,VicGreens,Produce,Tullamarine,213,3.5,722.57,1,2,1,8,0.08
+ORD0512,2025-09-30,ColdChain Dairy,Dairy,Tullamarine,447,4.2,1849.82,2,1,1,2,0.02
+ORD0513,2025-09-18,FreshFarm Co,Produce,Tullamarine,288,3.5,980.92,1,2,1,6,0.06
+ORD0514,2025-08-21,ColdChain Dairy,Dairy,Dandenong,473,4.2,1953.97,1,1,1,5,0.05
+ORD0515,2025-11-23,ColdChain Dairy,Dairy,Tullamarine,447,4.2,1805.78,1,1,1,2,0.02
+ORD0516,2025-07-12,VicGreens,Produce,Tullamarine,376,3.5,1364.2,1,2,1,8,0.08
+ORD0517,2025-11-15,BakeryDirect,Bakery,Tullamarine,100,2.8,275.83,1,1,1,5,0.05
+ORD0518,2025-09-24,SnackHouse,Snacks,Laverton,476,2.1,1046.59,6,5,1,3,0.03
+ORD0519,2025-09-27,Pacific Produce,Produce,Tullamarine,107,3.5,390.34,3,2,1,12,0.12
+ORD0520,2025-06-08,Pacific Produce,Produce,Tullamarine,249,3.5,881.39,2,2,1,6,0.06
+ORD0521,2025-11-10,Aussie Meats,Meat,Laverton,281,12.0,3445.65,1,2,1,5,0.05
+ORD0522,2025-09-25,BakeryDirect,Bakery,Tullamarine,302,2.8,833.18,1,1,1,6,0.06
+ORD0523,2025-11-09,BakeryDirect,Bakery,Dandenong,97,2.8,279.11,1,1,1,1,0.01
+ORD0524,2025-09-21,DrinksCo,Beverages,Tullamarine,202,1.9,384.49,3,4,1,2,0.02
+ORD0525,2025-07-29,ColdChain Dairy,Dairy,Tullamarine,361,4.2,1534.39,1,1,1,4,0.04
+ORD0526,2025-08-31,FreshFarm Co,Produce,Tullamarine,103,3.5,359.83,1,2,1,6,0.06
+ORD0527,2025-11-05,SeaFresh,Frozen,Dandenong,269,6.5,1792.03,6,3,0,4,0.04
+ORD0528,2025-09-13,Pacific Produce,Produce,Tullamarine,408,3.5,1490.08,2,2,1,5,0.05
+ORD0529,2025-07-09,VicGreens,Produce,Laverton,413,3.5,1433.54,2,2,0,9,0.09
+ORD0530,2025-06-26,Pacific Produce,Produce,Tullamarine,182,3.5,655.71,1,2,1,5,0.05
+ORD0531,2025-11-15,SeaFresh,Frozen,Tullamarine,168,6.5,1037.5,3,3,1,9,0.09
+ORD0532,2025-07-15,SeaFresh,Frozen,Laverton,151,6.5,1022.94,6,3,0,7,0.07
+ORD0533,2025-10-04,BakeryDirect,Bakery,Tullamarine,437,2.8,1252.28,1,1,1,1,0.01
+ORD0534,2025-07-30,BakeryDirect,Bakery,Dandenong,96,2.8,281.9,1,1,1,3,0.03
+ORD0535,2025-09-27,Pacific Produce,Produce,Tullamarine,275,3.5,990.65,2,2,1,12,0.12
+ORD0536,2025-11-12,FreshFarm Co,Produce,Dandenong,459,3.5,1564.68,1,2,1,8,0.08
+ORD0537,2025-09-17,SeaFresh,Frozen,Tullamarine,447,6.5,2793.98,3,3,1,3,0.03
+ORD0538,2025-09-07,Pacific Produce,Produce,Tullamarine,370,3.5,1244.83,2,2,1,11,0.11
+ORD0539,2025-10-16,Aussie Meats,Meat,Tullamarine,249,12.0,3105.19,1,2,1,4,0.04
+ORD0540,2025-11-11,GrocerPlus,Snacks,Tullamarine,266,2.1,565.16,6,5,1,1,0.01
+ORD0541,2025-06-10,FreshFarm Co,Produce,Tullamarine,254,3.5,915.24,2,2,1,7,0.07
+ORD0542,2025-07-09,BakeryDirect,Bakery,Dandenong,491,2.8,1441.3,1,1,1,1,0.01
+ORD0543,2025-09-09,Aussie Meats,Meat,Tullamarine,482,12.0,6047.47,2,2,1,8,0.08
+ORD0544,2025-07-02,DrinksCo,Beverages,Laverton,442,1.9,875.03,5,4,0,1,0.01
+ORD0545,2025-07-01,Aussie Meats,Meat,Laverton,310,12.0,3845.37,2,2,0,5,0.05
+ORD0546,2025-08-16,Aussie Meats,Meat,Tullamarine,123,12.0,1534.3,2,2,1,7,0.07
+ORD0547,2025-10-25,ColdChain Dairy,Dairy,Laverton,383,4.2,1667.31,1,1,1,5,0.05
+ORD0548,2025-06-17,GrocerPlus,Snacks,Dandenong,458,2.1,946.41,7,5,0,4,0.04
+ORD0549,2025-08-17,Pacific Produce,Produce,Dandenong,62,3.5,218.17,4,2,0,9,0.09
+ORD0550,2025-09-18,SnackHouse,Snacks,Dandenong,248,2.1,517.17,5,5,1,2,0.02
+ORD0551,2025-07-10,FreshFarm Co,Produce,Dandenong,146,3.5,528.71,2,2,1,14,0.14
+ORD0552,2025-08-15,Pacific Produce,Produce,Laverton,264,3.5,909.36,4,2,0,7,0.07
+ORD0553,2025-07-30,FreshFarm Co,Produce,Dandenong,235,3.5,798.06,3,2,0,8,0.08
+ORD0554,2025-07-02,DrinksCo,Beverages,Tullamarine,142,1.9,279.2,5,4,1,1,0.01
+ORD0555,2025-10-10,SnackHouse,Snacks,Tullamarine,299,2.1,622.87,4,5,1,2,0.02
+ORD0556,2025-11-14,VicGreens,Produce,Dandenong,405,3.5,1383.89,1,2,1,11,0.11
+ORD0557,2025-09-06,SeaFresh,Frozen,Tullamarine,321,6.5,2044.15,3,3,1,4,0.04
+ORD0558,2025-09-14,VicGreens,Produce,Laverton,378,3.5,1363.79,1,2,1,7,0.07
+ORD0559,2025-10-15,SnackHouse,Snacks,Dandenong,329,2.1,681.28,5,5,1,2,0.02
+ORD0560,2025-07-11,FreshFarm Co,Produce,Laverton,232,3.5,803.54,2,2,1,13,0.13
+ORD0561,2025-11-14,VicGreens,Produce,Laverton,273,3.5,940.71,1,2,1,9,0.09
+ORD0562,2025-08-27,Pacific Produce,Produce,Tullamarine,273,3.5,956.81,2,2,1,13,0.13
+ORD0563,2025-09-22,FreshFarm Co,Produce,Tullamarine,86,3.5,293.05,2,2,1,6,0.06
+ORD0564,2025-08-23,SnackHouse,Snacks,Tullamarine,393,2.1,847.61,5,5,1,1,0.01
+ORD0565,2025-07-16,FreshFarm Co,Produce,Tullamarine,281,3.5,1009.62,1,2,1,10,0.1
+ORD0566,2025-10-15,BakeryDirect,Bakery,Dandenong,281,2.8,821.97,1,1,1,4,0.04
+ORD0567,2025-09-24,Aussie Meats,Meat,Tullamarine,329,12.0,3840.89,2,2,1,4,0.04
+ORD0568,2025-09-16,ColdChain Dairy,Dairy,Dandenong,481,4.2,1987.59,2,1,1,2,0.02
+ORD0569,2025-07-12,Pacific Produce,Produce,Tullamarine,95,3.5,334.51,2,2,1,7,0.07
+ORD0570,2025-08-16,FreshFarm Co,Produce,Laverton,204,3.5,713.75,2,2,1,8,0.08
+ORD0571,2025-07-12,SeaFresh,Frozen,Tullamarine,108,6.5,720.96,4,3,0,7,0.07
+ORD0572,2025-06-17,DrinksCo,Beverages,Dandenong,263,1.9,524.32,4,4,1,4,0.04
+ORD0573,2025-08-30,DrinksCo,Beverages,Laverton,436,1.9,814.55,5,4,1,1,0.01
+ORD0574,2025-06-16,Aussie Meats,Meat,Dandenong,451,12.0,5271.42,2,2,0,5,0.05
+ORD0575,2025-10-03,FreshFarm Co,Produce,Tullamarine,446,3.5,1491.31,1,2,1,7,0.07
+ORD0576,2025-10-27,Aussie Meats,Meat,Dandenong,410,12.0,4907.29,2,2,1,9,0.09
+ORD0577,2025-07-25,Pacific Produce,Produce,Tullamarine,319,3.5,1064.16,4,2,0,10,0.1
+ORD0578,2025-08-23,VicGreens,Produce,Dandenong,322,3.5,1130.88,2,2,0,7,0.07
+ORD0579,2025-09-03,ColdChain Dairy,Dairy,Laverton,335,4.2,1383.62,1,1,0,3,0.03
+ORD0580,2025-10-20,SeaFresh,Frozen,Laverton,265,6.5,1682.37,5,3,0,5,0.05
+ORD0581,2025-11-27,FreshFarm Co,Produce,Tullamarine,206,3.5,688.39,2,2,0,8,0.08
+ORD0582,2025-11-25,SeaFresh,Frozen,Laverton,94,6.5,632.84,6,3,0,9,0.09
+ORD0583,2025-07-02,VicGreens,Produce,Dandenong,118,3.5,413.52,2,2,1,7,0.07
+ORD0584,2025-09-07,SeaFresh,Frozen,Tullamarine,379,6.5,2479.18,4,3,1,8,0.08
+ORD0585,2025-08-01,Aussie Meats,Meat,Tullamarine,457,12.0,5413.52,3,2,1,8,0.08
+ORD0586,2025-07-01,ColdChain Dairy,Dairy,Dandenong,169,4.2,731.17,2,1,1,3,0.03
+ORD0587,2025-07-05,Aussie Meats,Meat,Laverton,251,12.0,2861.94,3,2,1,5,0.05
+ORD0588,2025-11-15,ColdChain Dairy,Dairy,Dandenong,106,4.2,442.58,2,1,1,2,0.02
+ORD0589,2025-09-17,SeaFresh,Frozen,Tullamarine,136,6.5,914.23,4,3,0,5,0.05
+ORD0590,2025-06-06,VicGreens,Produce,Dandenong,425,3.5,1522.1,1,2,1,5,0.05
+ORD0591,2025-10-09,Pacific Produce,Produce,Dandenong,88,3.5,299.29,2,2,1,10,0.1
+ORD0592,2025-07-27,BakeryDirect,Bakery,Tullamarine,69,2.8,197.08,1,1,1,1,0.01
+ORD0593,2025-07-06,ColdChain Dairy,Dairy,Tullamarine,325,4.2,1377.32,1,1,1,0,0.0
+ORD0594,2025-11-10,Pacific Produce,Produce,Dandenong,182,3.5,645.12,1,2,1,12,0.12
+ORD0595,2025-10-28,SeaFresh,Frozen,Dandenong,232,6.5,1483.68,5,3,0,5,0.05
+ORD0596,2025-06-23,Aussie Meats,Meat,Dandenong,62,12.0,771.6,2,2,1,10,0.1
+ORD0597,2025-11-21,FreshFarm Co,Produce,Tullamarine,124,3.5,423.78,1,2,1,7,0.07
+ORD0598,2025-11-05,DrinksCo,Beverages,Dandenong,445,1.9,864.88,5,4,0,1,0.01
+ORD0599,2025-08-15,Aussie Meats,Meat,Dandenong,445,12.0,5119.3,1,2,1,11,0.11
+ORD0600,2025-10-05,SeaFresh,Frozen,Laverton,106,6.5,666.68,6,3,0,3,0.03
+ORD0601,2025-06-14,Aussie Meats,Meat,Dandenong,437,12.0,5400.22,2,2,1,8,0.08
+ORD0602,2025-06-08,VicGreens,Produce,Laverton,395,3.5,1335.48,2,2,1,11,0.11
+ORD0603,2025-09-15,SnackHouse,Snacks,Tullamarine,269,2.1,551.01,5,5,1,2,0.02
+ORD0604,2025-08-01,FreshFarm Co,Produce,Dandenong,433,3.5,1588.67,2,2,1,13,0.13
+ORD0605,2025-06-19,SeaFresh,Frozen,Dandenong,60,6.5,373.75,6,3,0,5,0.05
+ORD0606,2025-06-21,Pacific Produce,Produce,Laverton,384,3.5,1402.14,2,2,1,15,0.15
+ORD0607,2025-07-03,FreshFarm Co,Produce,Tullamarine,177,3.5,594.9,1,2,1,9,0.09
+ORD0608,2025-09-23,SeaFresh,Frozen,Tullamarine,188,6.5,1239.39,3,3,1,8,0.08
+ORD0609,2025-07-29,VicGreens,Produce,Dandenong,466,3.5,1684.37,2,2,1,7,0.07
+ORD0610,2025-10-02,Pacific Produce,Produce,Tullamarine,226,3.5,765.62,3,2,1,14,0.14
+ORD0611,2025-09-09,DrinksCo,Beverages,Dandenong,177,1.9,336.41,5,4,1,5,0.05
+ORD0612,2025-07-21,Pacific Produce,Produce,Dandenong,218,3.5,738.96,3,2,1,7,0.07
+ORD0613,2025-07-09,ColdChain Dairy,Dairy,Tullamarine,254,4.2,1102.17,1,1,1,4,0.04
+ORD0614,2025-07-10,FreshFarm Co,Produce,Dandenong,326,3.5,1113.58,2,2,0,11,0.11
+ORD0615,2025-07-26,ColdChain Dairy,Dairy,Tullamarine,432,4.2,1820.48,1,1,1,2,0.02
+ORD0616,2025-11-23,Aussie Meats,Meat,Tullamarine,431,12.0,5109.91,2,2,0,6,0.06
+ORD0617,2025-06-30,ColdChain Dairy,Dairy,Dandenong,294,4.2,1199.67,1,1,1,4,0.04
+ORD0618,2025-08-26,FreshFarm Co,Produce,Dandenong,83,3.5,277.33,2,2,1,10,0.1
+ORD0619,2025-07-18,SeaFresh,Frozen,Tullamarine,77,6.5,514.71,4,3,1,6,0.06
+ORD0620,2025-07-13,FreshFarm Co,Produce,Tullamarine,125,3.5,426.17,3,2,1,9,0.09
+ORD0621,2025-11-17,FreshFarm Co,Produce,Dandenong,237,3.5,856.5,2,2,1,11,0.11
+ORD0622,2025-10-24,ColdChain Dairy,Dairy,Tullamarine,267,4.2,1066.4,1,1,1,2,0.02
+ORD0623,2025-11-07,VicGreens,Produce,Laverton,475,3.5,1677.17,1,2,1,7,0.07
+ORD0624,2025-06-20,Pacific Produce,Produce,Tullamarine,432,3.5,1455.2,2,2,0,7,0.07
+ORD0625,2025-11-11,FreshFarm Co,Produce,Dandenong,204,3.5,690.05,2,2,1,11,0.11
+ORD0626,2025-10-01,FreshFarm Co,Produce,Tullamarine,238,3.5,858.25,2,2,1,4,0.04
+ORD0627,2025-10-05,GrocerPlus,Snacks,Tullamarine,54,2.1,109.29,6,5,1,2,0.02
+ORD0628,2025-06-27,SnackHouse,Snacks,Dandenong,422,2.1,916.48,7,5,0,2,0.02
+ORD0629,2025-10-25,FreshFarm Co,Produce,Dandenong,324,3.5,1095.92,2,2,1,9,0.09
+ORD0630,2025-07-26,SeaFresh,Frozen,Tullamarine,479,6.5,3106.03,5,3,0,10,0.1
+ORD0631,2025-10-27,VicGreens,Produce,Dandenong,76,3.5,271.22,1,2,1,6,0.06
+ORD0632,2025-06-28,Pacific Produce,Produce,Dandenong,323,3.5,1145.73,2,2,0,11,0.11
+ORD0633,2025-07-30,FreshFarm Co,Produce,Laverton,449,3.5,1626.14,3,2,1,2,0.02
+ORD0634,2025-08-25,FreshFarm Co,Produce,Dandenong,400,3.5,1426.47,4,2,0,7,0.07
+ORD0635,2025-07-22,BakeryDirect,Bakery,Dandenong,400,2.8,1094.55,1,1,1,3,0.03
+ORD0636,2025-10-08,BakeryDirect,Bakery,Laverton,309,2.8,888.77,1,1,1,4,0.04
+ORD0637,2025-11-13,ColdChain Dairy,Dairy,Tullamarine,113,4.2,465.5,1,1,1,1,0.01
+ORD0638,2025-07-01,FreshFarm Co,Produce,Laverton,218,3.5,739.57,3,2,1,5,0.05
+ORD0639,2025-11-01,Pacific Produce,Produce,Tullamarine,213,3.5,722.03,1,2,1,13,0.13
+ORD0640,2025-09-14,SeaFresh,Frozen,Dandenong,143,6.5,957.44,5,3,0,6,0.06
+ORD0641,2025-09-30,FreshFarm Co,Produce,Tullamarine,282,3.5,947.79,2,2,0,8,0.08
+ORD0642,2025-10-31,SeaFresh,Frozen,Dandenong,378,6.5,2447.97,4,3,1,10,0.1
+ORD0643,2025-09-03,SnackHouse,Snacks,Laverton,498,2.1,1078.06,6,5,1,0,0.0
+ORD0644,2025-06-15,FreshFarm Co,Produce,Tullamarine,452,3.5,1535.28,4,2,0,6,0.06
+ORD0645,2025-09-28,FreshFarm Co,Produce,Dandenong,195,3.5,700.94,4,2,0,8,0.08
+ORD0646,2025-09-08,Aussie Meats,Meat,Dandenong,213,12.0,2579.7,2,2,1,8,0.08
+ORD0647,2025-07-16,ColdChain Dairy,Dairy,Tullamarine,310,4.2,1277.8,1,1,1,2,0.02
+ORD0648,2025-10-19,ColdChain Dairy,Dairy,Dandenong,494,4.2,2098.62,1,1,1,2,0.02
+ORD0649,2025-09-14,FreshFarm Co,Produce,Tullamarine,183,3.5,632.95,1,2,1,9,0.09
+ORD0650,2025-09-18,VicGreens,Produce,Dandenong,468,3.5,1585.08,2,2,1,6,0.06
+ORD0651,2025-10-26,VicGreens,Produce,Laverton,106,3.5,368.19,2,2,1,5,0.05
+ORD0652,2025-07-24,Pacific Produce,Produce,Tullamarine,363,3.5,1304.08,3,2,1,11,0.11
+ORD0653,2025-11-08,SeaFresh,Frozen,Tullamarine,237,6.5,1586.72,4,3,1,5,0.05
+ORD0654,2025-06-13,BakeryDirect,Bakery,Laverton,132,2.8,380.25,1,1,1,2,0.02
+ORD0655,2025-06-19,BakeryDirect,Bakery,Tullamarine,450,2.8,1244.98,1,1,1,4,0.04
+ORD0656,2025-11-14,SnackHouse,Snacks,Tullamarine,55,2.1,118.68,4,5,1,3,0.03
+ORD0657,2025-07-01,Aussie Meats,Meat,Tullamarine,483,12.0,5703.6,1,2,1,10,0.1
+ORD0658,2025-07-10,DrinksCo,Beverages,Tullamarine,440,1.9,804.98,4,4,1,5,0.05
+ORD0659,2025-10-15,Pacific Produce,Produce,Dandenong,78,3.5,263.64,3,2,0,15,0.15
+ORD0660,2025-06-06,GrocerPlus,Snacks,Dandenong,159,2.1,343.02,7,5,0,7,0.07
+ORD0661,2025-09-22,GrocerPlus,Snacks,Laverton,102,2.1,206.35,9,5,0,3,0.03
+ORD0662,2025-07-14,Pacific Produce,Produce,Tullamarine,227,3.5,827.9,1,2,1,5,0.05
+ORD0663,2025-06-10,VicGreens,Produce,Tullamarine,53,3.5,190.48,1,2,1,11,0.11
+ORD0664,2025-10-16,GrocerPlus,Snacks,Tullamarine,468,2.1,949.66,5,5,1,1,0.01
+ORD0665,2025-09-23,Aussie Meats,Meat,Dandenong,138,12.0,1598.15,2,2,0,1,0.01
+ORD0666,2025-07-05,DrinksCo,Beverages,Dandenong,469,1.9,914.32,4,4,1,2,0.02
+ORD0667,2025-09-20,Pacific Produce,Produce,Dandenong,247,3.5,856.04,1,2,0,16,0.16
+ORD0668,2025-10-27,VicGreens,Produce,Laverton,401,3.5,1467.59,1,2,0,8,0.08
+ORD0669,2025-09-09,VicGreens,Produce,Tullamarine,78,3.5,265.53,1,2,0,8,0.08
+ORD0670,2025-11-15,FreshFarm Co,Produce,Tullamarine,490,3.5,1749.75,2,2,1,7,0.07
+ORD0671,2025-11-03,VicGreens,Produce,Dandenong,170,3.5,592.78,2,2,1,13,0.13
+ORD0672,2025-06-18,FreshFarm Co,Produce,Dandenong,415,3.5,1407.03,1,2,0,7,0.07
+ORD0673,2025-06-08,SeaFresh,Frozen,Dandenong,372,6.5,2479.45,4,3,1,3,0.03
+ORD0674,2025-06-17,Pacific Produce,Produce,Tullamarine,485,3.5,1770.34,1,2,1,9,0.09
+ORD0675,2025-07-27,Pacific Produce,Produce,Tullamarine,490,3.5,1796.37,2,2,1,8,0.08
+ORD0676,2025-11-05,ColdChain Dairy,Dairy,Tullamarine,227,4.2,952.41,1,1,1,3,0.03
+ORD0677,2025-06-28,ColdChain Dairy,Dairy,Tullamarine,102,4.2,447.74,1,1,1,4,0.04
+ORD0678,2025-09-04,Pacific Produce,Produce,Dandenong,132,3.5,447.7,2,2,1,7,0.07
+ORD0679,2025-06-12,ColdChain Dairy,Dairy,Tullamarine,403,4.2,1616.84,1,1,1,4,0.04
+ORD0680,2025-09-30,FreshFarm Co,Produce,Dandenong,302,3.5,1081.57,3,2,1,11,0.11
+ORD0681,2025-11-12,BakeryDirect,Bakery,Tullamarine,301,2.8,851.44,1,1,1,3,0.03
+ORD0682,2025-08-11,VicGreens,Produce,Laverton,367,3.5,1231.47,1,2,1,6,0.06
+ORD0683,2025-06-21,Pacific Produce,Produce,Dandenong,52,3.5,174.91,2,2,0,9,0.09
+ORD0684,2025-06-29,VicGreens,Produce,Tullamarine,388,3.5,1346.88,1,2,1,7,0.07
+ORD0685,2025-07-24,BakeryDirect,Bakery,Tullamarine,66,2.8,187.66,1,1,1,3,0.03
+ORD0686,2025-11-24,ColdChain Dairy,Dairy,Tullamarine,211,4.2,918.22,1,1,0,4,0.04
+ORD0687,2025-09-22,DrinksCo,Beverages,Tullamarine,454,1.9,883.49,5,4,1,4,0.04
+ORD0688,2025-11-16,SnackHouse,Snacks,Dandenong,384,2.1,846.0,6,5,1,3,0.03
+ORD0689,2025-09-29,BakeryDirect,Bakery,Tullamarine,442,2.8,1223.76,1,1,1,3,0.03
+ORD0690,2025-09-03,Pacific Produce,Produce,Dandenong,90,3.5,313.32,4,2,0,13,0.13
+ORD0691,2025-11-30,FreshFarm Co,Produce,Tullamarine,63,3.5,229.4,1,2,1,8,0.08
+ORD0692,2025-07-20,Aussie Meats,Meat,Tullamarine,183,12.0,2233.19,1,2,1,9,0.09
+ORD0693,2025-11-27,Pacific Produce,Produce,Laverton,332,3.5,1117.1,3,2,1,8,0.08
+ORD0694,2025-06-13,SeaFresh,Frozen,Laverton,340,6.5,2254.36,5,3,0,4,0.04
+ORD0695,2025-07-23,BakeryDirect,Bakery,Tullamarine,290,2.8,785.62,1,1,1,4,0.04
+ORD0696,2025-06-01,Pacific Produce,Produce,Tullamarine,87,3.5,304.14,1,2,1,9,0.09
+ORD0697,2025-07-04,Pacific Produce,Produce,Laverton,117,3.5,397.51,3,2,1,10,0.1
+ORD0698,2025-09-17,ColdChain Dairy,Dairy,Tullamarine,78,4.2,321.93,1,1,0,2,0.02
+ORD0699,2025-07-16,DrinksCo,Beverages,Tullamarine,192,1.9,349.98,4,4,1,4,0.04
+ORD0700,2025-11-04,FreshFarm Co,Produce,Tullamarine,182,3.5,649.86,1,2,1,8,0.08
+ORD0701,2025-09-17,Pacific Produce,Produce,Tullamarine,217,3.5,745.71,1,2,1,10,0.1
+ORD0702,2025-07-15,Aussie Meats,Meat,Laverton,218,12.0,2699.43,3,2,1,9,0.09
+ORD0703,2025-09-15,VicGreens,Produce,Dandenong,50,3.5,170.41,1,2,1,5,0.05
+ORD0704,2025-11-17,ColdChain Dairy,Dairy,Dandenong,435,4.2,1916.27,1,1,1,1,0.01
+ORD0705,2025-08-08,BakeryDirect,Bakery,Laverton,305,2.8,814.92,1,1,0,4,0.04
+ORD0706,2025-06-12,FreshFarm Co,Produce,Laverton,170,3.5,613.43,3,2,1,13,0.13
+ORD0707,2025-06-07,SnackHouse,Snacks,Tullamarine,50,2.1,100.67,5,5,0,0,0.0
+ORD0708,2025-07-30,VicGreens,Produce,Dandenong,59,3.5,214.18,3,2,0,4,0.04
+ORD0709,2025-08-28,SeaFresh,Frozen,Tullamarine,265,6.5,1758.11,4,3,1,6,0.06
+ORD0710,2025-11-26,ColdChain Dairy,Dairy,Laverton,118,4.2,480.95,1,1,1,2,0.02
+ORD0711,2025-10-18,Pacific Produce,Produce,Tullamarine,181,3.5,603.72,1,2,0,11,0.11
+ORD0712,2025-09-06,Pacific Produce,Produce,Dandenong,51,3.5,169.83,2,2,0,13,0.13
+ORD0713,2025-11-01,GrocerPlus,Snacks,Laverton,174,2.1,378.07,8,5,0,4,0.04
+ORD0714,2025-11-01,FreshFarm Co,Produce,Dandenong,99,3.5,349.06,3,2,1,8,0.08
+ORD0715,2025-07-07,Pacific Produce,Produce,Tullamarine,419,3.5,1442.75,1,2,1,13,0.13
+ORD0716,2025-08-08,BakeryDirect,Bakery,Laverton,225,2.8,622.45,1,1,1,5,0.05
+ORD0717,2025-10-17,FreshFarm Co,Produce,Tullamarine,227,3.5,820.64,2,2,0,7,0.07
+ORD0718,2025-10-21,Aussie Meats,Meat,Dandenong,357,12.0,4458.86,2,2,1,6,0.06
+ORD0719,2025-06-20,Pacific Produce,Produce,Tullamarine,475,3.5,1726.77,3,2,1,12,0.12
+ORD0720,2025-11-04,BakeryDirect,Bakery,Tullamarine,220,2.8,628.79,2,1,1,2,0.02
+ORD0721,2025-10-09,BakeryDirect,Bakery,Dandenong,459,2.8,1292.81,1,1,1,0,0.0
+ORD0722,2025-11-22,SeaFresh,Frozen,Tullamarine,450,6.5,2932.41,4,3,1,5,0.05
+ORD0723,2025-07-19,SnackHouse,Snacks,Dandenong,196,2.1,413.59,4,5,1,1,0.01
+ORD0724,2025-10-19,FreshFarm Co,Produce,Laverton,258,3.5,941.93,1,2,1,7,0.07
+ORD0725,2025-07-27,SeaFresh,Frozen,Tullamarine,146,6.5,902.22,5,3,0,4,0.04
+ORD0726,2025-06-17,Pacific Produce,Produce,Laverton,112,3.5,400.63,4,2,0,18,0.18
+ORD0727,2025-08-26,Pacific Produce,Produce,Tullamarine,252,3.5,851.76,2,2,1,5,0.05
+ORD0728,2025-11-15,SeaFresh,Frozen,Tullamarine,248,6.5,1564.84,4,3,1,5,0.05
+ORD0729,2025-10-02,FreshFarm Co,Produce,Dandenong,419,3.5,1425.5,1,2,1,7,0.07
+ORD0730,2025-08-08,GrocerPlus,Snacks,Laverton,109,2.1,228.78,7,5,0,3,0.03
+ORD0731,2025-08-06,VicGreens,Produce,Laverton,184,3.5,615.82,2,2,1,6,0.06
+ORD0732,2025-06-30,SeaFresh,Frozen,Laverton,302,6.5,1980.67,4,3,1,10,0.1
+ORD0733,2025-11-11,DrinksCo,Beverages,Tullamarine,192,1.9,379.1,4,4,1,1,0.01
+ORD0734,2025-06-26,SnackHouse,Snacks,Tullamarine,263,2.1,542.97,5,5,1,4,0.04
+ORD0735,2025-10-28,BakeryDirect,Bakery,Dandenong,51,2.8,143.13,1,1,1,1,0.01
+ORD0736,2025-08-24,FreshFarm Co,Produce,Tullamarine,202,3.5,720.49,1,2,0,10,0.1
+ORD0737,2025-11-25,BakeryDirect,Bakery,Tullamarine,250,2.8,676.91,2,1,1,5,0.05
+ORD0738,2025-08-18,FreshFarm Co,Produce,Tullamarine,158,3.5,542.77,1,2,1,7,0.07
+ORD0739,2025-08-29,SeaFresh,Frozen,Laverton,348,6.5,2303.26,6,3,0,9,0.09
+ORD0740,2025-06-03,DrinksCo,Beverages,Tullamarine,407,1.9,779.31,5,4,1,3,0.03
+ORD0741,2025-11-07,Pacific Produce,Produce,Tullamarine,61,3.5,219.38,1,2,1,17,0.17
+ORD0742,2025-06-26,FreshFarm Co,Produce,Tullamarine,387,3.5,1406.55,1,2,1,7,0.07
+ORD0743,2025-07-28,FreshFarm Co,Produce,Laverton,279,3.5,980.91,3,2,1,4,0.04
+ORD0744,2025-07-02,Pacific Produce,Produce,Dandenong,320,3.5,1164.62,2,2,1,9,0.09
+ORD0745,2025-07-30,SeaFresh,Frozen,Tullamarine,373,6.5,2431.54,4,3,1,7,0.07
+ORD0746,2025-08-11,FreshFarm Co,Produce,Dandenong,151,3.5,514.85,2,2,1,9,0.09
+ORD0747,2025-08-09,Pacific Produce,Produce,Dandenong,158,3.5,563.45,3,2,1,13,0.13
+ORD0748,2025-10-10,BakeryDirect,Bakery,Dandenong,448,2.8,1214.56,1,1,1,2,0.02
+ORD0749,2025-10-08,Pacific Produce,Produce,Tullamarine,467,3.5,1574.93,2,2,0,15,0.15
+ORD0750,2025-06-21,DrinksCo,Beverages,Dandenong,441,1.9,872.02,5,4,1,2,0.02
+ORD0751,2025-11-25,FreshFarm Co,Produce,Tullamarine,406,3.5,1390.57,1,2,1,9,0.09
+ORD0752,2025-08-10,Pacific Produce,Produce,Tullamarine,164,3.5,577.41,1,2,1,10,0.1
+ORD0753,2025-07-01,DrinksCo,Beverages,Tullamarine,430,1.9,827.1,6,4,0,5,0.05
+ORD0754,2025-08-05,Pacific Produce,Produce,Tullamarine,413,3.5,1493.42,2,2,1,16,0.16
+ORD0755,2025-11-11,Aussie Meats,Meat,Tullamarine,213,12.0,2518.92,3,2,1,5,0.05
+ORD0756,2025-11-22,SeaFresh,Frozen,Dandenong,183,6.5,1153.76,4,3,1,5,0.05
+ORD0757,2025-06-02,Aussie Meats,Meat,Tullamarine,263,12.0,3202.54,1,2,1,5,0.05
+ORD0758,2025-11-16,FreshFarm Co,Produce,Laverton,387,3.5,1406.2,1,2,0,7,0.07
+ORD0759,2025-07-02,ColdChain Dairy,Dairy,Dandenong,215,4.2,879.68,1,1,1,4,0.04
+ORD0760,2025-09-06,Pacific Produce,Produce,Tullamarine,237,3.5,856.75,1,2,1,6,0.06
+ORD0761,2025-10-18,GrocerPlus,Snacks,Laverton,334,2.1,707.35,8,5,0,1,0.01
+ORD0762,2025-11-21,DrinksCo,Beverages,Tullamarine,359,1.9,669.31,5,4,1,1,0.01
+ORD0763,2025-09-15,BakeryDirect,Bakery,Tullamarine,390,2.8,1079.82,1,1,1,5,0.05
+ORD0764,2025-09-20,BakeryDirect,Bakery,Dandenong,226,2.8,662.08,1,1,1,4,0.04
+ORD0765,2025-11-25,FreshFarm Co,Produce,Tullamarine,89,3.5,317.52,4,2,0,7,0.07
+ORD0766,2025-10-14,SnackHouse,Snacks,Dandenong,145,2.1,311.04,5,5,1,1,0.01
+ORD0767,2025-09-23,SeaFresh,Frozen,Tullamarine,411,6.5,2680.44,3,3,1,2,0.02
+ORD0768,2025-08-17,FreshFarm Co,Produce,Tullamarine,207,3.5,738.87,1,2,1,4,0.04
+ORD0769,2025-11-01,SnackHouse,Snacks,Tullamarine,126,2.1,267.15,5,5,0,2,0.02
+ORD0770,2025-06-18,DrinksCo,Beverages,Dandenong,294,1.9,573.19,5,4,1,1,0.01
+ORD0771,2025-10-05,ColdChain Dairy,Dairy,Dandenong,136,4.2,579.02,1,1,1,2,0.02
+ORD0772,2025-09-29,FreshFarm Co,Produce,Tullamarine,495,3.5,1716.68,2,2,1,9,0.09
+ORD0773,2025-07-04,VicGreens,Produce,Laverton,59,3.5,214.04,2,2,1,9,0.09
+ORD0774,2025-10-06,ColdChain Dairy,Dairy,Dandenong,487,4.2,2028.64,1,1,1,4,0.04
+ORD0775,2025-11-06,GrocerPlus,Snacks,Laverton,84,2.1,172.64,6,5,1,2,0.02
+ORD0776,2025-09-03,FreshFarm Co,Produce,Laverton,194,3.5,656.75,2,2,0,11,0.11
+ORD0777,2025-08-31,SnackHouse,Snacks,Laverton,362,2.1,730.47,6,5,1,0,0.0
+ORD0778,2025-08-11,SeaFresh,Frozen,Dandenong,71,6.5,466.91,5,3,0,5,0.05
+ORD0779,2025-11-21,VicGreens,Produce,Dandenong,241,3.5,843.66,1,2,1,10,0.1
+ORD0780,2025-08-10,Pacific Produce,Produce,Tullamarine,182,3.5,605.93,3,2,1,11,0.11
+ORD0781,2025-09-05,Aussie Meats,Meat,Dandenong,211,12.0,2541.75,2,2,1,13,0.13
+ORD0782,2025-10-13,DrinksCo,Beverages,Tullamarine,485,1.9,954.44,5,4,1,2,0.02
+ORD0783,2025-10-01,DrinksCo,Beverages,Dandenong,336,1.9,621.93,5,4,1,2,0.02
+ORD0784,2025-09-18,DrinksCo,Beverages,Tullamarine,110,1.9,211.94,4,4,0,2,0.02
+ORD0785,2025-09-06,GrocerPlus,Snacks,Tullamarine,399,2.1,850.83,6,5,0,1,0.01
+ORD0786,2025-08-09,ColdChain Dairy,Dairy,Tullamarine,264,4.2,1118.49,1,1,1,2,0.02
+ORD0787,2025-07-10,Pacific Produce,Produce,Dandenong,220,3.5,772.26,2,2,1,12,0.12
+ORD0788,2025-08-11,BakeryDirect,Bakery,Tullamarine,301,2.8,823.42,1,1,1,4,0.04
+ORD0789,2025-09-25,DrinksCo,Beverages,Tullamarine,292,1.9,530.64,6,4,0,2,0.02
+ORD0790,2025-08-15,VicGreens,Produce,Tullamarine,260,3.5,932.68,1,2,1,6,0.06
+ORD0791,2025-07-10,FreshFarm Co,Produce,Laverton,79,3.5,271.96,1,2,1,8,0.08
+ORD0792,2025-11-06,GrocerPlus,Snacks,Tullamarine,272,2.1,577.81,7,5,0,1,0.01
+ORD0793,2025-09-16,Pacific Produce,Produce,Tullamarine,365,3.5,1236.3,2,2,1,12,0.12
+ORD0794,2025-07-15,ColdChain Dairy,Dairy,Dandenong,299,4.2,1193.25,1,1,0,3,0.03
+ORD0795,2025-11-09,ColdChain Dairy,Dairy,Tullamarine,356,4.2,1543.88,1,1,0,4,0.04
+ORD0796,2025-09-21,Aussie Meats,Meat,Tullamarine,238,12.0,2814.13,1,2,1,5,0.05
+ORD0797,2025-08-02,SnackHouse,Snacks,Dandenong,322,2.1,699.57,6,5,0,1,0.01
+ORD0798,2025-11-24,SnackHouse,Snacks,Tullamarine,222,2.1,450.59,4,5,1,5,0.05
+ORD0799,2025-07-22,SnackHouse,Snacks,Tullamarine,457,2.1,939.34,5,5,1,0,0.0
+ORD0800,2025-08-05,SeaFresh,Frozen,Tullamarine,441,6.5,3007.37,4,3,1,6,0.06
+ORD0801,2025-11-01,FreshFarm Co,Produce,Tullamarine,127,3.5,426.83,3,2,1,9,0.09
+ORD0802,2025-08-21,Pacific Produce,Produce,Laverton,323,3.5,1167.78,3,2,1,6,0.06
+ORD0803,2025-06-11,Pacific Produce,Produce,Tullamarine,342,3.5,1195.14,2,2,1,9,0.09
+ORD0804,2025-06-23,SeaFresh,Frozen,Dandenong,382,6.5,2526.27,4,3,1,11,0.11
+ORD0805,2025-08-02,Aussie Meats,Meat,Tullamarine,490,12.0,5865.08,1,2,1,6,0.06
+ORD0806,2025-08-30,Pacific Produce,Produce,Tullamarine,376,3.5,1307.6,4,2,0,11,0.11
+ORD0807,2025-07-17,BakeryDirect,Bakery,Tullamarine,281,2.8,808.38,1,1,1,1,0.01
+ORD0808,2025-09-20,Pacific Produce,Produce,Laverton,422,3.5,1444.32,3,2,1,10,0.1
+ORD0809,2025-09-16,VicGreens,Produce,Laverton,64,3.5,214.65,2,2,1,12,0.12
+ORD0810,2025-08-01,BakeryDirect,Bakery,Dandenong,86,2.8,244.46,1,1,0,3,0.03
+ORD0811,2025-11-19,GrocerPlus,Snacks,Laverton,298,2.1,608.89,8,5,0,3,0.03
+ORD0812,2025-10-23,ColdChain Dairy,Dairy,Laverton,361,4.2,1539.04,1,1,1,2,0.02
+ORD0813,2025-09-19,FreshFarm Co,Produce,Laverton,290,3.5,1032.21,2,2,1,9,0.09
+ORD0814,2025-08-07,FreshFarm Co,Produce,Laverton,201,3.5,700.87,4,2,0,12,0.12
+ORD0815,2025-08-27,FreshFarm Co,Produce,Tullamarine,250,3.5,911.65,1,2,1,10,0.1
+ORD0816,2025-10-08,ColdChain Dairy,Dairy,Dandenong,481,4.2,1948.07,2,1,1,3,0.03
+ORD0817,2025-06-02,FreshFarm Co,Produce,Tullamarine,168,3.5,586.03,1,2,0,3,0.03
+ORD0818,2025-08-30,Pacific Produce,Produce,Dandenong,334,3.5,1217.53,3,2,1,17,0.17
+ORD0819,2025-06-22,ColdChain Dairy,Dairy,Dandenong,413,4.2,1657.17,1,1,1,4,0.04
+ORD0820,2025-07-27,SnackHouse,Snacks,Dandenong,475,2.1,1012.64,6,5,0,4,0.04
+ORD0821,2025-06-29,SeaFresh,Frozen,Dandenong,152,6.5,1027.91,4,3,1,6,0.06
+ORD0822,2025-09-17,SeaFresh,Frozen,Laverton,410,6.5,2766.31,5,3,0,6,0.06
+ORD0823,2025-08-27,GrocerPlus,Snacks,Dandenong,53,2.1,112.18,7,5,0,4,0.04
+ORD0824,2025-07-12,DrinksCo,Beverages,Tullamarine,348,1.9,664.73,3,4,1,1,0.01
+ORD0825,2025-11-14,Pacific Produce,Produce,Dandenong,106,3.5,370.41,2,2,1,10,0.1
+ORD0826,2025-11-05,FreshFarm Co,Produce,Tullamarine,419,3.5,1398.67,2,2,1,9,0.09
+ORD0827,2025-06-09,Pacific Produce,Produce,Laverton,105,3.5,370.33,1,2,1,11,0.11
+ORD0828,2025-08-07,FreshFarm Co,Produce,Laverton,53,3.5,194.68,2,2,1,8,0.08
+ORD0829,2025-07-26,Pacific Produce,Produce,Dandenong,212,3.5,729.18,2,2,1,3,0.03
+ORD0830,2025-10-24,Aussie Meats,Meat,Dandenong,360,12.0,4383.3,2,2,1,9,0.09
+ORD0831,2025-10-29,FreshFarm Co,Produce,Laverton,116,3.5,398.33,2,2,1,4,0.04
+ORD0832,2025-09-16,VicGreens,Produce,Dandenong,397,3.5,1343.65,2,2,1,11,0.11
+ORD0833,2025-11-16,ColdChain Dairy,Dairy,Tullamarine,68,4.2,284.59,1,1,1,2,0.02
+ORD0834,2025-06-05,Pacific Produce,Produce,Tullamarine,301,3.5,1066.47,1,2,1,9,0.09
+ORD0835,2025-11-29,FreshFarm Co,Produce,Dandenong,361,3.5,1308.51,1,2,0,9,0.09
+ORD0836,2025-06-15,FreshFarm Co,Produce,Laverton,235,3.5,843.69,2,2,1,7,0.07
+ORD0837,2025-10-09,VicGreens,Produce,Laverton,64,3.5,227.15,2,2,0,7,0.07
+ORD0838,2025-10-12,Aussie Meats,Meat,Tullamarine,149,12.0,1744.42,2,2,1,7,0.07
+ORD0839,2025-07-28,FreshFarm Co,Produce,Laverton,458,3.5,1664.88,3,2,1,7,0.07
+ORD0840,2025-08-20,ColdChain Dairy,Dairy,Laverton,158,4.2,680.29,1,1,1,1,0.01
+ORD0841,2025-10-20,VicGreens,Produce,Tullamarine,310,3.5,1099.75,2,2,0,2,0.02
+ORD0842,2025-10-16,ColdChain Dairy,Dairy,Dandenong,284,4.2,1205.38,1,1,1,2,0.02
+ORD0843,2025-10-21,ColdChain Dairy,Dairy,Tullamarine,173,4.2,712.43,1,1,0,3,0.03
+ORD0844,2025-07-16,Pacific Produce,Produce,Dandenong,147,3.5,540.07,3,2,1,8,0.08
+ORD0845,2025-09-11,Pacific Produce,Produce,Dandenong,264,3.5,902.33,4,2,0,8,0.08
+ORD0846,2025-09-17,VicGreens,Produce,Tullamarine,213,3.5,709.3,3,2,1,5,0.05
+ORD0847,2025-07-02,Aussie Meats,Meat,Tullamarine,443,12.0,5525.95,1,2,1,4,0.04
+ORD0848,2025-09-19,Pacific Produce,Produce,Laverton,305,3.5,1060.14,2,2,1,8,0.08
+ORD0849,2025-08-03,FreshFarm Co,Produce,Tullamarine,74,3.5,263.49,2,2,1,11,0.11
+ORD0850,2025-07-22,FreshFarm Co,Produce,Tullamarine,294,3.5,1041.19,4,2,0,8,0.08
+ORD0851,2025-08-09,BakeryDirect,Bakery,Laverton,164,2.8,468.85,2,1,1,2,0.02
+ORD0852,2025-10-03,FreshFarm Co,Produce,Laverton,378,3.5,1356.6,2,2,1,7,0.07
+ORD0853,2025-11-08,Pacific Produce,Produce,Dandenong,273,3.5,932.73,3,2,1,10,0.1
+ORD0854,2025-09-16,Pacific Produce,Produce,Dandenong,184,3.5,670.47,4,2,0,13,0.13
+ORD0855,2025-06-20,Pacific Produce,Produce,Tullamarine,166,3.5,556.11,2,2,1,11,0.11
+ORD0856,2025-11-21,SnackHouse,Snacks,Dandenong,325,2.1,662.88,6,5,1,0,0.0
+ORD0857,2025-10-17,ColdChain Dairy,Dairy,Dandenong,247,4.2,1004.95,1,1,1,0,0.0
+ORD0858,2025-09-21,ColdChain Dairy,Dairy,Dandenong,353,4.2,1462.12,1,1,1,6,0.06
+ORD0859,2025-07-13,Pacific Produce,Produce,Dandenong,338,3.5,1175.7,3,2,0,10,0.1
+ORD0860,2025-07-17,SeaFresh,Frozen,Tullamarine,386,6.5,2449.68,3,3,1,8,0.08
+ORD0861,2025-10-25,SeaFresh,Frozen,Dandenong,364,6.5,2441.9,6,3,0,10,0.1
+ORD0862,2025-10-07,VicGreens,Produce,Tullamarine,212,3.5,731.07,1,2,1,12,0.12
+ORD0863,2025-11-24,BakeryDirect,Bakery,Dandenong,496,2.8,1421.33,1,1,1,1,0.01
+ORD0864,2025-07-28,BakeryDirect,Bakery,Dandenong,212,2.8,604.89,1,1,1,3,0.03
+ORD0865,2025-09-08,Pacific Produce,Produce,Laverton,276,3.5,975.49,3,2,0,9,0.09
+ORD0866,2025-10-31,ColdChain Dairy,Dairy,Laverton,248,4.2,1021.39,1,1,1,6,0.06
+ORD0867,2025-10-02,DrinksCo,Beverages,Tullamarine,385,1.9,695.2,4,4,1,3,0.03
+ORD0868,2025-08-08,FreshFarm Co,Produce,Tullamarine,339,3.5,1163.92,1,2,1,4,0.04
+ORD0869,2025-07-19,Aussie Meats,Meat,Tullamarine,425,12.0,5184.45,4,2,0,7,0.07
+ORD0870,2025-11-14,Aussie Meats,Meat,Tullamarine,448,12.0,5402.43,1,2,1,9,0.09
+ORD0871,2025-09-28,Pacific Produce,Produce,Laverton,479,3.5,1686.06,2,2,1,5,0.05
+ORD0872,2025-07-30,SeaFresh,Frozen,Dandenong,318,6.5,2145.77,4,3,1,10,0.1
+ORD0873,2025-07-20,FreshFarm Co,Produce,Dandenong,400,3.5,1412.65,1,2,0,7,0.07
+ORD0874,2025-06-23,SeaFresh,Frozen,Laverton,122,6.5,771.75,4,3,1,7,0.07
+ORD0875,2025-09-07,Pacific Produce,Produce,Laverton,51,3.5,182.22,2,2,1,6,0.06
+ORD0876,2025-10-05,GrocerPlus,Snacks,Tullamarine,418,2.1,838.96,7,5,0,1,0.01
+ORD0877,2025-06-30,SnackHouse,Snacks,Tullamarine,489,2.1,1038.4,5,5,1,0,0.0
+ORD0878,2025-10-30,ColdChain Dairy,Dairy,Laverton,300,4.2,1255.47,1,1,1,2,0.02
+ORD0879,2025-11-01,FreshFarm Co,Produce,Tullamarine,334,3.5,1115.74,2,2,1,10,0.1
+ORD0880,2025-06-18,ColdChain Dairy,Dairy,Tullamarine,91,4.2,386.88,1,1,1,5,0.05
+ORD0881,2025-10-13,ColdChain Dairy,Dairy,Tullamarine,412,4.2,1770.39,1,1,1,2,0.02
+ORD0882,2025-06-25,VicGreens,Produce,Tullamarine,383,3.5,1276.93,1,2,1,7,0.07
+ORD0883,2025-06-02,Pacific Produce,Produce,Dandenong,281,3.5,993.85,2,2,1,15,0.15
+ORD0884,2025-11-13,SnackHouse,Snacks,Laverton,260,2.1,518.82,6,5,1,2,0.02
+ORD0885,2025-06-11,GrocerPlus,Snacks,Laverton,313,2.1,636.42,8,5,0,1,0.01
+ORD0886,2025-06-08,GrocerPlus,Snacks,Laverton,180,2.1,393.29,7,5,0,3,0.03
+ORD0887,2025-08-01,VicGreens,Produce,Tullamarine,99,3.5,363.16,1,2,1,12,0.12
+ORD0888,2025-09-30,FreshFarm Co,Produce,Tullamarine,472,3.5,1579.87,2,2,1,7,0.07
+ORD0889,2025-08-14,ColdChain Dairy,Dairy,Tullamarine,166,4.2,670.76,1,1,1,6,0.06
+ORD0890,2025-07-25,FreshFarm Co,Produce,Tullamarine,204,3.5,679.68,1,2,1,7,0.07
+ORD0891,2025-10-14,Aussie Meats,Meat,Tullamarine,455,12.0,5375.01,3,2,1,4,0.04
+ORD0892,2025-08-08,FreshFarm Co,Produce,Laverton,434,3.5,1511.21,1,2,1,8,0.08
+ORD0893,2025-10-09,FreshFarm Co,Produce,Dandenong,154,3.5,536.73,3,2,1,10,0.1
+ORD0894,2025-06-24,Pacific Produce,Produce,Tullamarine,172,3.5,604.91,2,2,1,15,0.15
+ORD0895,2025-10-28,VicGreens,Produce,Tullamarine,256,3.5,912.05,1,2,1,10,0.1
+ORD0896,2025-09-05,SeaFresh,Frozen,Tullamarine,475,6.5,3037.17,3,3,1,6,0.06
+ORD0897,2025-10-20,SnackHouse,Snacks,Tullamarine,257,2.1,534.69,6,5,0,6,0.06
+ORD0898,2025-08-25,ColdChain Dairy,Dairy,Dandenong,325,4.2,1330.23,2,1,1,6,0.06
+ORD0899,2025-10-30,SeaFresh,Frozen,Tullamarine,129,6.5,822.29,4,3,0,9,0.09
+ORD0900,2025-07-06,FreshFarm Co,Produce,Dandenong,489,3.5,1793.29,1,2,1,3,0.03
+ORD0901,2025-09-19,DrinksCo,Beverages,Tullamarine,171,1.9,334.63,4,4,1,3,0.03
+ORD0902,2025-08-31,FreshFarm Co,Produce,Tullamarine,306,3.5,1034.32,2,2,1,10,0.1
+ORD0903,2025-06-07,SeaFresh,Frozen,Laverton,271,6.5,1776.97,3,3,1,4,0.04
+ORD0904,2025-09-26,FreshFarm Co,Produce,Tullamarine,496,3.5,1752.14,1,2,0,8,0.08
+ORD0905,2025-07-02,FreshFarm Co,Produce,Dandenong,184,3.5,647.41,2,2,1,13,0.13
+ORD0906,2025-07-05,SnackHouse,Snacks,Dandenong,230,2.1,496.07,6,5,1,3,0.03
+ORD0907,2025-07-01,FreshFarm Co,Produce,Dandenong,72,3.5,262.05,2,2,1,5,0.05
+ORD0908,2025-10-20,Aussie Meats,Meat,Tullamarine,73,12.0,836.1,1,2,1,5,0.05
+ORD0909,2025-09-23,ColdChain Dairy,Dairy,Dandenong,278,4.2,1123.05,1,1,1,1,0.01
+ORD0910,2025-08-27,Aussie Meats,Meat,Dandenong,90,12.0,1124.44,2,2,1,7,0.07
+ORD0911,2025-10-02,SeaFresh,Frozen,Tullamarine,202,6.5,1301.28,4,3,1,10,0.1
+ORD0912,2025-10-14,ColdChain Dairy,Dairy,Laverton,365,4.2,1602.09,1,1,1,4,0.04
+ORD0913,2025-07-17,DrinksCo,Beverages,Tullamarine,139,1.9,272.2,3,4,0,2,0.02
+ORD0914,2025-11-28,FreshFarm Co,Produce,Tullamarine,151,3.5,504.21,1,2,1,4,0.04
+ORD0915,2025-08-20,VicGreens,Produce,Dandenong,476,3.5,1587.51,1,2,0,4,0.04
+ORD0916,2025-06-09,Pacific Produce,Produce,Laverton,327,3.5,1187.73,2,2,1,14,0.14
+ORD0917,2025-09-15,BakeryDirect,Bakery,Tullamarine,343,2.8,922.67,1,1,0,4,0.04
+ORD0918,2025-10-16,Aussie Meats,Meat,Laverton,55,12.0,639.19,2,2,1,5,0.05
+ORD0919,2025-07-18,FreshFarm Co,Produce,Laverton,437,3.5,1592.56,1,2,1,5,0.05
+ORD0920,2025-10-05,Pacific Produce,Produce,Dandenong,288,3.5,1035.29,4,2,0,16,0.16
+ORD0921,2025-06-19,GrocerPlus,Snacks,Dandenong,464,2.1,946.67,7,5,0,2,0.02
+ORD0922,2025-06-18,SeaFresh,Frozen,Dandenong,487,6.5,3286.74,5,3,0,5,0.05
+ORD0923,2025-11-14,DrinksCo,Beverages,Dandenong,313,1.9,605.54,4,4,1,3,0.03
+ORD0924,2025-10-04,FreshFarm Co,Produce,Laverton,319,3.5,1168.26,2,2,1,5,0.05
+ORD0925,2025-10-20,Pacific Produce,Produce,Tullamarine,94,3.5,326.66,3,2,1,9,0.09
+ORD0926,2025-07-08,VicGreens,Produce,Tullamarine,478,3.5,1636.54,1,2,1,5,0.05
+ORD0927,2025-11-06,VicGreens,Produce,Laverton,426,3.5,1423.97,2,2,1,8,0.08
+ORD0928,2025-08-13,VicGreens,Produce,Laverton,193,3.5,659.8,3,2,1,9,0.09
+ORD0929,2025-10-31,FreshFarm Co,Produce,Dandenong,259,3.5,869.29,3,2,1,9,0.09
+ORD0930,2025-08-28,BakeryDirect,Bakery,Laverton,76,2.8,209.71,1,1,0,2,0.02
+ORD0931,2025-06-05,Aussie Meats,Meat,Tullamarine,444,12.0,5106.64,1,2,0,4,0.04
+ORD0932,2025-09-07,SeaFresh,Frozen,Dandenong,385,6.5,2431.72,4,3,1,5,0.05
+ORD0933,2025-06-08,DrinksCo,Beverages,Dandenong,369,1.9,721.8,4,4,1,6,0.06
+ORD0934,2025-11-27,FreshFarm Co,Produce,Laverton,204,3.5,709.21,2,2,1,9,0.09
+ORD0935,2025-06-16,BakeryDirect,Bakery,Dandenong,96,2.8,264.03,1,1,1,2,0.02
+ORD0936,2025-10-07,Pacific Produce,Produce,Laverton,443,3.5,1600.87,2,2,1,11,0.11
+ORD0937,2025-10-11,BakeryDirect,Bakery,Dandenong,188,2.8,532.57,1,1,0,3,0.03
+ORD0938,2025-06-20,FreshFarm Co,Produce,Tullamarine,203,3.5,723.07,2,2,0,6,0.06
+ORD0939,2025-07-31,VicGreens,Produce,Laverton,321,3.5,1111.31,2,2,1,7,0.07
+ORD0940,2025-11-07,FreshFarm Co,Produce,Dandenong,396,3.5,1330.83,2,2,1,6,0.06
+ORD0941,2025-08-04,FreshFarm Co,Produce,Laverton,96,3.5,339.29,1,2,1,11,0.11
+ORD0942,2025-11-02,ColdChain Dairy,Dairy,Laverton,408,4.2,1780.9,2,1,1,4,0.04
+ORD0943,2025-09-07,FreshFarm Co,Produce,Laverton,382,3.5,1298.02,2,2,1,4,0.04
+ORD0944,2025-07-15,Pacific Produce,Produce,Tullamarine,475,3.5,1728.76,2,2,1,12,0.12
+ORD0945,2025-06-07,GrocerPlus,Snacks,Dandenong,356,2.1,720.54,7,5,0,2,0.02
+ORD0946,2025-07-01,BakeryDirect,Bakery,Tullamarine,397,2.8,1089.19,1,1,1,3,0.03
+ORD0947,2025-06-30,BakeryDirect,Bakery,Laverton,484,2.8,1309.59,2,1,1,1,0.01
+ORD0948,2025-07-28,DrinksCo,Beverages,Dandenong,423,1.9,791.49,5,4,1,2,0.02
+ORD0949,2025-08-17,Pacific Produce,Produce,Tullamarine,89,3.5,301.91,3,2,0,7,0.07
+ORD0950,2025-07-12,Pacific Produce,Produce,Tullamarine,240,3.5,868.7,3,2,1,11,0.11
+ORD0951,2025-08-27,FreshFarm Co,Produce,Laverton,71,3.5,244.72,2,2,1,6,0.06
+ORD0952,2025-09-15,BakeryDirect,Bakery,Tullamarine,110,2.8,302.49,1,1,1,4,0.04
+ORD0953,2025-09-23,FreshFarm Co,Produce,Tullamarine,87,3.5,316.2,1,2,1,4,0.04
+ORD0954,2025-11-09,BakeryDirect,Bakery,Laverton,193,2.8,521.14,3,1,0,4,0.04
+ORD0955,2025-09-03,VicGreens,Produce,Laverton,385,3.5,1334.05,1,2,1,4,0.04
+ORD0956,2025-08-28,Aussie Meats,Meat,Laverton,63,12.0,771.2,3,2,1,5,0.05
+ORD0957,2025-10-06,VicGreens,Produce,Laverton,308,3.5,1080.94,3,2,1,2,0.02
+ORD0958,2025-08-29,SeaFresh,Frozen,Dandenong,338,6.5,2153.33,2,3,1,11,0.11
+ORD0959,2025-09-27,VicGreens,Produce,Dandenong,361,3.5,1202.33,2,2,1,8,0.08
+ORD0960,2025-06-27,SnackHouse,Snacks,Dandenong,499,2.1,1002.22,4,5,1,3,0.03
+ORD0961,2025-11-23,VicGreens,Produce,Dandenong,278,3.5,953.9,4,2,0,9,0.09
+ORD0962,2025-09-22,GrocerPlus,Snacks,Dandenong,231,2.1,493.21,7,5,0,2,0.02
+ORD0963,2025-07-10,Aussie Meats,Meat,Tullamarine,172,12.0,2014.81,1,2,1,9,0.09
+ORD0964,2025-06-17,SeaFresh,Frozen,Tullamarine,491,6.5,3189.87,3,3,1,7,0.07
+ORD0965,2025-10-13,BakeryDirect,Bakery,Dandenong,393,2.8,1145.87,1,1,1,1,0.01
+ORD0966,2025-08-06,ColdChain Dairy,Dairy,Tullamarine,409,4.2,1731.45,1,1,1,4,0.04
+ORD0967,2025-10-31,Aussie Meats,Meat,Laverton,261,12.0,3154.02,3,2,1,7,0.07
+ORD0968,2025-07-24,GrocerPlus,Snacks,Dandenong,225,2.1,478.65,8,5,0,3,0.03
+ORD0969,2025-07-09,SeaFresh,Frozen,Tullamarine,341,6.5,2191.98,4,3,1,10,0.1
+ORD0970,2025-09-07,Aussie Meats,Meat,Tullamarine,498,12.0,5972.45,2,2,1,7,0.07
+ORD0971,2025-07-04,VicGreens,Produce,Dandenong,110,3.5,374.04,2,2,1,6,0.06
+ORD0972,2025-07-03,VicGreens,Produce,Laverton,60,3.5,201.58,2,2,0,5,0.05
+ORD0973,2025-08-12,Pacific Produce,Produce,Tullamarine,323,3.5,1115.96,2,2,1,11,0.11
+ORD0974,2025-06-11,Pacific Produce,Produce,Tullamarine,346,3.5,1219.09,2,2,1,11,0.11
+ORD0975,2025-09-20,Pacific Produce,Produce,Laverton,310,3.5,1060.72,4,2,0,12,0.12
+ORD0976,2025-08-26,VicGreens,Produce,Laverton,360,3.5,1270.93,3,2,0,8,0.08
+ORD0977,2025-07-30,Pacific Produce,Produce,Dandenong,119,3.5,409.59,2,2,1,9,0.09
+ORD0978,2025-10-18,Aussie Meats,Meat,Tullamarine,59,12.0,724.52,2,2,1,4,0.04
+ORD0979,2025-10-29,SeaFresh,Frozen,Tullamarine,248,6.5,1607.01,4,3,1,3,0.03
+ORD0980,2025-07-15,Aussie Meats,Meat,Tullamarine,236,12.0,2739.22,2,2,1,8,0.08
+ORD0981,2025-06-25,DrinksCo,Beverages,Dandenong,319,1.9,587.29,4,4,1,3,0.03
+ORD0982,2025-10-07,Pacific Produce,Produce,Dandenong,469,3.5,1612.01,3,2,1,14,0.14
+ORD0983,2025-11-07,FreshFarm Co,Produce,Laverton,94,3.5,326.15,2,2,1,3,0.03
+ORD0984,2025-08-08,DrinksCo,Beverages,Tullamarine,77,1.9,151.49,3,4,0,2,0.02
+ORD0985,2025-11-24,BakeryDirect,Bakery,Laverton,61,2.8,175.86,1,1,1,5,0.05
+ORD0986,2025-11-03,FreshFarm Co,Produce,Tullamarine,423,3.5,1415.63,2,2,1,9,0.09
+ORD0987,2025-11-19,FreshFarm Co,Produce,Tullamarine,254,3.5,926.05,1,2,1,8,0.08
+ORD0988,2025-09-09,ColdChain Dairy,Dairy,Laverton,104,4.2,442.33,1,1,1,2,0.02
+ORD0989,2025-06-25,Aussie Meats,Meat,Tullamarine,376,12.0,4727.1,1,2,1,4,0.04
+ORD0990,2025-08-21,SeaFresh,Frozen,Tullamarine,417,6.5,2788.75,4,3,0,4,0.04
+ORD0991,2025-06-04,ColdChain Dairy,Dairy,Tullamarine,465,4.2,1885.01,1,1,1,0,0.0
+ORD0992,2025-06-29,FreshFarm Co,Produce,Tullamarine,198,3.5,693.44,2,2,1,12,0.12
+ORD0993,2025-09-18,BakeryDirect,Bakery,Laverton,71,2.8,205.8,1,1,1,4,0.04
+ORD0994,2025-11-20,ColdChain Dairy,Dairy,Tullamarine,80,4.2,345.15,1,1,1,2,0.02
+ORD0995,2025-10-20,DrinksCo,Beverages,Dandenong,101,1.9,192.02,5,4,1,0,0.0
+ORD0996,2025-11-17,GrocerPlus,Snacks,Dandenong,51,2.1,105.21,8,5,0,4,0.04
+ORD0997,2025-11-13,Aussie Meats,Meat,Tullamarine,144,12.0,1717.52,1,2,1,8,0.08
+ORD0998,2025-11-07,SnackHouse,Snacks,Dandenong,301,2.1,632.8,5,5,1,2,0.02
+ORD0999,2025-11-15,GrocerPlus,Snacks,Tullamarine,486,2.1,1021.17,6,5,1,4,0.04
+ORD1000,2025-07-07,Aussie Meats,Meat,Tullamarine,198,12.0,2272.57,1,2,1,7,0.07
+ORD1001,2025-10-10,SeaFresh,Frozen,Dandenong,171,6.5,1070.37,4,3,1,6,0.06
+ORD1002,2025-10-02,DrinksCo,Beverages,Dandenong,346,1.9,646.52,4,4,1,2,0.02
+ORD1003,2025-11-03,Aussie Meats,Meat,Dandenong,150,12.0,1854.29,2,2,1,3,0.03
+ORD1004,2025-10-12,FreshFarm Co,Produce,Tullamarine,63,3.5,218.08,2,2,1,9,0.09
+ORD1005,2025-11-28,ColdChain Dairy,Dairy,Dandenong,382,4.2,1563.0,1,1,1,6,0.06
+ORD1006,2025-09-25,VicGreens,Produce,Tullamarine,240,3.5,813.31,1,2,0,5,0.05
+ORD1007,2025-11-18,ColdChain Dairy,Dairy,Tullamarine,284,4.2,1189.52,2,1,1,4,0.04
+ORD1008,2025-06-03,BakeryDirect,Bakery,Dandenong,354,2.8,1019.88,1,1,1,1,0.01
+ORD1009,2025-07-20,Pacific Produce,Produce,Tullamarine,114,3.5,418.53,3,2,1,9,0.09
+ORD1010,2025-10-13,VicGreens,Produce,Dandenong,489,3.5,1767.5,2,2,1,5,0.05
+ORD1011,2025-07-11,FreshFarm Co,Produce,Dandenong,243,3.5,841.67,3,2,1,10,0.1
+ORD1012,2025-09-06,BakeryDirect,Bakery,Tullamarine,194,2.8,534.94,1,1,1,1,0.01
+ORD1013,2025-08-20,VicGreens,Produce,Dandenong,250,3.5,911.77,1,2,1,4,0.04
+ORD1014,2025-09-23,FreshFarm Co,Produce,Dandenong,262,3.5,900.64,2,2,1,6,0.06
+ORD1015,2025-07-18,SeaFresh,Frozen,Laverton,130,6.5,885.27,5,3,0,4,0.04
+ORD1016,2025-10-23,FreshFarm Co,Produce,Laverton,495,3.5,1761.02,2,2,1,5,0.05
+ORD1017,2025-10-10,DrinksCo,Beverages,Tullamarine,490,1.9,965.11,4,4,1,3,0.03
+ORD1018,2025-06-28,SnackHouse,Snacks,Dandenong,494,2.1,1004.23,7,5,0,3,0.03
+ORD1019,2025-06-27,Aussie Meats,Meat,Dandenong,477,12.0,5815.95,2,2,1,8,0.08
+ORD1020,2025-06-18,FreshFarm Co,Produce,Dandenong,198,3.5,690.88,1,2,1,5,0.05
+ORD1021,2025-09-07,Aussie Meats,Meat,Dandenong,103,12.0,1247.1,3,2,1,7,0.07
+ORD1022,2025-09-10,Aussie Meats,Meat,Dandenong,120,12.0,1403.19,2,2,1,5,0.05
+ORD1023,2025-08-17,Pacific Produce,Produce,Tullamarine,313,3.5,1069.07,2,2,1,6,0.06
+ORD1024,2025-06-22,FreshFarm Co,Produce,Tullamarine,466,3.5,1554.18,1,2,1,5,0.05
+ORD1025,2025-06-17,FreshFarm Co,Produce,Dandenong,346,3.5,1245.49,2,2,1,6,0.06
+ORD1026,2025-09-01,BakeryDirect,Bakery,Tullamarine,364,2.8,1045.51,1,1,1,3,0.03
+ORD1027,2025-08-09,DrinksCo,Beverages,Tullamarine,291,1.9,576.04,4,4,1,2,0.02
+ORD1028,2025-09-13,BakeryDirect,Bakery,Dandenong,304,2.8,833.61,1,1,1,3,0.03
+ORD1029,2025-11-18,VicGreens,Produce,Tullamarine,263,3.5,874.65,2,2,1,7,0.07
+ORD1030,2025-07-18,Pacific Produce,Produce,Laverton,168,3.5,583.81,2,2,1,14,0.14
+ORD1031,2025-09-24,SnackHouse,Snacks,Dandenong,111,2.1,230.05,6,5,1,3,0.03
+ORD1032,2025-06-05,VicGreens,Produce,Laverton,455,3.5,1626.56,1,2,1,10,0.1
+ORD1033,2025-06-05,VicGreens,Produce,Dandenong,61,3.5,208.17,1,2,1,6,0.06
+ORD1034,2025-08-06,SeaFresh,Frozen,Tullamarine,261,6.5,1738.12,4,3,1,5,0.05
+ORD1035,2025-09-29,VicGreens,Produce,Laverton,292,3.5,1016.96,1,2,0,9,0.09
+ORD1036,2025-10-30,VicGreens,Produce,Laverton,147,3.5,491.97,2,2,1,9,0.09
+ORD1037,2025-07-19,Pacific Produce,Produce,Tullamarine,329,3.5,1140.85,2,2,1,12,0.12
+ORD1038,2025-08-18,Pacific Produce,Produce,Dandenong,316,3.5,1096.8,4,2,0,6,0.06
+ORD1039,2025-08-25,VicGreens,Produce,Tullamarine,313,3.5,1089.24,2,2,1,7,0.07
+ORD1040,2025-10-25,Pacific Produce,Produce,Dandenong,319,3.5,1145.66,2,2,1,13,0.13
+ORD1041,2025-10-19,SnackHouse,Snacks,Dandenong,131,2.1,272.75,6,5,1,1,0.01
+ORD1042,2025-06-07,FreshFarm Co,Produce,Laverton,441,3.5,1598.61,2,2,1,7,0.07
+ORD1043,2025-07-23,Pacific Produce,Produce,Dandenong,50,3.5,169.61,3,2,1,18,0.18
+ORD1044,2025-08-17,Pacific Produce,Produce,Tullamarine,442,3.5,1585.04,3,2,1,12,0.12
+ORD1045,2025-07-14,VicGreens,Produce,Tullamarine,334,3.5,1134.57,2,2,1,8,0.08
+ORD1046,2025-09-02,DrinksCo,Beverages,Dandenong,158,1.9,301.74,5,4,0,1,0.01
+ORD1047,2025-09-01,SnackHouse,Snacks,Tullamarine,125,2.1,261.82,4,5,1,0,0.0
+ORD1048,2025-07-25,FreshFarm Co,Produce,Laverton,244,3.5,872.95,2,2,1,8,0.08
+ORD1049,2025-09-09,DrinksCo,Beverages,Tullamarine,315,1.9,622.08,3,4,1,1,0.01
+ORD1050,2025-09-14,Aussie Meats,Meat,Dandenong,62,12.0,710.99,1,2,1,7,0.07
+ORD1051,2025-11-15,Aussie Meats,Meat,Tullamarine,154,12.0,1827.66,1,2,1,7,0.07
+ORD1052,2025-08-18,Aussie Meats,Meat,Laverton,88,12.0,1075.91,3,2,1,9,0.09
+ORD1053,2025-09-05,Aussie Meats,Meat,Laverton,96,12.0,1188.62,2,2,1,8,0.08
+ORD1054,2025-11-13,ColdChain Dairy,Dairy,Tullamarine,498,4.2,2097.21,1,1,1,6,0.06
+ORD1055,2025-10-20,ColdChain Dairy,Dairy,Dandenong,254,4.2,1023.47,1,1,1,4,0.04
+ORD1056,2025-06-26,FreshFarm Co,Produce,Laverton,379,3.5,1319.31,1,2,1,6,0.06
+ORD1057,2025-06-15,Aussie Meats,Meat,Tullamarine,65,12.0,778.51,1,2,1,3,0.03
+ORD1058,2025-10-23,Pacific Produce,Produce,Dandenong,217,3.5,797.33,1,2,1,13,0.13
+ORD1059,2025-07-18,DrinksCo,Beverages,Tullamarine,222,1.9,432.73,4,4,1,2,0.02
+ORD1060,2025-08-26,DrinksCo,Beverages,Tullamarine,110,1.9,219.35,5,4,1,4,0.04
+ORD1061,2025-11-04,VicGreens,Produce,Tullamarine,377,3.5,1317.76,1,2,1,4,0.04
+ORD1062,2025-08-09,VicGreens,Produce,Laverton,261,3.5,892.62,2,2,1,9,0.09
+ORD1063,2025-06-09,Pacific Produce,Produce,Dandenong,154,3.5,544.66,3,2,1,8,0.08
+ORD1064,2025-06-20,Pacific Produce,Produce,Laverton,198,3.5,690.27,2,2,1,13,0.13
+ORD1065,2025-11-13,BakeryDirect,Bakery,Dandenong,122,2.8,340.47,1,1,1,2,0.02
+ORD1066,2025-07-22,VicGreens,Produce,Laverton,93,3.5,340.37,1,2,1,10,0.1
+ORD1067,2025-07-27,Aussie Meats,Meat,Laverton,396,12.0,4829.91,3,2,1,3,0.03
+ORD1068,2025-06-06,VicGreens,Produce,Tullamarine,476,3.5,1732.54,1,2,1,3,0.03
+ORD1069,2025-07-26,GrocerPlus,Snacks,Laverton,171,2.1,349.43,7,5,0,2,0.02
+ORD1070,2025-10-18,GrocerPlus,Snacks,Tullamarine,175,2.1,353.06,6,5,1,2,0.02
+ORD1071,2025-11-06,BakeryDirect,Bakery,Laverton,312,2.8,908.87,1,1,0,2,0.02
+ORD1072,2025-07-06,BakeryDirect,Bakery,Laverton,360,2.8,999.6,1,1,1,2,0.02
+ORD1073,2025-07-06,VicGreens,Produce,Dandenong,277,3.5,1016.21,1,2,1,6,0.06
+ORD1074,2025-08-08,DrinksCo,Beverages,Tullamarine,458,1.9,906.36,3,4,1,5,0.05
+ORD1075,2025-10-02,SeaFresh,Frozen,Tullamarine,430,6.5,2806.22,3,3,1,8,0.08
+ORD1076,2025-11-26,Pacific Produce,Produce,Tullamarine,129,3.5,471.09,3,2,1,3,0.03
+ORD1077,2025-11-05,Pacific Produce,Produce,Dandenong,125,3.5,416.78,4,2,0,10,0.1
+ORD1078,2025-08-07,FreshFarm Co,Produce,Laverton,283,3.5,957.02,2,2,1,8,0.08
+ORD1079,2025-09-09,Pacific Produce,Produce,Laverton,285,3.5,1034.0,3,2,1,13,0.13
+ORD1080,2025-07-16,ColdChain Dairy,Dairy,Tullamarine,210,4.2,884.83,1,1,1,2,0.02
+ORD1081,2025-10-02,SnackHouse,Snacks,Tullamarine,450,2.1,942.82,3,5,1,0,0.0
+ORD1082,2025-09-18,SeaFresh,Frozen,Laverton,481,6.5,3132.64,4,3,1,8,0.08
+ORD1083,2025-11-07,SnackHouse,Snacks,Tullamarine,61,2.1,130.65,5,5,1,3,0.03
+ORD1084,2025-10-30,VicGreens,Produce,Dandenong,200,3.5,686.92,1,2,1,6,0.06
+ORD1085,2025-07-24,SnackHouse,Snacks,Dandenong,81,2.1,166.49,6,5,1,3,0.03
+ORD1086,2025-10-23,FreshFarm Co,Produce,Tullamarine,132,3.5,468.78,2,2,1,14,0.14
+ORD1087,2025-08-21,ColdChain Dairy,Dairy,Tullamarine,469,4.2,1909.0,1,1,1,6,0.06
+ORD1088,2025-07-30,SnackHouse,Snacks,Dandenong,253,2.1,524.69,6,5,0,3,0.03
+ORD1089,2025-08-18,VicGreens,Produce,Dandenong,402,3.5,1441.29,2,2,1,6,0.06
+ORD1090,2025-06-12,Pacific Produce,Produce,Laverton,408,3.5,1392.26,2,2,1,11,0.11
+ORD1091,2025-09-29,BakeryDirect,Bakery,Dandenong,128,2.8,341.03,1,1,1,3,0.03
+ORD1092,2025-07-21,FreshFarm Co,Produce,Dandenong,476,3.5,1592.52,3,2,1,7,0.07
+ORD1093,2025-08-31,FreshFarm Co,Produce,Tullamarine,278,3.5,941.56,2,2,1,7,0.07
+ORD1094,2025-07-30,Aussie Meats,Meat,Tullamarine,391,12.0,4889.53,3,2,1,7,0.07
+ORD1095,2025-09-16,DrinksCo,Beverages,Dandenong,59,1.9,116.71,5,4,1,3,0.03
+ORD1096,2025-11-15,VicGreens,Produce,Laverton,334,3.5,1130.46,2,2,1,4,0.04
+ORD1097,2025-11-26,SnackHouse,Snacks,Laverton,254,2.1,511.95,7,5,0,0,0.0
+ORD1098,2025-06-05,ColdChain Dairy,Dairy,Dandenong,120,4.2,496.69,1,1,1,4,0.04
+ORD1099,2025-08-26,Pacific Produce,Produce,Tullamarine,322,3.5,1175.06,1,2,0,9,0.09
+ORD1100,2025-06-10,DrinksCo,Beverages,Tullamarine,152,1.9,292.38,4,4,1,0,0.0
+ORD1101,2025-10-10,Pacific Produce,Produce,Tullamarine,414,3.5,1387.19,4,2,0,10,0.1
+ORD1102,2025-08-22,SnackHouse,Snacks,Laverton,258,2.1,539.68,6,5,1,3,0.03
+ORD1103,2025-06-23,Pacific Produce,Produce,Tullamarine,326,3.5,1096.47,1,2,1,9,0.09
+ORD1104,2025-11-19,VicGreens,Produce,Laverton,380,3.5,1264.97,1,2,0,9,0.09
+ORD1105,2025-11-21,SeaFresh,Frozen,Tullamarine,341,6.5,2270.43,4,3,1,8,0.08
+ORD1106,2025-10-19,Aussie Meats,Meat,Tullamarine,204,12.0,2545.17,3,2,0,4,0.04
+ORD1107,2025-09-04,Aussie Meats,Meat,Laverton,268,12.0,3337.1,3,2,1,2,0.02
+ORD1108,2025-09-15,Aussie Meats,Meat,Tullamarine,101,12.0,1240.68,1,2,1,7,0.07
+ORD1109,2025-07-01,SeaFresh,Frozen,Tullamarine,472,6.5,3057.51,5,3,0,7,0.07
+ORD1110,2025-08-25,Pacific Produce,Produce,Tullamarine,184,3.5,628.11,2,2,1,9,0.09
+ORD1111,2025-11-28,ColdChain Dairy,Dairy,Dandenong,295,4.2,1291.21,1,1,1,6,0.06
+ORD1112,2025-08-06,ColdChain Dairy,Dairy,Tullamarine,109,4.2,467.33,1,1,1,2,0.02
+ORD1113,2025-07-24,FreshFarm Co,Produce,Tullamarine,233,3.5,838.21,2,2,0,9,0.09
+ORD1114,2025-11-11,FreshFarm Co,Produce,Dandenong,122,3.5,428.46,2,2,1,5,0.05
+ORD1115,2025-06-23,Pacific Produce,Produce,Tullamarine,291,3.5,983.26,3,2,1,13,0.13
+ORD1116,2025-10-17,DrinksCo,Beverages,Tullamarine,227,1.9,426.24,4,4,1,1,0.01
+ORD1117,2025-10-06,Aussie Meats,Meat,Dandenong,453,12.0,5355.37,3,2,1,7,0.07
+ORD1118,2025-11-02,VicGreens,Produce,Tullamarine,386,3.5,1368.9,1,2,0,8,0.08
+ORD1119,2025-06-06,Pacific Produce,Produce,Tullamarine,494,3.5,1799.11,3,2,1,8,0.08
+ORD1120,2025-11-23,DrinksCo,Beverages,Laverton,394,1.9,712.89,7,4,0,1,0.01
+ORD1121,2025-06-21,BakeryDirect,Bakery,Tullamarine,89,2.8,261.42,1,1,1,1,0.01
+ORD1122,2025-11-11,BakeryDirect,Bakery,Tullamarine,185,2.8,540.17,1,1,0,5,0.05
+ORD1123,2025-06-16,BakeryDirect,Bakery,Dandenong,183,2.8,509.3,1,1,1,3,0.03
+ORD1124,2025-10-04,Pacific Produce,Produce,Dandenong,466,3.5,1685.75,3,2,1,11,0.11
+ORD1125,2025-08-02,VicGreens,Produce,Tullamarine,104,3.5,363.24,1,2,1,3,0.03
+ORD1126,2025-06-13,SnackHouse,Snacks,Tullamarine,369,2.1,764.34,5,5,1,3,0.03
+ORD1127,2025-10-05,DrinksCo,Beverages,Tullamarine,87,1.9,167.25,6,4,0,1,0.01
+ORD1128,2025-09-14,SnackHouse,Snacks,Dandenong,151,2.1,313.53,6,5,1,1,0.01
+ORD1129,2025-07-26,FreshFarm Co,Produce,Tullamarine,460,3.5,1568.33,1,2,1,7,0.07
+ORD1130,2025-11-11,Aussie Meats,Meat,Tullamarine,300,12.0,3615.61,1,2,1,6,0.06
+ORD1131,2025-11-19,BakeryDirect,Bakery,Tullamarine,430,2.8,1209.64,1,1,0,3,0.03
+ORD1132,2025-10-02,SnackHouse,Snacks,Dandenong,235,2.1,501.54,6,5,1,4,0.04
+ORD1133,2025-08-27,VicGreens,Produce,Tullamarine,399,3.5,1422.88,2,2,1,6,0.06
+ORD1134,2025-09-14,FreshFarm Co,Produce,Tullamarine,218,3.5,766.77,2,2,0,13,0.13
+ORD1135,2025-10-20,Aussie Meats,Meat,Dandenong,246,12.0,3086.92,3,2,1,7,0.07
+ORD1136,2025-09-17,SeaFresh,Frozen,Laverton,161,6.5,1068.3,4,3,1,10,0.1
+ORD1137,2025-06-15,FreshFarm Co,Produce,Laverton,234,3.5,798.98,1,2,1,13,0.13
+ORD1138,2025-09-22,ColdChain Dairy,Dairy,Dandenong,246,4.2,1027.05,1,1,1,5,0.05
+ORD1139,2025-10-06,GrocerPlus,Snacks,Laverton,177,2.1,367.7,6,5,1,0,0.0
+ORD1140,2025-11-13,Pacific Produce,Produce,Laverton,248,3.5,837.49,3,2,1,13,0.13
+ORD1141,2025-10-22,VicGreens,Produce,Dandenong,137,3.5,458.89,1,2,1,9,0.09
+ORD1142,2025-07-24,ColdChain Dairy,Dairy,Dandenong,246,4.2,1070.17,1,1,1,2,0.02
+ORD1143,2025-09-21,SeaFresh,Frozen,Tullamarine,209,6.5,1338.14,4,3,1,6,0.06
+ORD1144,2025-09-17,SeaFresh,Frozen,Tullamarine,205,6.5,1375.59,3,3,1,7,0.07
+ORD1145,2025-08-17,SnackHouse,Snacks,Tullamarine,384,2.1,791.9,6,5,1,2,0.02
+ORD1146,2025-08-08,ColdChain Dairy,Dairy,Tullamarine,356,4.2,1535.74,1,1,1,3,0.03
+ORD1147,2025-09-22,Pacific Produce,Produce,Tullamarine,166,3.5,569.81,1,2,1,9,0.09
+ORD1148,2025-09-10,DrinksCo,Beverages,Laverton,353,1.9,685.66,6,4,0,0,0.0
+ORD1149,2025-11-15,ColdChain Dairy,Dairy,Tullamarine,54,4.2,227.94,1,1,1,5,0.05
+ORD1150,2025-07-02,FreshFarm Co,Produce,Dandenong,331,3.5,1131.62,2,2,1,3,0.03
+ORD1151,2025-06-01,DrinksCo,Beverages,Dandenong,121,1.9,238.01,6,4,0,1,0.01
+ORD1152,2025-09-17,Aussie Meats,Meat,Laverton,293,12.0,3691.54,2,2,1,4,0.04
+ORD1153,2025-09-01,FreshFarm Co,Produce,Tullamarine,302,3.5,1066.49,1,2,1,9,0.09
+ORD1154,2025-06-21,BakeryDirect,Bakery,Dandenong,342,2.8,910.89,1,1,1,3,0.03
+ORD1155,2025-08-05,VicGreens,Produce,Dandenong,418,3.5,1400.93,1,2,1,7,0.07
+ORD1156,2025-10-18,FreshFarm Co,Produce,Tullamarine,70,3.5,240.91,1,2,1,8,0.08
+ORD1157,2025-08-01,Pacific Produce,Produce,Dandenong,401,3.5,1425.56,2,2,1,13,0.13
+ORD1158,2025-10-29,GrocerPlus,Snacks,Laverton,403,2.1,813.61,8,5,0,1,0.01
+ORD1159,2025-06-14,ColdChain Dairy,Dairy,Tullamarine,319,4.2,1281.05,2,1,1,3,0.03
+ORD1160,2025-09-11,SnackHouse,Snacks,Dandenong,462,2.1,932.81,6,5,1,2,0.02
+ORD1161,2025-11-18,Pacific Produce,Produce,Laverton,69,3.5,250.49,2,2,1,12,0.12
+ORD1162,2025-09-11,FreshFarm Co,Produce,Dandenong,468,3.5,1687.72,1,2,1,7,0.07
+ORD1163,2025-10-19,VicGreens,Produce,Dandenong,275,3.5,960.78,2,2,1,8,0.08
+ORD1164,2025-09-28,VicGreens,Produce,Tullamarine,250,3.5,902.97,1,2,0,8,0.08
+ORD1165,2025-10-16,ColdChain Dairy,Dairy,Dandenong,84,4.2,368.76,1,1,1,3,0.03
+ORD1166,2025-10-08,VicGreens,Produce,Tullamarine,457,3.5,1542.95,3,2,1,5,0.05
+ORD1167,2025-11-29,ColdChain Dairy,Dairy,Tullamarine,170,4.2,749.61,1,1,1,1,0.01
+ORD1168,2025-08-30,SeaFresh,Frozen,Tullamarine,199,6.5,1340.45,4,3,1,8,0.08
+ORD1169,2025-09-17,Pacific Produce,Produce,Laverton,235,3.5,803.07,4,2,0,9,0.09
+ORD1170,2025-11-03,VicGreens,Produce,Dandenong,301,3.5,1017.83,1,2,1,6,0.06
+ORD1171,2025-08-26,Pacific Produce,Produce,Tullamarine,136,3.5,491.89,1,2,1,7,0.07
+ORD1172,2025-07-27,FreshFarm Co,Produce,Tullamarine,295,3.5,1074.08,1,2,1,7,0.07
+ORD1173,2025-06-27,Aussie Meats,Meat,Tullamarine,465,12.0,5571.91,1,2,1,7,0.07
+ORD1174,2025-08-21,Aussie Meats,Meat,Tullamarine,384,12.0,4391.08,2,2,1,6,0.06
+ORD1175,2025-11-05,SeaFresh,Frozen,Laverton,365,6.5,2439.22,4,3,1,1,0.01
+ORD1176,2025-09-14,BakeryDirect,Bakery,Dandenong,370,2.8,1014.6,1,1,1,4,0.04
+ORD1177,2025-06-02,SeaFresh,Frozen,Dandenong,263,6.5,1789.89,4,3,1,4,0.04
+ORD1178,2025-06-22,BakeryDirect,Bakery,Dandenong,244,2.8,690.06,1,1,1,5,0.05
+ORD1179,2025-07-29,VicGreens,Produce,Dandenong,134,3.5,457.3,1,2,1,7,0.07
+ORD1180,2025-11-03,Aussie Meats,Meat,Dandenong,72,12.0,865.3,2,2,1,2,0.02
+ORD1181,2025-07-12,GrocerPlus,Snacks,Tullamarine,181,2.1,366.52,8,5,0,2,0.02
+ORD1182,2025-09-07,FreshFarm Co,Produce,Laverton,337,3.5,1152.54,1,2,1,4,0.04
+ORD1183,2025-07-22,DrinksCo,Beverages,Tullamarine,127,1.9,230.12,4,4,1,3,0.03
+ORD1184,2025-10-13,SeaFresh,Frozen,Tullamarine,193,6.5,1302.92,3,3,1,5,0.05
+ORD1185,2025-06-09,DrinksCo,Beverages,Tullamarine,255,1.9,502.3,4,4,1,1,0.01
+ORD1186,2025-09-24,BakeryDirect,Bakery,Dandenong,161,2.8,451.75,1,1,1,0,0.0
+ORD1187,2025-08-04,ColdChain Dairy,Dairy,Tullamarine,250,4.2,1060.46,1,1,0,2,0.02
+ORD1188,2025-09-09,SeaFresh,Frozen,Laverton,407,6.5,2681.85,5,3,0,15,0.15
+ORD1189,2025-07-09,Aussie Meats,Meat,Dandenong,422,12.0,4918.64,2,2,1,1,0.01
+ORD1190,2025-06-15,Aussie Meats,Meat,Tullamarine,128,12.0,1556.58,1,2,0,7,0.07
+ORD1191,2025-09-15,VicGreens,Produce,Tullamarine,116,3.5,392.44,1,2,1,7,0.07
+ORD1192,2025-10-26,Aussie Meats,Meat,Tullamarine,133,12.0,1630.59,1,2,1,8,0.08
+ORD1193,2025-09-23,SnackHouse,Snacks,Laverton,104,2.1,224.49,6,5,1,1,0.01
+ORD1194,2025-11-07,FreshFarm Co,Produce,Dandenong,67,3.5,238.34,1,2,0,10,0.1
+ORD1195,2025-07-01,SeaFresh,Frozen,Laverton,256,6.5,1635.73,4,3,0,7,0.07
+ORD1196,2025-06-23,VicGreens,Produce,Tullamarine,351,3.5,1269.74,1,2,0,7,0.07
+ORD1197,2025-11-14,Pacific Produce,Produce,Dandenong,231,3.5,810.56,3,2,1,8,0.08
+ORD1198,2025-06-18,VicGreens,Produce,Tullamarine,439,3.5,1474.21,4,2,0,11,0.11
+ORD1199,2025-06-20,ColdChain Dairy,Dairy,Dandenong,159,4.2,693.07,1,1,1,2,0.02
