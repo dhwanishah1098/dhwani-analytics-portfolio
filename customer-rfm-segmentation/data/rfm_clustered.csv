@@ -1,0 +1,1001 @@
+customer_id,recency,frequency,monetary,cluster,label
+C0001,25,25,6822.97,1,Champion
+C0002,28,10,2066.36,0,Lost / Inactive
+C0003,285,6,897.91,0,Lost / Inactive
+C0004,4,27,5315.48,1,Champion
+C0005,23,11,1134.0,0,Lost / Inactive
+C0006,19,19,4014.34,1,Champion
+C0007,73,13,2796.9,0,Lost / Inactive
+C0008,270,4,656.06,0,Lost / Inactive
+C0009,70,12,2263.27,0,Lost / Inactive
+C0010,70,6,672.64,0,Lost / Inactive
+C0011,28,17,5140.98,1,Champion
+C0012,674,3,170.54,0,Lost / Inactive
+C0013,8,23,5825.63,1,Champion
+C0014,18,14,1370.35,0,Lost / Inactive
+C0015,31,7,523.71,0,Lost / Inactive
+C0016,334,3,220.13,0,Lost / Inactive
+C0017,266,7,798.82,0,Lost / Inactive
+C0018,541,1,48.69,0,Lost / Inactive
+C0019,244,9,948.57,0,Lost / Inactive
+C0020,34,5,446.93,0,Lost / Inactive
+C0021,83,3,253.38,0,Lost / Inactive
+C0022,179,5,891.48,0,Lost / Inactive
+C0023,29,9,1739.22,0,Lost / Inactive
+C0024,471,1,55.78,0,Lost / Inactive
+C0025,423,2,125.22,0,Lost / Inactive
+C0026,225,6,736.63,0,Lost / Inactive
+C0027,111,4,332.73,0,Lost / Inactive
+C0028,66,10,2222.97,0,Lost / Inactive
+C0029,24,11,1372.68,0,Lost / Inactive
+C0030,87,12,1540.01,0,Lost / Inactive
+C0031,24,7,1060.86,0,Lost / Inactive
+C0032,61,4,423.02,0,Lost / Inactive
+C0033,96,6,449.15,0,Lost / Inactive
+C0034,30,7,1056.69,0,Lost / Inactive
+C0035,240,6,953.55,0,Lost / Inactive
+C0036,228,8,1378.49,0,Lost / Inactive
+C0037,383,3,93.65,0,Lost / Inactive
+C0038,51,8,1206.39,0,Lost / Inactive
+C0039,156,9,1111.98,0,Lost / Inactive
+C0040,198,7,1030.08,0,Lost / Inactive
+C0041,48,5,323.93,0,Lost / Inactive
+C0042,61,4,446.62,0,Lost / Inactive
+C0043,650,1,38.77,0,Lost / Inactive
+C0044,127,5,829.71,0,Lost / Inactive
+C0045,278,1,101.0,0,Lost / Inactive
+C0046,36,6,471.71,0,Lost / Inactive
+C0047,474,1,58.83,0,Lost / Inactive
+C0048,673,1,58.49,0,Lost / Inactive
+C0049,143,4,918.24,0,Lost / Inactive
+C0050,283,2,154.11,0,Lost / Inactive
+C0051,274,6,716.41,0,Lost / Inactive
+C0052,39,5,450.56,0,Lost / Inactive
+C0053,79,6,914.57,0,Lost / Inactive
+C0054,337,3,188.83,0,Lost / Inactive
+C0055,18,25,7558.01,1,Champion
+C0056,43,3,254.52,0,Lost / Inactive
+C0057,44,9,1662.31,0,Lost / Inactive
+C0058,52,4,282.85,0,Lost / Inactive
+C0059,406,1,121.21,0,Lost / Inactive
+C0060,23,13,2099.0,0,Lost / Inactive
+C0061,547,1,83.13,0,Lost / Inactive
+C0062,277,6,1059.65,0,Lost / Inactive
+C0063,189,4,769.63,0,Lost / Inactive
+C0064,27,14,1901.26,0,Lost / Inactive
+C0065,587,2,124.82,0,Lost / Inactive
+C0066,69,7,634.51,0,Lost / Inactive
+C0067,241,7,613.3,0,Lost / Inactive
+C0068,84,7,784.46,0,Lost / Inactive
+C0069,285,2,104.32,0,Lost / Inactive
+C0070,225,9,957.58,0,Lost / Inactive
+C0071,28,8,1436.04,0,Lost / Inactive
+C0072,18,6,1038.74,0,Lost / Inactive
+C0073,599,3,145.3,0,Lost / Inactive
+C0074,97,4,287.18,0,Lost / Inactive
+C0075,118,5,444.95,0,Lost / Inactive
+C0076,7,27,9934.05,1,Champion
+C0077,127,5,469.35,0,Lost / Inactive
+C0078,609,3,187.9,0,Lost / Inactive
+C0079,725,3,198.03,0,Lost / Inactive
+C0080,42,7,891.16,0,Lost / Inactive
+C0081,352,1,32.87,0,Lost / Inactive
+C0082,17,13,2621.52,0,Lost / Inactive
+C0083,90,5,484.77,0,Lost / Inactive
+C0084,70,7,565.85,0,Lost / Inactive
+C0085,49,4,326.6,0,Lost / Inactive
+C0086,101,7,618.37,0,Lost / Inactive
+C0087,75,3,395.73,0,Lost / Inactive
+C0088,39,3,246.97,0,Lost / Inactive
+C0089,584,2,86.05,0,Lost / Inactive
+C0090,42,9,1154.9,0,Lost / Inactive
+C0091,36,12,1589.69,0,Lost / Inactive
+C0092,331,3,195.56,0,Lost / Inactive
+C0093,62,10,1629.58,0,Lost / Inactive
+C0094,235,4,369.29,0,Lost / Inactive
+C0095,674,1,49.1,0,Lost / Inactive
+C0096,9,29,4996.58,1,Champion
+C0097,254,7,1009.29,0,Lost / Inactive
+C0098,22,15,3860.86,1,Champion
+C0099,108,6,508.94,0,Lost / Inactive
+C0100,66,5,279.9,0,Lost / Inactive
+C0101,193,5,828.29,0,Lost / Inactive
+C0102,168,5,755.01,0,Lost / Inactive
+C0103,1,27,5939.84,1,Champion
+C0104,9,26,4636.55,1,Champion
+C0105,284,4,582.31,0,Lost / Inactive
+C0106,163,6,681.41,0,Lost / Inactive
+C0107,27,10,2071.58,0,Lost / Inactive
+C0108,220,5,743.88,0,Lost / Inactive
+C0109,27,11,1788.02,0,Lost / Inactive
+C0110,79,6,623.1,0,Lost / Inactive
+C0111,394,2,114.12,0,Lost / Inactive
+C0112,690,3,256.85,0,Lost / Inactive
+C0113,221,5,488.73,0,Lost / Inactive
+C0114,40,3,163.79,0,Lost / Inactive
+C0115,579,2,116.51,0,Lost / Inactive
+C0116,256,5,704.36,0,Lost / Inactive
+C0117,3,21,7409.54,1,Champion
+C0118,204,5,541.2,0,Lost / Inactive
+C0119,109,3,529.2,0,Lost / Inactive
+C0120,67,5,522.62,0,Lost / Inactive
+C0121,104,6,813.27,0,Lost / Inactive
+C0122,60,7,503.64,0,Lost / Inactive
+C0123,26,11,1929.66,0,Lost / Inactive
+C0124,293,7,805.09,0,Lost / Inactive
+C0125,236,4,291.43,0,Lost / Inactive
+C0126,17,8,1555.15,0,Lost / Inactive
+C0127,274,7,777.61,0,Lost / Inactive
+C0128,141,8,661.63,0,Lost / Inactive
+C0129,123,4,652.2,0,Lost / Inactive
+C0130,46,9,1456.04,0,Lost / Inactive
+C0131,49,8,894.32,0,Lost / Inactive
+C0132,49,8,1256.18,0,Lost / Inactive
+C0133,337,2,80.49,0,Lost / Inactive
+C0134,420,2,144.96,0,Lost / Inactive
+C0135,129,6,868.26,0,Lost / Inactive
+C0136,17,19,7439.51,1,Champion
+C0137,10,27,8447.44,1,Champion
+C0138,116,7,980.16,0,Lost / Inactive
+C0139,22,19,5115.7,1,Champion
+C0140,44,6,538.41,0,Lost / Inactive
+C0141,41,13,3191.09,0,Lost / Inactive
+C0142,11,24,7101.58,1,Champion
+C0143,69,9,1731.3,0,Lost / Inactive
+C0144,57,11,1206.04,0,Lost / Inactive
+C0145,282,9,1093.14,0,Lost / Inactive
+C0146,73,11,1548.62,0,Lost / Inactive
+C0147,40,7,740.26,0,Lost / Inactive
+C0148,63,8,1373.99,0,Lost / Inactive
+C0149,9,16,2961.67,1,Champion
+C0150,24,23,8215.47,1,Champion
+C0151,86,9,1968.64,0,Lost / Inactive
+C0152,38,6,792.51,0,Lost / Inactive
+C0153,18,27,6183.37,1,Champion
+C0154,255,8,1058.84,0,Lost / Inactive
+C0155,42,4,447.21,0,Lost / Inactive
+C0156,35,7,837.44,0,Lost / Inactive
+C0157,293,1,92.6,0,Lost / Inactive
+C0158,85,7,1469.02,0,Lost / Inactive
+C0159,89,10,1524.55,0,Lost / Inactive
+C0160,83,12,1820.61,0,Lost / Inactive
+C0161,297,8,1134.76,0,Lost / Inactive
+C0162,63,8,1384.49,0,Lost / Inactive
+C0163,45,12,2345.38,0,Lost / Inactive
+C0164,647,1,51.02,0,Lost / Inactive
+C0165,33,4,450.93,0,Lost / Inactive
+C0166,122,7,478.4,0,Lost / Inactive
+C0167,424,1,50.12,0,Lost / Inactive
+C0168,40,14,3701.55,1,Champion
+C0169,66,7,552.49,0,Lost / Inactive
+C0170,9,27,6876.38,1,Champion
+C0171,347,1,28.99,0,Lost / Inactive
+C0172,471,2,126.66,0,Lost / Inactive
+C0173,205,7,983.75,0,Lost / Inactive
+C0174,54,8,1453.51,0,Lost / Inactive
+C0175,562,1,10.0,0,Lost / Inactive
+C0176,11,15,4259.22,1,Champion
+C0177,98,7,874.9,0,Lost / Inactive
+C0178,311,1,49.37,0,Lost / Inactive
+C0179,62,7,1143.44,0,Lost / Inactive
+C0180,265,9,737.88,0,Lost / Inactive
+C0181,393,2,97.61,0,Lost / Inactive
+C0182,242,7,1032.4,0,Lost / Inactive
+C0183,68,7,980.3,0,Lost / Inactive
+C0184,255,1,32.68,0,Lost / Inactive
+C0185,65,3,186.85,0,Lost / Inactive
+C0186,481,2,162.91,0,Lost / Inactive
+C0187,14,28,6662.48,1,Champion
+C0188,464,1,49.52,0,Lost / Inactive
+C0189,130,9,1305.28,0,Lost / Inactive
+C0190,12,28,8304.72,1,Champion
+C0191,253,4,410.86,0,Lost / Inactive
+C0192,84,7,1135.51,0,Lost / Inactive
+C0193,99,5,509.41,0,Lost / Inactive
+C0194,41,5,693.2,0,Lost / Inactive
+C0195,1,13,4276.05,1,Champion
+C0196,585,3,265.82,0,Lost / Inactive
+C0197,376,3,187.06,0,Lost / Inactive
+C0198,33,6,856.45,0,Lost / Inactive
+C0199,72,6,399.9,0,Lost / Inactive
+C0200,181,4,666.89,0,Lost / Inactive
+C0201,52,5,487.98,0,Lost / Inactive
+C0202,30,5,413.86,0,Lost / Inactive
+C0203,101,4,411.15,0,Lost / Inactive
+C0204,87,13,1584.55,0,Lost / Inactive
+C0205,320,1,44.74,0,Lost / Inactive
+C0206,56,3,368.09,0,Lost / Inactive
+C0207,14,27,9071.08,1,Champion
+C0208,6,12,4368.94,1,Champion
+C0209,95,3,251.61,0,Lost / Inactive
+C0210,24,24,9697.51,1,Champion
+C0211,269,6,750.48,0,Lost / Inactive
+C0212,4,21,4374.6,1,Champion
+C0213,3,23,9154.34,1,Champion
+C0214,16,23,7464.69,1,Champion
+C0215,478,3,105.1,0,Lost / Inactive
+C0216,188,4,483.79,0,Lost / Inactive
+C0217,624,2,163.17,0,Lost / Inactive
+C0218,675,2,195.06,0,Lost / Inactive
+C0219,49,7,799.55,0,Lost / Inactive
+C0220,84,5,573.93,0,Lost / Inactive
+C0221,99,7,560.97,0,Lost / Inactive
+C0222,45,7,1383.68,0,Lost / Inactive
+C0223,74,5,519.4,0,Lost / Inactive
+C0224,60,10,1949.98,0,Lost / Inactive
+C0225,14,20,5118.43,1,Champion
+C0226,126,7,1074.43,0,Lost / Inactive
+C0227,288,8,1336.11,0,Lost / Inactive
+C0228,8,26,7401.0,1,Champion
+C0229,68,11,1436.27,0,Lost / Inactive
+C0230,47,12,2004.04,0,Lost / Inactive
+C0231,237,8,730.6,0,Lost / Inactive
+C0232,115,3,276.09,0,Lost / Inactive
+C0233,31,7,671.83,0,Lost / Inactive
+C0234,79,9,1294.17,0,Lost / Inactive
+C0235,182,8,1174.66,0,Lost / Inactive
+C0236,399,1,27.95,0,Lost / Inactive
+C0237,348,3,132.72,0,Lost / Inactive
+C0238,7,13,4313.1,1,Champion
+C0239,79,6,772.07,0,Lost / Inactive
+C0240,18,23,4757.03,1,Champion
+C0241,517,2,117.3,0,Lost / Inactive
+C0242,241,9,977.15,0,Lost / Inactive
+C0243,67,4,502.72,0,Lost / Inactive
+C0244,46,14,2092.64,0,Lost / Inactive
+C0245,23,25,6416.25,1,Champion
+C0246,315,1,79.03,0,Lost / Inactive
+C0247,365,1,66.19,0,Lost / Inactive
+C0248,434,3,132.5,0,Lost / Inactive
+C0249,671,2,123.29,0,Lost / Inactive
+C0250,13,18,5155.94,1,Champion
+C0251,686,3,114.22,0,Lost / Inactive
+C0252,24,14,2845.64,0,Lost / Inactive
+C0253,568,2,96.58,0,Lost / Inactive
+C0254,239,5,719.68,0,Lost / Inactive
+C0255,470,1,48.52,0,Lost / Inactive
+C0256,133,7,729.16,0,Lost / Inactive
+C0257,453,3,245.25,0,Lost / Inactive
+C0258,253,5,496.48,0,Lost / Inactive
+C0259,519,2,85.77,0,Lost / Inactive
+C0260,8,20,4495.59,1,Champion
+C0261,224,4,679.65,0,Lost / Inactive
+C0262,481,3,136.94,0,Lost / Inactive
+C0263,534,3,148.11,0,Lost / Inactive
+C0264,12,22,8582.27,1,Champion
+C0265,114,3,235.98,0,Lost / Inactive
+C0266,37,5,446.3,0,Lost / Inactive
+C0267,80,11,1257.41,0,Lost / Inactive
+C0268,92,7,525.62,0,Lost / Inactive
+C0269,335,2,157.86,0,Lost / Inactive
+C0270,531,2,152.86,0,Lost / Inactive
+C0271,226,6,1123.77,0,Lost / Inactive
+C0272,390,3,142.66,0,Lost / Inactive
+C0273,29,16,5582.47,1,Champion
+C0274,70,3,376.32,0,Lost / Inactive
+C0275,28,20,7409.87,1,Champion
+C0276,72,13,1591.69,0,Lost / Inactive
+C0277,94,6,850.57,0,Lost / Inactive
+C0278,154,5,835.22,0,Lost / Inactive
+C0279,20,11,1634.37,0,Lost / Inactive
+C0280,211,8,1463.07,0,Lost / Inactive
+C0281,380,2,138.33,0,Lost / Inactive
+C0282,269,8,645.61,0,Lost / Inactive
+C0283,108,6,741.37,0,Lost / Inactive
+C0284,217,6,517.84,0,Lost / Inactive
+C0285,78,8,1091.76,0,Lost / Inactive
+C0286,234,4,573.57,0,Lost / Inactive
+C0287,287,9,1010.8,0,Lost / Inactive
+C0288,12,27,8678.0,1,Champion
+C0289,10,16,6413.08,1,Champion
+C0290,15,7,1285.9,0,Lost / Inactive
+C0291,479,3,226.55,0,Lost / Inactive
+C0292,49,6,603.8,0,Lost / Inactive
+C0293,421,2,131.89,0,Lost / Inactive
+C0294,53,11,1473.5,0,Lost / Inactive
+C0295,77,12,1455.65,0,Lost / Inactive
+C0296,458,2,178.71,0,Lost / Inactive
+C0297,75,6,470.41,0,Lost / Inactive
+C0298,73,4,473.06,0,Lost / Inactive
+C0299,226,6,729.0,0,Lost / Inactive
+C0300,43,8,1265.32,0,Lost / Inactive
+C0301,10,25,9712.44,1,Champion
+C0302,85,4,332.88,0,Lost / Inactive
+C0303,71,6,915.03,0,Lost / Inactive
+C0304,66,3,295.51,0,Lost / Inactive
+C0305,68,13,2753.38,0,Lost / Inactive
+C0306,152,8,1394.39,0,Lost / Inactive
+C0307,54,7,762.71,0,Lost / Inactive
+C0308,389,3,184.49,0,Lost / Inactive
+C0309,62,4,403.89,0,Lost / Inactive
+C0310,21,13,2366.6,0,Lost / Inactive
+C0311,111,5,392.22,0,Lost / Inactive
+C0312,176,6,676.03,0,Lost / Inactive
+C0313,584,3,220.41,0,Lost / Inactive
+C0314,88,14,2747.55,0,Lost / Inactive
+C0315,21,16,3813.98,1,Champion
+C0316,68,4,578.04,0,Lost / Inactive
+C0317,290,7,1454.13,0,Lost / Inactive
+C0318,276,7,1061.46,0,Lost / Inactive
+C0319,127,4,461.51,0,Lost / Inactive
+C0320,105,3,160.05,0,Lost / Inactive
+C0321,55,6,943.83,0,Lost / Inactive
+C0322,132,9,717.86,0,Lost / Inactive
+C0323,273,8,988.13,0,Lost / Inactive
+C0324,272,8,858.67,0,Lost / Inactive
+C0325,19,24,9176.89,1,Champion
+C0326,80,14,1691.9,0,Lost / Inactive
+C0327,110,4,437.81,0,Lost / Inactive
+C0328,81,8,1536.34,0,Lost / Inactive
+C0329,52,9,1732.22,0,Lost / Inactive
+C0330,156,4,354.55,0,Lost / Inactive
+C0331,17,27,5419.37,1,Champion
+C0332,82,6,685.22,0,Lost / Inactive
+C0333,8,18,6167.1,1,Champion
+C0334,17,8,1614.7,0,Lost / Inactive
+C0335,390,3,90.98,0,Lost / Inactive
+C0336,685,2,91.16,0,Lost / Inactive
+C0337,92,5,349.24,0,Lost / Inactive
+C0338,1,21,6225.58,1,Champion
+C0339,719,3,302.97,0,Lost / Inactive
+C0340,564,3,118.75,0,Lost / Inactive
+C0341,119,6,535.96,0,Lost / Inactive
+C0342,26,24,9560.7,1,Champion
+C0343,12,28,8613.23,1,Champion
+C0344,461,1,20.02,0,Lost / Inactive
+C0345,8,19,3702.11,1,Champion
+C0346,108,5,539.79,0,Lost / Inactive
+C0347,45,7,1325.35,0,Lost / Inactive
+C0348,26,7,667.43,0,Lost / Inactive
+C0349,18,24,6490.41,1,Champion
+C0350,21,16,4221.19,1,Champion
+C0351,83,13,1703.66,0,Lost / Inactive
+C0352,164,8,967.51,0,Lost / Inactive
+C0353,69,7,870.36,0,Lost / Inactive
+C0354,129,8,1075.17,0,Lost / Inactive
+C0355,118,4,541.85,0,Lost / Inactive
+C0356,198,6,540.19,0,Lost / Inactive
+C0357,74,13,2532.42,0,Lost / Inactive
+C0358,60,9,1395.03,0,Lost / Inactive
+C0359,304,1,70.46,0,Lost / Inactive
+C0360,519,1,71.4,0,Lost / Inactive
+C0361,112,3,222.78,0,Lost / Inactive
+C0362,542,3,117.85,0,Lost / Inactive
+C0363,336,1,44.8,0,Lost / Inactive
+C0364,300,1,22.58,0,Lost / Inactive
+C0365,106,6,640.68,0,Lost / Inactive
+C0366,4,24,5521.65,1,Champion
+C0367,281,6,653.75,0,Lost / Inactive
+C0368,417,3,157.17,0,Lost / Inactive
+C0369,60,5,380.29,0,Lost / Inactive
+C0370,72,4,595.3,0,Lost / Inactive
+C0371,21,17,7000.97,1,Champion
+C0372,85,12,2435.25,0,Lost / Inactive
+C0373,22,25,8958.39,1,Champion
+C0374,405,2,75.73,0,Lost / Inactive
+C0375,494,3,282.54,0,Lost / Inactive
+C0376,407,3,118.6,0,Lost / Inactive
+C0377,152,7,840.41,0,Lost / Inactive
+C0378,103,6,458.98,0,Lost / Inactive
+C0379,73,4,438.11,0,Lost / Inactive
+C0380,84,6,1383.91,0,Lost / Inactive
+C0381,277,9,1582.26,0,Lost / Inactive
+C0382,14,12,4811.13,1,Champion
+C0383,397,1,36.55,0,Lost / Inactive
+C0384,105,3,334.56,0,Lost / Inactive
+C0385,23,9,1271.25,0,Lost / Inactive
+C0386,244,8,749.76,0,Lost / Inactive
+C0387,100,4,326.39,0,Lost / Inactive
+C0388,728,3,208.69,0,Lost / Inactive
+C0389,60,3,307.2,0,Lost / Inactive
+C0390,618,3,247.8,0,Lost / Inactive
+C0391,32,5,650.31,0,Lost / Inactive
+C0392,644,2,82.21,0,Lost / Inactive
+C0393,83,8,1490.22,0,Lost / Inactive
+C0394,46,11,1892.53,0,Lost / Inactive
+C0395,570,3,144.44,0,Lost / Inactive
+C0396,455,3,100.39,0,Lost / Inactive
+C0397,54,10,1557.86,0,Lost / Inactive
+C0398,143,5,426.66,0,Lost / Inactive
+C0399,54,3,350.64,0,Lost / Inactive
+C0400,7,23,7019.94,1,Champion
+C0401,254,4,480.14,0,Lost / Inactive
+C0402,269,2,105.26,0,Lost / Inactive
+C0403,600,3,170.02,0,Lost / Inactive
+C0404,145,6,878.83,0,Lost / Inactive
+C0405,49,6,442.64,0,Lost / Inactive
+C0406,26,12,3896.07,1,Champion
+C0407,44,12,2068.52,0,Lost / Inactive
+C0408,263,7,726.4,0,Lost / Inactive
+C0409,112,5,355.25,0,Lost / Inactive
+C0410,628,1,68.31,0,Lost / Inactive
+C0411,555,1,76.71,0,Lost / Inactive
+C0412,366,3,141.46,0,Lost / Inactive
+C0413,279,6,1281.73,0,Lost / Inactive
+C0414,22,7,1211.97,0,Lost / Inactive
+C0415,193,9,1513.98,0,Lost / Inactive
+C0416,36,5,385.83,0,Lost / Inactive
+C0417,179,5,630.77,0,Lost / Inactive
+C0418,51,4,539.58,0,Lost / Inactive
+C0419,91,4,508.74,0,Lost / Inactive
+C0420,184,5,814.86,0,Lost / Inactive
+C0421,82,10,2341.87,0,Lost / Inactive
+C0422,710,2,82.78,0,Lost / Inactive
+C0423,720,1,132.05,0,Lost / Inactive
+C0424,50,6,697.92,0,Lost / Inactive
+C0425,105,7,689.46,0,Lost / Inactive
+C0426,93,6,656.22,0,Lost / Inactive
+C0427,208,4,693.57,0,Lost / Inactive
+C0428,101,3,441.01,0,Lost / Inactive
+C0429,2,20,5833.41,1,Champion
+C0430,1,25,7806.32,1,Champion
+C0431,121,8,973.07,0,Lost / Inactive
+C0432,51,6,466.97,0,Lost / Inactive
+C0433,149,4,393.75,0,Lost / Inactive
+C0434,179,4,384.81,0,Lost / Inactive
+C0435,249,4,728.53,0,Lost / Inactive
+C0436,18,13,1726.52,0,Lost / Inactive
+C0437,432,2,150.05,0,Lost / Inactive
+C0438,491,2,66.67,0,Lost / Inactive
+C0439,25,7,662.42,0,Lost / Inactive
+C0440,42,11,1378.15,0,Lost / Inactive
+C0441,65,13,2060.34,0,Lost / Inactive
+C0442,57,5,320.87,0,Lost / Inactive
+C0443,547,1,49.19,0,Lost / Inactive
+C0444,259,4,350.24,0,Lost / Inactive
+C0445,17,8,928.24,0,Lost / Inactive
+C0446,347,3,233.14,0,Lost / Inactive
+C0447,268,9,1326.45,0,Lost / Inactive
+C0448,117,5,575.91,0,Lost / Inactive
+C0449,94,4,303.72,0,Lost / Inactive
+C0450,266,9,1223.33,0,Lost / Inactive
+C0451,346,1,62.37,0,Lost / Inactive
+C0452,205,7,1035.1,0,Lost / Inactive
+C0453,11,14,3426.86,1,Champion
+C0454,4,26,10035.19,1,Champion
+C0455,200,6,697.7,0,Lost / Inactive
+C0456,73,14,1842.23,0,Lost / Inactive
+C0457,16,28,7638.54,1,Champion
+C0458,50,7,1470.75,0,Lost / Inactive
+C0459,135,5,631.62,0,Lost / Inactive
+C0460,649,2,134.44,0,Lost / Inactive
+C0461,428,3,202.46,0,Lost / Inactive
+C0462,22,13,2861.16,0,Lost / Inactive
+C0463,216,6,851.96,0,Lost / Inactive
+C0464,63,7,744.72,0,Lost / Inactive
+C0465,95,4,486.29,0,Lost / Inactive
+C0466,106,7,608.36,0,Lost / Inactive
+C0467,104,7,683.46,0,Lost / Inactive
+C0468,31,6,1135.75,0,Lost / Inactive
+C0469,160,9,1513.8,0,Lost / Inactive
+C0470,103,4,332.41,0,Lost / Inactive
+C0471,72,13,2015.9,0,Lost / Inactive
+C0472,58,10,1889.58,0,Lost / Inactive
+C0473,676,2,110.15,0,Lost / Inactive
+C0474,108,6,652.89,0,Lost / Inactive
+C0475,54,5,374.2,0,Lost / Inactive
+C0476,87,3,211.65,0,Lost / Inactive
+C0477,267,7,1069.61,0,Lost / Inactive
+C0478,60,14,1465.96,0,Lost / Inactive
+C0479,13,24,5194.87,1,Champion
+C0480,271,3,186.73,0,Lost / Inactive
+C0481,644,2,92.53,0,Lost / Inactive
+C0482,36,11,2258.1,0,Lost / Inactive
+C0483,140,9,1430.02,0,Lost / Inactive
+C0484,63,10,1216.34,0,Lost / Inactive
+C0485,100,6,387.53,0,Lost / Inactive
+C0486,336,3,118.12,0,Lost / Inactive
+C0487,198,8,1336.49,0,Lost / Inactive
+C0488,578,1,64.87,0,Lost / Inactive
+C0489,61,10,2171.09,0,Lost / Inactive
+C0490,48,7,1006.27,0,Lost / Inactive
+C0491,44,7,1667.95,0,Lost / Inactive
+C0492,683,1,33.42,0,Lost / Inactive
+C0493,6,18,5532.74,1,Champion
+C0494,504,3,284.02,0,Lost / Inactive
+C0495,294,6,1164.81,0,Lost / Inactive
+C0496,495,2,201.04,0,Lost / Inactive
+C0497,315,2,73.12,0,Lost / Inactive
+C0498,41,9,1595.8,0,Lost / Inactive
+C0499,76,4,426.4,0,Lost / Inactive
+C0500,210,7,824.75,0,Lost / Inactive
+C0501,702,1,76.55,0,Lost / Inactive
+C0502,126,8,1053.4,0,Lost / Inactive
+C0503,58,6,777.6,0,Lost / Inactive
+C0504,233,6,681.35,0,Lost / Inactive
+C0505,9,20,7848.23,1,Champion
+C0506,41,4,581.29,0,Lost / Inactive
+C0507,184,7,1402.42,0,Lost / Inactive
+C0508,79,11,2341.59,0,Lost / Inactive
+C0509,115,4,372.41,0,Lost / Inactive
+C0510,554,1,55.53,0,Lost / Inactive
+C0511,563,2,139.89,0,Lost / Inactive
+C0512,13,15,6004.84,1,Champion
+C0513,318,1,95.35,0,Lost / Inactive
+C0514,37,4,449.3,0,Lost / Inactive
+C0515,46,4,487.36,0,Lost / Inactive
+C0516,204,5,316.16,0,Lost / Inactive
+C0517,116,6,833.64,0,Lost / Inactive
+C0518,104,3,326.37,0,Lost / Inactive
+C0519,86,4,497.67,0,Lost / Inactive
+C0520,43,7,1763.85,0,Lost / Inactive
+C0521,48,6,770.16,0,Lost / Inactive
+C0522,502,2,78.5,0,Lost / Inactive
+C0523,135,7,596.98,0,Lost / Inactive
+C0524,619,3,150.85,0,Lost / Inactive
+C0525,77,7,656.92,0,Lost / Inactive
+C0526,591,2,119.38,0,Lost / Inactive
+C0527,100,7,467.86,0,Lost / Inactive
+C0528,55,13,1456.2,0,Lost / Inactive
+C0529,266,4,379.5,0,Lost / Inactive
+C0530,26,14,1444.04,0,Lost / Inactive
+C0531,37,3,324.94,0,Lost / Inactive
+C0532,82,4,374.59,0,Lost / Inactive
+C0533,19,15,3020.16,1,Champion
+C0534,165,8,689.64,0,Lost / Inactive
+C0535,22,7,1347.4,0,Lost / Inactive
+C0536,14,28,5083.89,1,Champion
+C0537,39,10,1708.98,0,Lost / Inactive
+C0538,103,7,652.96,0,Lost / Inactive
+C0539,62,6,785.08,0,Lost / Inactive
+C0540,248,7,1010.7,0,Lost / Inactive
+C0541,2,28,10345.85,1,Champion
+C0542,470,3,134.85,0,Lost / Inactive
+C0543,246,8,1242.32,0,Lost / Inactive
+C0544,215,6,547.11,0,Lost / Inactive
+C0545,13,19,7718.69,1,Champion
+C0546,23,26,7826.44,1,Champion
+C0547,678,1,100.64,0,Lost / Inactive
+C0548,56,6,1172.44,0,Lost / Inactive
+C0549,75,7,1747.42,0,Lost / Inactive
+C0550,69,6,701.37,0,Lost / Inactive
+C0551,22,10,1769.16,0,Lost / Inactive
+C0552,139,7,1227.5,0,Lost / Inactive
+C0553,210,9,1559.67,0,Lost / Inactive
+C0554,578,3,143.64,0,Lost / Inactive
+C0555,16,28,5340.05,1,Champion
+C0556,245,9,1276.4,0,Lost / Inactive
+C0557,63,6,664.64,0,Lost / Inactive
+C0558,34,14,3221.8,1,Champion
+C0559,621,1,33.46,0,Lost / Inactive
+C0560,96,5,603.44,0,Lost / Inactive
+C0561,18,28,4963.78,1,Champion
+C0562,52,8,835.27,0,Lost / Inactive
+C0563,358,1,121.87,0,Lost / Inactive
+C0564,279,2,99.67,0,Lost / Inactive
+C0565,129,4,647.28,0,Lost / Inactive
+C0566,315,3,179.8,0,Lost / Inactive
+C0567,19,8,1832.05,0,Lost / Inactive
+C0568,189,6,633.2,0,Lost / Inactive
+C0569,629,3,190.97,0,Lost / Inactive
+C0570,67,6,629.79,0,Lost / Inactive
+C0571,14,24,8188.82,1,Champion
+C0572,462,2,107.72,0,Lost / Inactive
+C0573,506,2,95.24,0,Lost / Inactive
+C0574,84,13,1478.39,0,Lost / Inactive
+C0575,118,6,373.35,0,Lost / Inactive
+C0576,274,5,662.46,0,Lost / Inactive
+C0577,178,9,954.45,0,Lost / Inactive
+C0578,228,8,991.44,0,Lost / Inactive
+C0579,90,6,732.18,0,Lost / Inactive
+C0580,9,24,9519.37,1,Champion
+C0581,275,1,48.58,0,Lost / Inactive
+C0582,172,4,507.96,0,Lost / Inactive
+C0583,265,1,90.95,0,Lost / Inactive
+C0584,57,11,2119.75,0,Lost / Inactive
+C0585,47,7,625.83,0,Lost / Inactive
+C0586,550,3,362.98,0,Lost / Inactive
+C0587,27,25,8436.21,1,Champion
+C0588,88,6,1152.28,0,Lost / Inactive
+C0589,79,12,2022.22,0,Lost / Inactive
+C0590,15,16,4752.29,1,Champion
+C0591,2,19,5671.97,1,Champion
+C0592,184,6,1499.07,0,Lost / Inactive
+C0593,256,1,93.75,0,Lost / Inactive
+C0594,205,5,861.05,0,Lost / Inactive
+C0595,601,3,242.31,0,Lost / Inactive
+C0596,14,17,4518.75,1,Champion
+C0597,177,4,583.98,0,Lost / Inactive
+C0598,232,4,494.64,0,Lost / Inactive
+C0599,24,27,9452.51,1,Champion
+C0600,32,7,818.89,0,Lost / Inactive
+C0601,52,14,2205.2,0,Lost / Inactive
+C0602,219,8,988.3,0,Lost / Inactive
+C0603,82,7,1206.19,0,Lost / Inactive
+C0604,18,12,1956.94,0,Lost / Inactive
+C0605,69,5,284.23,0,Lost / Inactive
+C0606,631,1,51.51,0,Lost / Inactive
+C0607,73,6,460.23,0,Lost / Inactive
+C0608,39,10,1463.63,0,Lost / Inactive
+C0609,692,3,260.21,0,Lost / Inactive
+C0610,18,7,964.17,0,Lost / Inactive
+C0611,84,7,780.2,0,Lost / Inactive
+C0612,70,3,303.86,0,Lost / Inactive
+C0613,93,4,433.46,0,Lost / Inactive
+C0614,118,5,399.14,0,Lost / Inactive
+C0615,75,10,1656.65,0,Lost / Inactive
+C0616,10,25,4558.77,1,Champion
+C0617,70,8,1213.34,0,Lost / Inactive
+C0618,286,2,197.85,0,Lost / Inactive
+C0619,254,9,1640.86,0,Lost / Inactive
+C0620,54,9,1170.71,0,Lost / Inactive
+C0621,37,9,1000.82,0,Lost / Inactive
+C0622,24,16,5122.34,1,Champion
+C0623,4,23,4383.8,1,Champion
+C0624,131,7,1116.59,0,Lost / Inactive
+C0625,46,6,512.47,0,Lost / Inactive
+C0626,496,2,63.03,0,Lost / Inactive
+C0627,50,7,767.76,0,Lost / Inactive
+C0628,460,3,110.71,0,Lost / Inactive
+C0629,41,6,659.0,0,Lost / Inactive
+C0630,12,28,5166.84,1,Champion
+C0631,20,14,4805.13,1,Champion
+C0632,46,11,1207.84,0,Lost / Inactive
+C0633,339,2,141.09,0,Lost / Inactive
+C0634,49,6,427.06,0,Lost / Inactive
+C0635,12,13,4548.47,1,Champion
+C0636,58,13,2711.6,0,Lost / Inactive
+C0637,25,18,6628.17,1,Champion
+C0638,105,4,352.92,0,Lost / Inactive
+C0639,371,2,139.3,0,Lost / Inactive
+C0640,73,7,1022.23,0,Lost / Inactive
+C0641,153,7,618.23,0,Lost / Inactive
+C0642,85,6,711.07,0,Lost / Inactive
+C0643,168,9,1509.46,0,Lost / Inactive
+C0644,628,3,310.78,0,Lost / Inactive
+C0645,55,12,2571.19,0,Lost / Inactive
+C0646,19,29,7961.53,1,Champion
+C0647,35,14,2548.12,0,Lost / Inactive
+C0648,14,14,3897.13,1,Champion
+C0649,236,5,731.03,0,Lost / Inactive
+C0650,428,1,33.31,0,Lost / Inactive
+C0651,35,12,2138.57,0,Lost / Inactive
+C0652,3,21,6972.0,1,Champion
+C0653,103,4,353.44,0,Lost / Inactive
+C0654,44,6,598.99,0,Lost / Inactive
+C0655,7,26,6048.25,1,Champion
+C0656,97,6,296.83,0,Lost / Inactive
+C0657,16,21,4079.73,1,Champion
+C0658,649,3,112.2,0,Lost / Inactive
+C0659,648,3,151.41,0,Lost / Inactive
+C0660,39,10,1132.85,0,Lost / Inactive
+C0661,13,23,6797.67,1,Champion
+C0662,18,12,2353.61,0,Lost / Inactive
+C0663,62,5,350.24,0,Lost / Inactive
+C0664,18,14,2942.78,0,Lost / Inactive
+C0665,24,28,10012.96,1,Champion
+C0666,87,8,1118.47,0,Lost / Inactive
+C0667,46,5,509.56,0,Lost / Inactive
+C0668,39,3,195.09,0,Lost / Inactive
+C0669,91,4,305.4,0,Lost / Inactive
+C0670,43,14,2003.94,0,Lost / Inactive
+C0671,499,1,33.52,0,Lost / Inactive
+C0672,127,5,892.59,0,Lost / Inactive
+C0673,277,3,148.04,0,Lost / Inactive
+C0674,383,1,71.02,0,Lost / Inactive
+C0675,113,7,783.63,0,Lost / Inactive
+C0676,568,2,127.24,0,Lost / Inactive
+C0677,74,8,1077.83,0,Lost / Inactive
+C0678,7,22,6606.92,1,Champion
+C0679,15,22,5108.16,1,Champion
+C0680,91,3,249.22,0,Lost / Inactive
+C0681,44,4,274.09,0,Lost / Inactive
+C0682,73,10,1017.27,0,Lost / Inactive
+C0683,86,4,582.06,0,Lost / Inactive
+C0684,85,7,499.65,0,Lost / Inactive
+C0685,15,14,2034.33,0,Lost / Inactive
+C0686,38,6,1072.42,0,Lost / Inactive
+C0687,292,5,851.51,0,Lost / Inactive
+C0688,22,12,4349.25,1,Champion
+C0689,224,5,845.35,0,Lost / Inactive
+C0690,31,8,1360.86,0,Lost / Inactive
+C0691,89,8,1249.82,0,Lost / Inactive
+C0692,12,21,7033.03,1,Champion
+C0693,24,14,2520.02,0,Lost / Inactive
+C0694,6,23,4512.01,1,Champion
+C0695,55,10,1143.68,0,Lost / Inactive
+C0696,80,3,276.0,0,Lost / Inactive
+C0697,292,3,270.12,0,Lost / Inactive
+C0698,115,5,710.04,0,Lost / Inactive
+C0699,19,29,6280.77,1,Champion
+C0700,719,1,79.62,0,Lost / Inactive
+C0701,54,3,363.84,0,Lost / Inactive
+C0702,88,4,630.97,0,Lost / Inactive
+C0703,61,7,715.26,0,Lost / Inactive
+C0704,174,7,520.67,0,Lost / Inactive
+C0705,125,7,625.64,0,Lost / Inactive
+C0706,218,9,1326.07,0,Lost / Inactive
+C0707,378,2,143.61,0,Lost / Inactive
+C0708,84,5,494.51,0,Lost / Inactive
+C0709,23,24,5919.68,1,Champion
+C0710,72,8,1657.86,0,Lost / Inactive
+C0711,618,1,81.37,0,Lost / Inactive
+C0712,97,6,777.4,0,Lost / Inactive
+C0713,27,20,6810.04,1,Champion
+C0714,317,2,207.42,0,Lost / Inactive
+C0715,65,4,433.14,0,Lost / Inactive
+C0716,103,3,268.26,0,Lost / Inactive
+C0717,2,19,4637.93,1,Champion
+C0718,27,7,699.56,0,Lost / Inactive
+C0719,83,7,828.72,0,Lost / Inactive
+C0720,527,2,45.14,0,Lost / Inactive
+C0721,550,1,30.65,0,Lost / Inactive
+C0722,343,3,149.47,0,Lost / Inactive
+C0723,90,3,283.41,0,Lost / Inactive
+C0724,111,3,235.98,0,Lost / Inactive
+C0725,12,20,5354.61,1,Champion
+C0726,64,7,840.06,0,Lost / Inactive
+C0727,101,7,1050.27,0,Lost / Inactive
+C0728,206,7,896.08,0,Lost / Inactive
+C0729,54,7,789.62,0,Lost / Inactive
+C0730,93,6,434.05,0,Lost / Inactive
+C0731,60,3,245.86,0,Lost / Inactive
+C0732,30,6,1270.92,0,Lost / Inactive
+C0733,236,5,524.81,0,Lost / Inactive
+C0734,82,13,1810.3,0,Lost / Inactive
+C0735,421,2,126.05,0,Lost / Inactive
+C0736,71,13,1766.25,0,Lost / Inactive
+C0737,110,4,225.78,0,Lost / Inactive
+C0738,50,11,1387.34,0,Lost / Inactive
+C0739,101,6,506.76,0,Lost / Inactive
+C0740,41,7,862.44,0,Lost / Inactive
+C0741,63,8,1180.7,0,Lost / Inactive
+C0742,53,7,1430.43,0,Lost / Inactive
+C0743,85,3,274.92,0,Lost / Inactive
+C0744,90,6,355.39,0,Lost / Inactive
+C0745,15,29,5483.19,1,Champion
+C0746,356,2,206.73,0,Lost / Inactive
+C0747,49,12,2095.67,0,Lost / Inactive
+C0748,35,13,2766.36,0,Lost / Inactive
+C0749,60,8,1555.19,0,Lost / Inactive
+C0750,65,10,1698.21,0,Lost / Inactive
+C0751,171,4,467.92,0,Lost / Inactive
+C0752,293,5,986.62,0,Lost / Inactive
+C0753,81,14,1585.89,0,Lost / Inactive
+C0754,73,3,312.98,0,Lost / Inactive
+C0755,6,24,5911.65,1,Champion
+C0756,48,6,589.54,0,Lost / Inactive
+C0757,119,7,759.12,0,Lost / Inactive
+C0758,77,6,651.86,0,Lost / Inactive
+C0759,430,2,52.27,0,Lost / Inactive
+C0760,16,19,7260.8,1,Champion
+C0761,26,20,6100.35,1,Champion
+C0762,104,3,262.5,0,Lost / Inactive
+C0763,578,2,187.36,0,Lost / Inactive
+C0764,53,9,1084.46,0,Lost / Inactive
+C0765,107,6,602.07,0,Lost / Inactive
+C0766,66,6,600.2,0,Lost / Inactive
+C0767,65,13,1784.21,0,Lost / Inactive
+C0768,548,1,82.52,0,Lost / Inactive
+C0769,59,7,416.4,0,Lost / Inactive
+C0770,439,1,59.57,0,Lost / Inactive
+C0771,9,19,7678.56,1,Champion
+C0772,173,7,1125.43,0,Lost / Inactive
+C0773,595,1,52.24,0,Lost / Inactive
+C0774,474,2,103.29,0,Lost / Inactive
+C0775,40,6,740.25,0,Lost / Inactive
+C0776,103,6,625.37,0,Lost / Inactive
+C0777,347,3,212.39,0,Lost / Inactive
+C0778,75,7,1352.38,0,Lost / Inactive
+C0779,40,7,614.32,0,Lost / Inactive
+C0780,55,6,1150.59,0,Lost / Inactive
+C0781,82,4,350.95,0,Lost / Inactive
+C0782,9,12,3824.03,1,Champion
+C0783,16,14,3128.82,1,Champion
+C0784,222,9,1513.12,0,Lost / Inactive
+C0785,101,3,458.51,0,Lost / Inactive
+C0786,278,9,981.79,0,Lost / Inactive
+C0787,289,7,901.82,0,Lost / Inactive
+C0788,437,2,174.62,0,Lost / Inactive
+C0789,58,7,599.56,0,Lost / Inactive
+C0790,47,9,851.35,0,Lost / Inactive
+C0791,72,12,1337.62,0,Lost / Inactive
+C0792,46,6,473.24,0,Lost / Inactive
+C0793,110,5,492.69,0,Lost / Inactive
+C0794,37,14,2585.05,0,Lost / Inactive
+C0795,52,6,404.37,0,Lost / Inactive
+C0796,36,9,978.77,0,Lost / Inactive
+C0797,141,8,667.93,0,Lost / Inactive
+C0798,12,14,4363.62,1,Champion
+C0799,632,1,57.41,0,Lost / Inactive
+C0800,20,11,1296.26,0,Lost / Inactive
+C0801,61,4,335.2,0,Lost / Inactive
+C0802,102,3,313.5,0,Lost / Inactive
+C0803,549,1,42.28,0,Lost / Inactive
+C0804,57,9,1084.67,0,Lost / Inactive
+C0805,103,4,460.07,0,Lost / Inactive
+C0806,133,6,854.92,0,Lost / Inactive
+C0807,14,27,10682.32,1,Champion
+C0808,75,6,429.76,0,Lost / Inactive
+C0809,47,5,587.84,0,Lost / Inactive
+C0810,270,5,901.5,0,Lost / Inactive
+C0811,530,2,94.65,0,Lost / Inactive
+C0812,134,4,413.97,0,Lost / Inactive
+C0813,720,3,169.15,0,Lost / Inactive
+C0814,245,9,1422.03,0,Lost / Inactive
+C0815,108,5,454.01,0,Lost / Inactive
+C0816,80,3,375.02,0,Lost / Inactive
+C0817,94,3,268.68,0,Lost / Inactive
+C0818,18,12,2632.68,0,Lost / Inactive
+C0819,48,14,1450.86,0,Lost / Inactive
+C0820,174,9,945.15,0,Lost / Inactive
+C0821,59,3,299.16,0,Lost / Inactive
+C0822,283,9,1039.72,0,Lost / Inactive
+C0823,3,24,6571.03,1,Champion
+C0824,68,5,438.17,0,Lost / Inactive
+C0825,59,4,516.88,0,Lost / Inactive
+C0826,81,9,884.25,0,Lost / Inactive
+C0827,57,8,1322.76,0,Lost / Inactive
+C0828,117,6,635.62,0,Lost / Inactive
+C0829,82,11,1322.87,0,Lost / Inactive
+C0830,49,7,637.02,0,Lost / Inactive
+C0831,400,3,220.77,0,Lost / Inactive
+C0832,24,17,5223.24,1,Champion
+C0833,7,15,5091.07,1,Champion
+C0834,598,1,48.22,0,Lost / Inactive
+C0835,16,11,1681.45,0,Lost / Inactive
+C0836,244,5,628.88,0,Lost / Inactive
+C0837,722,2,96.72,0,Lost / Inactive
+C0838,484,1,80.0,0,Lost / Inactive
+C0839,52,4,457.39,0,Lost / Inactive
+C0840,18,12,2287.82,0,Lost / Inactive
+C0841,657,1,83.78,0,Lost / Inactive
+C0842,114,7,778.84,0,Lost / Inactive
+C0843,53,5,299.62,0,Lost / Inactive
+C0844,77,6,1036.72,0,Lost / Inactive
+C0845,58,10,1176.75,0,Lost / Inactive
+C0846,185,6,1040.81,0,Lost / Inactive
+C0847,296,6,924.0,0,Lost / Inactive
+C0848,726,1,51.45,0,Lost / Inactive
+C0849,92,7,677.96,0,Lost / Inactive
+C0850,80,5,337.22,0,Lost / Inactive
+C0851,617,3,188.39,0,Lost / Inactive
+C0852,35,8,1833.02,0,Lost / Inactive
+C0853,61,10,1266.73,0,Lost / Inactive
+C0854,27,14,3825.93,1,Champion
+C0855,23,22,4685.69,1,Champion
+C0856,107,7,645.65,0,Lost / Inactive
+C0857,564,1,39.7,0,Lost / Inactive
+C0858,116,7,861.1,0,Lost / Inactive
+C0859,97,6,518.18,0,Lost / Inactive
+C0860,135,4,618.6,0,Lost / Inactive
+C0861,53,6,667.86,0,Lost / Inactive
+C0862,559,3,175.48,0,Lost / Inactive
+C0863,76,7,1344.79,0,Lost / Inactive
+C0864,69,10,1412.22,0,Lost / Inactive
+C0865,106,3,236.4,0,Lost / Inactive
+C0866,47,4,318.57,0,Lost / Inactive
+C0867,656,2,134.26,0,Lost / Inactive
+C0868,291,5,547.87,0,Lost / Inactive
+C0869,267,4,576.86,0,Lost / Inactive
+C0870,78,14,1945.28,0,Lost / Inactive
+C0871,12,29,11018.13,1,Champion
+C0872,72,5,326.8,0,Lost / Inactive
+C0873,80,7,922.48,0,Lost / Inactive
+C0874,89,14,2827.23,0,Lost / Inactive
+C0875,9,25,10361.05,1,Champion
+C0876,33,7,742.57,0,Lost / Inactive
+C0877,277,8,663.3,0,Lost / Inactive
+C0878,623,1,91.97,0,Lost / Inactive
+C0879,330,3,293.75,0,Lost / Inactive
+C0880,16,9,1800.99,0,Lost / Inactive
+C0881,48,10,1647.41,0,Lost / Inactive
+C0882,645,2,146.6,0,Lost / Inactive
+C0883,622,1,50.41,0,Lost / Inactive
+C0884,79,9,1487.1,0,Lost / Inactive
+C0885,22,12,2114.71,0,Lost / Inactive
+C0886,103,5,461.58,0,Lost / Inactive
+C0887,1,13,3038.27,0,Lost / Inactive
+C0888,44,10,1957.92,0,Lost / Inactive
+C0889,32,4,216.95,0,Lost / Inactive
+C0890,358,1,33.93,0,Lost / Inactive
+C0891,26,17,4100.62,1,Champion
+C0892,277,9,769.41,0,Lost / Inactive
+C0893,67,5,281.83,0,Lost / Inactive
+C0894,222,9,548.4,0,Lost / Inactive
+C0895,78,3,238.22,0,Lost / Inactive
+C0896,49,5,582.21,0,Lost / Inactive
+C0897,25,22,5189.76,1,Champion
+C0898,181,7,620.91,0,Lost / Inactive
+C0899,702,1,48.83,0,Lost / Inactive
+C0900,463,1,78.07,0,Lost / Inactive
+C0901,95,6,455.93,0,Lost / Inactive
+C0902,234,7,1299.61,0,Lost / Inactive
+C0903,269,9,956.89,0,Lost / Inactive
+C0904,32,4,338.95,0,Lost / Inactive
+C0905,17,13,4739.29,1,Champion
+C0906,703,3,219.53,0,Lost / Inactive
+C0907,226,8,1199.28,0,Lost / Inactive
+C0908,227,5,429.01,0,Lost / Inactive
+C0909,23,14,3004.48,0,Lost / Inactive
+C0910,44,12,1122.58,0,Lost / Inactive
+C0911,38,9,1496.55,0,Lost / Inactive
+C0912,38,13,2013.59,0,Lost / Inactive
+C0913,22,25,8857.6,1,Champion
+C0914,195,5,574.47,0,Lost / Inactive
+C0915,278,2,131.82,0,Lost / Inactive
+C0916,19,16,5715.71,1,Champion
+C0917,623,2,123.16,0,Lost / Inactive
+C0918,58,6,745.96,0,Lost / Inactive
+C0919,117,3,350.88,0,Lost / Inactive
+C0920,57,3,169.08,0,Lost / Inactive
+C0921,190,5,600.77,0,Lost / Inactive
+C0922,585,3,119.86,0,Lost / Inactive
+C0923,27,27,7129.52,1,Champion
+C0924,655,3,227.93,0,Lost / Inactive
+C0925,77,5,534.09,0,Lost / Inactive
+C0926,632,3,243.07,0,Lost / Inactive
+C0927,39,5,416.2,0,Lost / Inactive
+C0928,277,6,744.83,0,Lost / Inactive
+C0929,80,11,1848.62,0,Lost / Inactive
+C0930,115,6,428.59,0,Lost / Inactive
+C0931,35,5,357.83,0,Lost / Inactive
+C0932,54,13,2430.94,0,Lost / Inactive
+C0933,207,5,604.35,0,Lost / Inactive
+C0934,185,9,1306.58,0,Lost / Inactive
+C0935,35,6,980.85,0,Lost / Inactive
+C0936,267,6,683.85,0,Lost / Inactive
+C0937,79,6,357.6,0,Lost / Inactive
+C0938,176,4,441.75,0,Lost / Inactive
+C0939,65,6,760.74,0,Lost / Inactive
+C0940,17,26,5414.07,1,Champion
+C0941,430,2,144.24,0,Lost / Inactive
+C0942,722,1,54.98,0,Lost / Inactive
+C0943,64,14,2010.03,0,Lost / Inactive
+C0944,43,10,1631.25,0,Lost / Inactive
+C0945,27,27,5100.53,1,Champion
+C0946,173,4,485.06,0,Lost / Inactive
+C0947,557,3,107.06,0,Lost / Inactive
+C0948,429,1,89.1,0,Lost / Inactive
+C0949,163,4,557.85,0,Lost / Inactive
+C0950,40,5,267.77,0,Lost / Inactive
+C0951,302,2,120.57,0,Lost / Inactive
+C0952,247,5,663.81,0,Lost / Inactive
+C0953,39,4,340.09,0,Lost / Inactive
+C0954,209,4,564.48,0,Lost / Inactive
+C0955,532,3,158.06,0,Lost / Inactive
+C0956,231,9,1489.68,0,Lost / Inactive
+C0957,293,3,111.59,0,Lost / Inactive
+C0958,11,19,6919.65,1,Champion
+C0959,57,7,1562.14,0,Lost / Inactive
+C0960,1,22,7392.08,1,Champion
+C0961,633,2,214.26,0,Lost / Inactive
+C0962,93,4,419.91,0,Lost / Inactive
+C0963,52,12,1780.05,0,Lost / Inactive
+C0964,13,20,7297.86,1,Champion
+C0965,577,1,70.99,0,Lost / Inactive
+C0966,34,4,387.66,0,Lost / Inactive
+C0967,22,28,6200.97,1,Champion
+C0968,3,28,10605.06,1,Champion
+C0969,440,3,163.84,0,Lost / Inactive
+C0970,102,6,377.04,0,Lost / Inactive
+C0971,92,6,626.8,0,Lost / Inactive
+C0972,359,2,116.39,0,Lost / Inactive
+C0973,190,7,1018.53,0,Lost / Inactive
+C0974,324,3,296.86,0,Lost / Inactive
+C0975,181,7,969.13,0,Lost / Inactive
+C0976,216,5,758.54,0,Lost / Inactive
+C0977,10,22,8589.09,1,Champion
+C0978,279,9,1321.5,0,Lost / Inactive
+C0979,335,1,57.16,0,Lost / Inactive
+C0980,497,2,95.43,0,Lost / Inactive
+C0981,32,7,818.83,0,Lost / Inactive
+C0982,728,1,90.44,0,Lost / Inactive
+C0983,490,1,27.5,0,Lost / Inactive
+C0984,91,7,787.3,0,Lost / Inactive
+C0985,21,8,1097.23,0,Lost / Inactive
+C0986,78,7,763.59,0,Lost / Inactive
+C0987,244,4,829.22,0,Lost / Inactive
+C0988,85,10,1876.86,0,Lost / Inactive
+C0989,45,3,392.43,0,Lost / Inactive
+C0990,654,1,74.34,0,Lost / Inactive
+C0991,16,24,9121.3,1,Champion
+C0992,103,6,406.81,0,Lost / Inactive
+C0993,10,19,4379.04,1,Champion
+C0994,110,5,407.53,0,Lost / Inactive
+C0995,28,27,9155.59,1,Champion
+C0996,18,18,4028.95,1,Champion
+C0997,77,6,542.02,0,Lost / Inactive
+C0998,419,1,56.73,0,Lost / Inactive
+C0999,287,8,1301.72,0,Lost / Inactive
+C1000,303,1,28.56,0,Lost / Inactive

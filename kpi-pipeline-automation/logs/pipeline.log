@@ -1,0 +1,6 @@
+2026-07-04 05:49:56,820 INFO [EXTRACT] 2,262 rows from 15 files
+2026-07-04 05:49:56,829 INFO [TRANSFORM] Clean records: 2,262
+2026-07-04 05:49:56,841 INFO [LOAD] Written to /root/portfolio/09_kpi_automation_pipeline/data/output/kpi_report_20260704.csv
+2026-07-04 05:58:24,124 INFO [EXTRACT] 2,262 rows from 15 files
+2026-07-04 05:58:24,132 INFO [TRANSFORM] Clean records: 2,262
+2026-07-04 05:58:24,144 INFO [LOAD] Written to /root/portfolio/09_kpi_automation_pipeline/data/output/kpi_report_20260704.csv
